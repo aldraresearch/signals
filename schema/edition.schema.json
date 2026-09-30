@@ -1,0 +1,207 @@
+{
+  "$id": "https://github.com/aldraresearch/signals/blob/main/schema/edition.schema.json",
+  "title": "Aldra Signal Check public edition",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "type": "number",
+      "const": 1
+    },
+    "product": {
+      "type": "string",
+      "enum": [
+        "GLOBAL",
+        "LATAM"
+      ]
+    },
+    "date": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "kind": {
+      "type": "string",
+      "enum": [
+        "full",
+        "partial",
+        "fallback",
+        "quiet"
+      ]
+    },
+    "topic": {
+      "type": "string",
+      "enum": [
+        "policy",
+        "markets",
+        "geopolitics",
+        "technology",
+        "energy"
+      ]
+    },
+    "published_at": {
+      "type": "string",
+      "format": "date-time",
+      "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))T(?:(?:[01]\\d|2[0-3]):[0-5]\\d:[0-5]\\d(?:\\.\\d+)?(?:Z|([+-](?:[01]\\d|2[0-3]):[0-5]\\d)))$"
+    },
+    "web_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "headline": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        },
+        "es": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "en",
+        "es"
+      ],
+      "additionalProperties": false
+    },
+    "summary": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        },
+        "es": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "en",
+        "es"
+      ],
+      "additionalProperties": false
+    },
+    "stories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "CONFIRMED",
+              "CLAIM"
+            ]
+          },
+          "heading": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string",
+                "minLength": 1
+              },
+              "es": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "en",
+              "es"
+            ],
+            "additionalProperties": false
+          },
+          "text": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string",
+                "minLength": 1
+              },
+              "es": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "en",
+              "es"
+            ],
+            "additionalProperties": false
+          },
+          "analysis": {
+            "anyOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "en": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "es": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "en",
+                  "es"
+                ],
+                "additionalProperties": false
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "sources": {
+            "minItems": 1,
+            "type": "array",
+            "items": {
+              "type": "string",
+              "format": "uri"
+            }
+          }
+        },
+        "required": [
+          "id",
+          "status",
+          "heading",
+          "text",
+          "analysis",
+          "sources"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "content_hash": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "license": {
+      "type": "string",
+      "const": "CC-BY-4.0"
+    }
+  },
+  "required": [
+    "schema_version",
+    "product",
+    "date",
+    "kind",
+    "topic",
+    "published_at",
+    "web_url",
+    "headline",
+    "summary",
+    "stories",
+    "content_hash",
+    "license"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,176 @@
+{
+  "schema_version": 2,
+  "product": "LATAM",
+  "date": "2026-10-11",
+  "kind": "partial",
+  "sectors": [
+    "logistics",
+    "infrastructure",
+    "energy"
+  ],
+  "themes": [
+    "weather_climate",
+    "regulation"
+  ],
+  "published_at": "2026-10-11T07:59:08.788Z",
+  "web_url": "https://aldraresearch.com/sitreps/latam-2026-10-11",
+  "headline": {
+    "en": "Rodrigo Lara activates 90-day plan for prior consultations. El Tiempo: Panama declares emergency after 7.7 earthquake.",
+    "es": "Rodrigo Lara activa plan de 90 días para consultas previas. El Tiempo: Panamá declara emergencia tras sismo de 7,7."
+  },
+  "summary": {
+    "en": "Almost 77 in 100 cases remain open, the Presidency says. Sirius and Canal del Dique are among the stalled projects. At least 27 injured, El Tiempo reports. Ambito reports damage to more than 400 buildings, including hospitals. 55-knot sustained winds, gusting to 65, the NHC says. The west-coast warning runs from Punta Eugenia to the U.S. border.",
+    "es": "Casi 77 de cada 100 procesos siguen abiertos, según Presidencia. Sirius y Canal del Dique están entre las obras frenadas. Al menos 27 heridos, según El Tiempo. Ambito reporta daños en más de 400 edificios, incluidos hospitales. 55 nudos sostenidos y rachas de 65, según el NHC. La alerta oeste va de Punta Eugenia a la frontera con Estados Unidos."
+  },
+  "stories": [
+    {
+      "id": "latam-2026-10-11-f2fd21ad52",
+      "status": "CONFIRMED",
+      "tier": "major",
+      "heading": {
+        "en": "Rodrigo Lara activates 90-day plan for prior consultations",
+        "es": "Rodrigo Lara activa plan de 90 días para consultas previas"
+      },
+      "text": {
+        "en": "Minister Rodrigo Lara activated a plan to clear prior-consultation backlogs, with a 90-day target, according to the Presidency. The institution said almost 77 in 100 cases remain open and projects such as Sirius gas and Canal del Dique remain stalled amid USB drives and scattered files.\n\nThe plan includes full digitization through a single window, directly accountable officials with clear deadlines, procedures running alongside environmental licensing and removal of obstacles that left cases suspended. The Presidency said prior consultation would be respected, with good-faith dialogue and agreements with communities. Infobae reported that the Ministry of the Interior proposes processing consultation in parallel with environmental licensing and will prioritize Sirius, Canal del Dique and Buenaventura's pier 13. The texts announce measures and targets, not completed consultations or approvals for those projects.",
+        "es": "El ministro Rodrigo Lara activó un plan de choque para descongestionar las consultas previas, con una meta de 90 días, según Presidencia. La institución señaló que casi 77 de cada 100 procesos siguen abiertos y que proyectos como el gas de Sirius y el Canal del Dique permanecen frenados entre memorias USB y archivos dispersos.\n\nEl plan contempla digitalización total en una sola ventanilla, responsables directos con plazos claros, trámites simultáneos con las licencias ambientales y eliminación de trabas que mantenían procesos suspendidos. Presidencia sostuvo que se respetará la consulta previa, con diálogo de buena fe y acuerdos con las comunidades. Infobae informó que el Ministerio del Interior propone el trámite paralelo con la licencia ambiental y priorizará Sirius, Canal del Dique y el muelle 13 de Buenaventura. Los textos anuncian medidas y objetivos, no consultas concluidas ni aprobaciones de esos proyectos."
+      },
+      "exposure": {
+        "sectors": [
+          "energy",
+          "infrastructure"
+        ],
+        "assets_or_markets": [
+          "Sirius gas project",
+          "Canal del Dique",
+          "Buenaventura pier 13"
+        ],
+        "transmission_path": [
+          "prior-consultation backlog",
+          "consultation completion",
+          "project-approval timing",
+          "execution schedules"
+        ],
+        "variables": [
+          "prior-consultation processing time",
+          "gas project approval timeline",
+          "infrastructure project delays"
+        ]
+      },
+      "assessment": {
+        "confidence": "moderate",
+        "direction": "unclear",
+        "text": {
+          "en": "Completing consultations for the priority projects could remove a constraint on their execution schedules. The effect depends on community agreements translating into completed cases, rather than digital processing alone.",
+          "es": "Cerrar consultas de los proyectos priorizados podría liberar un bloqueo de sus calendarios de ejecución. El efecto depende de que los acuerdos con las comunidades se traduzcan en expedientes concluidos, no solo en tramitación digital."
+        }
+      },
+      "watch": {
+        "en": "Prior-consultation completion records for Sirius, Canal del Dique or Buenaventura's pier 13.",
+        "es": "Actas de cierre de consulta previa para Sirius, Canal del Dique o el muelle 13 de Buenaventura."
+      },
+      "sources": [
+        "https://x.com/infopresidencia/status/2109056382972649632",
+        "https://infobae.com/colombia/2026/10/10/licencias-ambientales-y-consultas-previas-se-tramitarian-de-forma-simultanea-esto-dice-borrador-de-decreto-del-gobierno-de-la-espriella?outputType=amp-type"
+      ]
+    },
+    {
+      "id": "latam-2026-10-11-d63bc276eb",
+      "status": "CLAIM",
+      "tier": "major",
+      "heading": {
+        "en": "El Tiempo: Panama declares emergency after 7.7 earthquake",
+        "es": "El Tiempo: Panamá declara emergencia tras sismo de 7,7"
+      },
+      "text": {
+        "en": "El Tiempo reported that Panama declared a state of emergency after the magnitude 7.7 earthquake, with at least 27 injured, hundreds of buildings affected and no deaths. The Government will prioritize aid, according to the outlet. Ambito reported damage to more than 400 buildings, including homes, schools, hospitals and public infrastructure, as well as hundreds of evacuees. Clarin also reported at least 27 injured following the collapse of several buildings.\n\nEl Tiempo placed the epicenter near Tonosí and reported damage to public buildings, water-treatment plants and businesses, as well as more than 100 aftershocks. In an earlier publication, La Jornada had reported two earthquakes, of magnitude 7.7 and 6.6, around 20 aftershocks and evacuations in the country's central region, with no reported fatalities. Ambito also counted more than 100 aftershocks. The reports do not detail the operating capacity of affected water-treatment plants.",
+        "es": "El Tiempo reportó que Panamá declaró el estado de emergencia tras el terremoto de magnitud 7,7, con al menos 27 heridos, cientos de edificaciones afectadas y sin personas muertas. El Gobierno priorizará la ayuda, según ese medio. Ambito reportó daños en más de 400 edificaciones, incluidas viviendas, escuelas, hospitales e infraestructura pública, además de cientos de evacuados. Clarin también informó al menos 27 heridos tras el colapso de varios edificios.\n\nEl Tiempo situó el epicentro cerca de Tonosí y reportó afectaciones en edificios públicos, plantas potabilizadoras y comercios, además de más de 100 réplicas. En una publicación anterior, La Jornada había informado dos sismos, de magnitud 7,7 y 6,6, unas 20 réplicas y desalojos en la región central del país, sin víctimas fatales reportadas. Ambito también contabilizó más de 100 réplicas. Los reportes no detallan la capacidad operativa de las plantas potabilizadoras afectadas."
+      },
+      "exposure": {
+        "sectors": [
+          "infrastructure"
+        ],
+        "assets_or_markets": [
+          "Panama water-treatment plants",
+          "Panama public buildings",
+          "Panama hospitals"
+        ],
+        "transmission_path": [
+          "earthquake",
+          "public-building and water-treatment damage",
+          "infrastructure availability risk"
+        ],
+        "variables": [
+          "water-treatment capacity",
+          "public infrastructure availability",
+          "building damage",
+          "emergency infrastructure response"
+        ]
+      },
+      "assessment": null,
+      "watch": {
+        "en": "An official publication detailing the operating status of affected water-treatment plants.",
+        "es": "Publicación oficial con el estado operativo de las plantas potabilizadoras afectadas."
+      },
+      "sources": [
+        "https://eltiempo.com/mundo/latinoamerica/panama-declara-estado-de-emergencia-tras-terremoto-de-magnitud-7-7-que-dejo-cientos-de-edificaciones-afectadas-no-hay-personas-muertas-3592811",
+        "https://ambito.com/mundo/terremoto-panama-al-menos-27-heridos-cientos-evacuados-y-graves-danos-edificios-n6332329",
+        "https://clarin.com/mundo/dramaticos-testimonios-afectados-terremoto-panama-horrible-visto_0_vH4rvO0dM4.html",
+        "https://eltiempo.com/mundo/latinoamerica/autoridades-de-panama-confirman-los-danos-que-dejo-el-terremoto-de-magnitud-7-7-hasta-el-momento-y-reportan-mas-de-100-replicas-3592751",
+        "https://jornada.com.mx/2026/10/10/mundo/020n1mun?partner=rss"
+      ]
+    },
+    {
+      "id": "latam-2026-10-11-e1030d29ca",
+      "status": "CONFIRMED",
+      "tier": "major",
+      "heading": {
+        "en": "NHC forecasts Rachel landfall in northern Baja California",
+        "es": "NHC prevé que Rachel toque tierra en el norte de Baja California"
+      },
+      "text": {
+        "en": "The NHC raised Rachel's intensity to sustained winds of 55 knots, equivalent to 100 km/h, with gusts of 65 knots in its 2100 UTC advisory on October 10. The system was moving north-northeast at 26 knots and had a central pressure of 989 mb. The forecast maintained landfall on the northern Baja California coast at tropical-storm strength that night; the cited advisories do not confirm landfall.\n\nThe tropical-storm warning covers the west coast of Baja California and Baja California Sur from Punta Eugenia to the United States border, and the east coast from Isla San Luis to Puerto Penasco. The NHC expected tropical-storm conditions in parts of the peninsula during the evening of October 10.\n\nThe agency described a transition toward a post-tropical system, with shallow convection displaced northeast by strong southwesterly wind shear. Although Rachel intensified slightly, it forecast subsequent weakening and rapid movement across the southwestern United States. The 2100 UTC forecast showed it as post-tropical on October 11 and dissipated on October 12.",
+        "es": "El NHC elevó la intensidad de Rachel a 55 nudos de viento sostenido, equivalentes a 100 km/h, con rachas de 65 nudos en su aviso de las 2100 UTC del 10 de octubre. El sistema avanzaba al nor-noreste a 26 nudos y tenía una presión central de 989 mb. El pronóstico mantenía la entrada en la costa del norte de Baja California con intensidad de tormenta tropical durante esa noche; los avisos citados no confirman que haya tocado tierra.\n\nLa alerta de tormenta tropical abarca la costa occidental de Baja California y Baja California Sur desde Punta Eugenia hasta la frontera con Estados Unidos, y la costa oriental desde Isla San Luis hasta Puerto Penasco. El NHC esperaba condiciones de tormenta tropical en partes de la península durante la tarde-noche del 10 de octubre.\n\nEl organismo describió una transición hacia un sistema postropical, con convección poco profunda desplazada al noreste por fuerte cizalladura del suroeste. Aunque Rachel se intensificó ligeramente, previó deterioro posterior y desplazamiento rápido por el suroeste de Estados Unidos. El pronóstico de las 2100 UTC la situaba como postropical el 11 de octubre y disipada el 12."
+      },
+      "exposure": {
+        "sectors": [
+          "logistics",
+          "infrastructure"
+        ],
+        "assets_or_markets": [
+          "Northern Baja California coastal transport",
+          "Baja California coastal infrastructure"
+        ],
+        "transmission_path": [
+          "tropical-storm conditions",
+          "coastal operating constraints",
+          "transport-disruption risk"
+        ],
+        "variables": [
+          "coastal transport conditions",
+          "port operating conditions",
+          "infrastructure outage risk"
+        ]
+      },
+      "assessment": null,
+      "watch": {
+        "en": "An NHC advisory placing Rachel's centre inland in northern Baja California.",
+        "es": "Un aviso del NHC que sitúe el centro de Rachel en tierra en el norte de Baja California."
+      },
+      "sources": [
+        "https://nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/101739.shtml",
+        "https://nhc.noaa.gov/text/refresh/MIATCMEP3+shtml/102047.shtml",
+        "https://nhc.noaa.gov/text/refresh/MIAPWSEP3+shtml/102048.shtml",
+        "https://nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/102049.shtml",
+        "https://nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/100853.shtml",
+        "https://nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/101151.shtml",
+        "https://nhc.noaa.gov/text/refresh/MIATCMEP3+shtml/101452.shtml",
+        "https://nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/101453.shtml",
+        "https://nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/102048.shtml"
+      ]
+    }
+  ],
+  "tracking": [],
+  "content_hash": "0fe62e0b2c283aa06ba670c04b942f34a6040b8baface419aafd867a2fb3634e",
+  "license": "CC-BY-4.0"
+}

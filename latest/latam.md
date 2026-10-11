@@ -1,217 +1,135 @@
-# Aldra SITREP · LATAM · 2026-10-10
+# Aldra SITREP · LATAM · 2026-10-11
 
 ## Español
 
-Edición: parcial · Sectores: Logística, Infraestructura, Energía, Commodities, Seguridad, Minería · Publicada: 2026-10-10T08:04:48.821Z  
-Web: https://aldraresearch.com/sitreps/latam-2026-10-10  
+Edición: parcial · Sectores: Logística, Infraestructura, Energía · Publicada: 2026-10-11T07:59:08.788Z  
+Web: https://aldraresearch.com/sitreps/latam-2026-10-11  
 Licencia: CC BY 4.0
 
-### Brasil elimina tributos a gasolina y amplía subsidios. Ecuador amplía a 72 horas los cortes industriales.
+### Rodrigo Lara activa plan de 90 días para consultas previas. El Tiempo: Panamá declara emergencia tras sismo de 7,7.
 
-R$0,89/l de alivio por 30 días; R$1,40/l extra anunciado al diésel importado. Moretti pide fiscalizar el traslado al surtidor. De 48 a 72 horas desde el 12 de octubre en alta y media tensión. El CEE advierte riesgo para empleos y cadenas productivas. Incluye deuda y está sujeto a ajustes. Hasta diez semanas de exclusividad; la conclusión depende de documentos definitivos. La base es 19.300 b/d; se espera duplicarla en seis meses, según. Rumbo Minero cita una meta de hasta 160.000 b/d. El Tiempo reporta $54.000 millones de inversión prevista. Rumbo Minero cita cobre, oro y fosfatos. Murió un sargento; el parte preliminar registra cuatro capturas. El Tiempo habló de al menos siete posibles detenidos; la cifra difiere.
+Casi 77 de cada 100 procesos siguen abiertos, según Presidencia. Sirius y Canal del Dique están entre las obras frenadas. Al menos 27 heridos, según El Tiempo. Ambito reporta daños en más de 400 edificios, incluidos hospitales. 55 nudos sostenidos y rachas de 65, según el NHC. La alerta oeste va de Punta Eugenia a la frontera con Estados Unidos.
 
 ### Situaciones principales
 
-#### 1. Brasil elimina tributos a gasolina y amplía subsidios
+#### 1. Rodrigo Lara activa plan de 90 días para consultas previas
 
-Brasil eliminó los tributos federales a la gasolina: el alivio pasa de R$0,63 a R$0,89 por litro y rige 30 días, con posibilidad de revisión o prórroga. El equipo económico anunció que mantiene la desgravación del etanol hidratado en R$0,19/l, elevará la subvención a sus productores de R$0,25 a R$0,43/l y añadirá R$1,40/l al diésel importado, sobre los R$2,12/l previstos. El anuncio llegó a 16 días del balotaje del 25 de octubre.
+El ministro Rodrigo Lara activó un plan de choque para descongestionar las consultas previas, con una meta de 90 días, según Presidencia. La institución señaló que casi 77 de cada 100 procesos siguen abiertos y que proyectos como el gas de Sirius y el Canal del Dique permanecen frenados entre memorias USB y archivos dispersos.
 
-La MP nº 1.395 abrió un crédito extraordinario de R$7,52 mil millones para el Ministerio de Minas y Energía: R$6,17 mil millones para diésel vial y R$1,35 mil millones para otros derivados, destinados a la ANP. El paquete anunciado tiene un costo estimado de R$5,2 mil millones en 30 días. Las estimaciones del costo mensual de la gasolina difieren: Estadao cita R$2,7 mil millones; el desglose del paquete cifra R$2,4 mil millones.
+El plan contempla digitalización total en una sola ventanilla, responsables directos con plazos claros, trámites simultáneos con las licencias ambientales y eliminación de trabas que mantenían procesos suspendidos. Presidencia sostuvo que se respetará la consulta previa, con diálogo de buena fe y acuerdos con las comunidades. Infobae informó que el Ministerio del Interior propone el trámite paralelo con la licencia ambiental y priorizará Sirius, Canal del Dique y el muelle 13 de Buenaventura. Los textos anuncian medidas y objetivos, no consultas concluidas ni aprobaciones de esos proyectos.
 
-Bruno Moretti sostuvo que se mantendrá la «neutralidad fiscal» y pidió fiscalización para que el alivio llegue al surtidor. Según Valor Economico, el Gobierno contabiliza cerca de R$55,5 mil millones en medidas frente a una previsión conservadora de R$50 mil millones de ingresos petroleros adicionales. El gasto efectivo en subvenciones depende de la adhesión evaluada por la ANP.
+Exposición: Energía, Infraestructura · prior-consultation backlog → consultation completion → project-approval timing → execution schedules · prior-consultation processing time, gas project approval timeline, infrastructure project delays  
+**Evaluación de Aldra** (confianza: moderada, dirección: incierta). Cerrar consultas de los proyectos priorizados podría liberar un bloqueo de sus calendarios de ejecución. El efecto depende de que los acuerdos con las comunidades se traduzcan en expedientes concluidos, no solo en tramitación digital.
 
-Exposición: Energía, Commodities · tax relief and subsidy expansion → lower supported fuel costs → retail pass-through → fuel-price adjustment · gasoline pump prices, imported diesel economics, ethanol producer subsidies, fuel subsidy expenditure  
-**Evaluación de Aldra** (confianza: moderada, dirección: incierta). El subsidio mejora las condiciones de importación, pero no acredita una baja minorista: el traslado al surtidor requiere fiscalización. La neutralidad fiscal sigue siendo una premisa oficial; las cifras de medidas e ingresos no constituyen un saldo ejecutado.
-
-**Qué vigilar.** Resultados publicados de la fiscalización que midan el traslado de la desgravación al precio de la gasolina en surtidores.
+**Qué vigilar.** Actas de cierre de consulta previa para Sirius, Canal del Dique o el muelle 13 de Buenaventura.
 
 Fuentes:
-- https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/credito-extraordinario-de-r-75-bi-reforca-subsidios-combustiveis
-- https://estadao.com.br/economia/durigan-ampliacao-prorrogacao-medidas-reduzir-precos-combustiveis
-- https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/tributos-da-gasolina-sao-zerados-e-subsidios-combustiveis-ampliados
-- https://valor.globo.com/brasil/noticia/2026/10/09/analise-calendario-e-recrudescimento-da-guerra-criaram-oportunidade-para-nova-bondade.ghtml
-- https://valor.globo.com/brasil/noticia/2026/10/09/medidas-para-combustveis-somam-cerca-de-r-555-bi-ante-r-50-bi-em-receitas-extras-com-petrleo.ghtml
-- https://x.com/g1/status/2108655413709189449
+- https://x.com/infopresidencia/status/2109056382972649632
+- https://infobae.com/colombia/2026/10/10/licencias-ambientales-y-consultas-previas-se-tramitarian-de-forma-simultanea-esto-dice-borrador-de-decreto-del-gobierno-de-la-espriella?outputType=amp-type
 
-#### 2. Ecuador amplía a 72 horas los cortes industriales
+#### 2. El Tiempo: Panamá declara emergencia tras sismo de 7,7
 
-Ecuador ampliará de 48 a 72 horas semanales los cortes eléctricos para industrias de alto y mediano voltaje desde el 12 de octubre. Expreso informó la fecha y EFE reportó que la decisión busca «garantizar el suministro eléctrico a los hogares». La medida anunciada amplía las restricciones industriales existentes; no acredita todavía el cumplimiento del nuevo calendario.
+El Tiempo reportó que Panamá declaró el estado de emergencia tras el terremoto de magnitud 7,7, con al menos 27 heridos, cientos de edificaciones afectadas y sin personas muertas. El Gobierno priorizará la ayuda, según ese medio. Ambito reportó daños en más de 400 edificaciones, incluidas viviendas, escuelas, hospitales e infraestructura pública, además de cientos de evacuados. Clarin también informó al menos 27 heridos tras el colapso de varios edificios.
 
-El Comité Empresarial Ecuatoriano (CEE) advirtió que la falta de turnos regulares amenaza empleos e ingresos y afecta las cadenas productivas. Solicitó una reunión con la Presidencia para acordar continuidad productiva. El gremio recordó que restricciones anteriores llegaron a restar hasta 1,4 puntos del PIB: es una referencia histórica, no una estimación del impacto actual. EFE también recoge que alrededor del 75% del volumen de carga exportada corresponde a productos perecibles que requieren conservación y continuidad operativa.
+El Tiempo situó el epicentro cerca de Tonosí y reportó afectaciones en edificios públicos, plantas potabilizadoras y comercios, además de más de 100 réplicas. En una publicación anterior, La Jornada había informado dos sismos, de magnitud 7,7 y 6,6, unas 20 réplicas y desalojos en la región central del país, sin víctimas fatales reportadas. Ambito también contabilizó más de 100 réplicas. Los reportes no detallan la capacidad operativa de las plantas potabilizadoras afectadas.
 
-Exposición: Energía, Logística · longer industrial power cuts → reduced production continuity → cold-chain operating risk → export throughput risk · industrial electricity availability, production-shift continuity, cold-chain continuity, export throughput  
-**Evaluación de Aldra** (confianza: moderada, dirección: se deteriora). La ampliación concentra el ajuste eléctrico en la producción para sostener el servicio doméstico. La proporción de perecibles señalada por EFE conecta los cortes con la continuidad de la cadena de frío, pero no acredita una pérdida de exportaciones.
+Exposición: Infraestructura · earthquake → public-building and water-treatment damage → infrastructure availability risk · water-treatment capacity, public infrastructure availability, building damage, emergency infrastructure response  
 
-**Qué vigilar.** Calendario oficial de desconexiones industriales aplicable desde el 12 de octubre, con las horas y actividades afectadas.
+**Qué vigilar.** Publicación oficial con el estado operativo de las plantas potabilizadoras afectadas.
 
 Fuentes:
-- https://expreso.ec/economia-y-negocios/cortes-luz-industrias-ecuador-aplicaran-tres-dias-desconexion-298749.html
-- https://infobae.com/america/agencias/2026/10/10/empresarios-advierten-del-riesgo-en-empleos-por-cortes-de-energia-a-industrias-en-ecuador
+- https://eltiempo.com/mundo/latinoamerica/panama-declara-estado-de-emergencia-tras-terremoto-de-magnitud-7-7-que-dejo-cientos-de-edificaciones-afectadas-no-hay-personas-muertas-3592811
+- https://ambito.com/mundo/terremoto-panama-al-menos-27-heridos-cientos-evacuados-y-graves-danos-edificios-n6332329
+- https://clarin.com/mundo/dramaticos-testimonios-afectados-terremoto-panama-horrible-visto_0_vH4rvO0dM4.html
+- https://eltiempo.com/mundo/latinoamerica/autoridades-de-panama-confirman-los-danos-que-dejo-el-terremoto-de-magnitud-7-7-hasta-el-momento-y-reportan-mas-de-100-replicas-3592751
+- https://jornada.com.mx/2026/10/10/mundo/020n1mun?partner=rss
 
-#### 3. CSN acuerda vender SWT por €550 millones para reducir deuda
+#### 3. NHC prevé que Rachel toque tierra en el norte de Baja California
 
-CSN anunció un acuerdo vinculante para vender SWT, su siderúrgica de aceros largos en Alemania, a Bipadosa, controladora del grupo español Megasa. Estadao precisa que los €550 millones son valor de empresa, incluyen deuda y están sujetos a ajustes. El acuerdo contempla hasta diez semanas de exclusividad. Valor Economico señala que todavía deben celebrarse documentos definitivos y cumplirse condiciones suspensivas para concluir la operación.
+El NHC elevó la intensidad de Rachel a 55 nudos de viento sostenido, equivalentes a 100 km/h, con rachas de 65 nudos en su aviso de las 2100 UTC del 10 de octubre. El sistema avanzaba al nor-noreste a 26 nudos y tenía una presión central de 989 mb. El pronóstico mantenía la entrada en la costa del norte de Baja California con intensidad de tormenta tropical durante esa noche; los avisos citados no confirman que haya tocado tierra.
 
-El activo pertenece a CSN Steel, subsidiaria española de CSN, está en Unterwellenborn y fue adquirido en 2012, según Valor Economico. Estadao le atribuye capacidad de 1,1 millones de toneladas anuales de aceros largos. CSN presenta la venta como parte de su programa para reducir endeudamiento. Según Estadao, el grupo tiene deuda neta de R$ 42 mil millones y una relación deuda neta/Ebitda de casi 3,5 veces. El plan anunciado en enero contemplaba vender hasta el 100% de CSN Cimentos y hasta el 30% de CSN Infraestrutura; SWT no había sido mencionada públicamente entre esos activos.
+La alerta de tormenta tropical abarca la costa occidental de Baja California y Baja California Sur desde Punta Eugenia hasta la frontera con Estados Unidos, y la costa oriental desde Isla San Luis hasta Puerto Penasco. El NHC esperaba condiciones de tormenta tropical en partes de la península durante la tarde-noche del 10 de octubre.
 
-Exposición: Commodities · binding sale agreement → conditional asset disposal → potential net-debt reduction · CSN net debt, CSN leverage, steel-sector capital allocation, transaction closing  
-**Evaluación de Aldra** (confianza: moderada, dirección: incierta). El valor de empresa no equivale a efectivo disponible para amortizar deuda. El efecto sobre el apalancamiento depende de los ajustes y del cierre; un acuerdo vinculante no prueba aún una reducción de la deuda neta.
+El organismo describió una transición hacia un sistema postropical, con convección poco profunda desplazada al noreste por fuerte cizalladura del suroeste. Aunque Rachel se intensificó ligeramente, previó deterioro posterior y desplazamiento rápido por el suroeste de Estados Unidos. El pronóstico de las 2100 UTC la situaba como postropical el 11 de octubre y disipada el 12.
 
-**Qué vigilar.** Un comunicado de CSN con los documentos definitivos, ajustes al valor y cumplimiento de las condiciones de cierre.
+Exposición: Logística, Infraestructura · tropical-storm conditions → coastal operating constraints → transport-disruption risk · coastal transport conditions, port operating conditions, infrastructure outage risk  
 
-Fuentes:
-- https://valor.globo.com/empresas/noticia/2026/10/09/csn-assina-acordo-para-vender-a-alema-swt-a-espanhola-bipadosa.ghtml
-- https://estadao.com.br/economia/negocios/csn-vende-siderurgica-na-alemanha-por-550-milhoes-dentro-do-plano-de-reduzir-endividamento
-
-### Otros desarrollos
-
-#### 4. PCEC planea US$3.500 millones en Delta y Cabimas
-
-PCEC dijo que planea invertir US$3.500 millones durante la vigencia de sus contratos con Petróleos de Venezuela (PDVSA), en Delta y Cabimas. Según, espera duplicar una base de 19.300 barriles diarios en seis meses bajo los nuevos contratos de participación en producción. Rumbo Minero agrega una meta de hasta 160.000 barriles diarios mediante rehabilitación de pozos e inversiones en infraestructura petrolera. Son objetivos, no producción ni inversión ejecutadas.
-
-Exposición: Energía, Infraestructura · production participation contracts → planned well rehabilitation → oil infrastructure investment → production capacity · oil production, oil-field investment execution, well rehabilitation progress  
-
-**Qué vigilar.** Reporte de PCEC o PDVSA con la producción de los bloques Delta y Cabimas.
+**Qué vigilar.** Un aviso del NHC que sitúe el centro de Rachel en tierra en el norte de Baja California.
 
 Fuentes:
-- https://rigzone.com/news/pacific_coast_energy_secures_agreements_with_pdvsa_to_revive_oilfields-09-oct-2026-184817-article
-- https://en.tdjnoticias.com/2026/10/09/pacific-coast-energy-plans-3-5-billion-investment-to-boost-heavy-crude-production-in-venezuela
-- https://rumbominero.com/otros-paises/venezuela-pcec-invertira-us-3500-millones-para-reactivar-petroleo
-
-#### 5. El Tiempo: Colombia firma nueve contratos de exploración
-
-Según El Tiempo, el Gobierno firmó nueve contratos mineros que impulsarían inversiones en exploración por $54.000 millones, en áreas de Cesar, La Guajira, Antioquia, Tolima y Huila. La Agencia Nacional de Minería anunció compromisos cercanos a los 54.000 millones de pesos colombianos, según Rumbo Minero, que identifica cobre, oro, minerales polimetálicos y fosfatos. Los reportes describen compromisos de exploración, no nueva producción mineral.
-
-Exposición: Minería · reported exploration contracts → investment commitments → mineral exploration activity · mineral exploration investment, mining project access, future mineral supply  
-
-**Qué vigilar.** La publicación por la Agencia Nacional de Minería de los contratos y sus compromisos de inversión en exploración.
-
-Fuentes:
-- https://eltiempo.com/economia/sectores/gobierno-nacional-firma-nueve-contratos-mineros-que-impulsaran-inversiones-en-exploracion-por-54-000-millones-3592606
-- https://rumbominero.com/colombia/colombia-adjudica-contratos-mineros-por-54-000-millones
-
-#### 6. Ejército confirma combates en la Panamericana, en Timbío
-
-El Ejército confirmó combates con presuntos integrantes de Carlos Patiño en El Bohío, Timbío, Cauca, sobre la vía Panamericana, y la muerte del sargento primero Ángel David Ordóñez Ortiz. El balance preliminar es de cuatro capturados; incautó dos fusiles, cuatro armas cortas, un inhibidor de señales y un vehículo. El Tiempo reportó un carro bomba y, en otro reporte, al menos siete posibles capturas y policías heridos. La cifra difiere del parte militar; no se documenta un cierre vial.
-
-Exposición: Logística, Seguridad · armed fighting on highway → corridor security risk → road-freight operating uncertainty · highway security, corridor availability, road freight continuity, security costs  
-
-**Qué vigilar.** Aviso oficial que establezca restricciones de tránsito en El Bohío, sobre la vía Panamericana.
-
-Fuentes:
-- https://x.com/COL_EJERCITO/status/2108770632578068964
-- https://eltiempo.com/colombia/otras-ciudades/frustran-atentado-terrorista-con-carro-bomba-en-la-via-panamericana-ejercito-verifica-la-zona-para-descartar-otros-explosivos-3592531
-- https://eltiempo.com/colombia/otras-ciudades/reportan-atentado-en-la-via-panamericana-entre-popayan-y-timbio-hubo-intercambio-de-disparos-un-suboficial-del-ejercito-muerto-y-policias-heridos-3592681
-
-#### Situaciones seguidas
-
-- **Colombia refuerza combustibles para generación térmica ante El Niño**: Sin cambio material. Colombia refuerza combustibles para generación térmica ante El Niño
-- **Valor Economico: Brent cierra en US$104,28 por barril**: Sin cambio material. Valor Economico: Brent cierra en US$104,28 por barril
+- https://nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/101739.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCMEP3+shtml/102047.shtml
+- https://nhc.noaa.gov/text/refresh/MIAPWSEP3+shtml/102048.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/102049.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/100853.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/101151.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCMEP3+shtml/101452.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/101453.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/102048.shtml
 
 ## English
 
-Edition: partial · Sectors: Logistics, Infrastructure, Energy, Commodities, Security, Mining · Published: 2026-10-10T08:04:48.821Z  
-Web: https://aldraresearch.com/sitreps/latam-2026-10-10  
+Edition: partial · Sectors: Logistics, Infrastructure, Energy · Published: 2026-10-11T07:59:08.788Z  
+Web: https://aldraresearch.com/sitreps/latam-2026-10-11  
 License: CC BY 4.0
 
-### Brazil removes gasoline taxes and expands fuel subsidies. Ecuador extends industrial power cuts to 72 hours.
+### Rodrigo Lara activates 90-day plan for prior consultations. El Tiempo: Panama declares emergency after 7.7 earthquake.
 
-R$0.89/l relief for 30 days; R$1.40/l extra announced for imported diesel. Moretti calls for checks on pump-price pass-through. From 48 to 72 hours from October 12 for high- and medium-voltage users. CEE warns of risks to jobs and production chains. Includes debt and is subject to adjustments. Up to ten weeks of exclusivity; definitive documents are still required. The base is 19,300 b/d, expected to double in six months, per. Rumbo Minero cites a target of up to 160,000 b/d. El Tiempo reports $54,000 million in planned investment. Rumbo Minero cites copper, gold and phosphates. A sergeant died; the preliminary Army tally is four arrests. El Tiempo reported at least seven possible arrests; the counts differ.
+Almost 77 in 100 cases remain open, the Presidency says. Sirius and Canal del Dique are among the stalled projects. At least 27 injured, El Tiempo reports. Ambito reports damage to more than 400 buildings, including hospitals. 55-knot sustained winds, gusting to 65, the NHC says. The west-coast warning runs from Punta Eugenia to the U.S. border.
 
 ### Main situations
 
-#### 1. Brazil removes gasoline taxes and expands fuel subsidies
+#### 1. Rodrigo Lara activates 90-day plan for prior consultations
 
-Brazil removed federal gasoline taxes: relief rises from R$0.63 to R$0.89 per liter and lasts 30 days, with possible revision or extension. The economic team announced that it is retaining the R$0.19/l tax exemption for hydrous ethanol, will raise producer subsidies from R$0.25 to R$0.43/l and will add R$1.40/l for imported diesel, on top of the planned R$2.12/l. The announcement came 16 days before the October 25 runoff.
+Minister Rodrigo Lara activated a plan to clear prior-consultation backlogs, with a 90-day target, according to the Presidency. The institution said almost 77 in 100 cases remain open and projects such as Sirius gas and Canal del Dique remain stalled amid USB drives and scattered files.
 
-MP No. 1.395 opened extraordinary funding of R$7.52 billion for the Ministry of Mines and Energy: R$6.17 billion for road diesel and R$1.35 billion for other petroleum products, allocated to ANP. The announced package has an estimated cost of R$5.2 billion over 30 days. Monthly gasoline cost estimates differ: Estadao cites R$2.7 billion; the package breakdown puts it at R$2.4 billion.
+The plan includes full digitization through a single window, directly accountable officials with clear deadlines, procedures running alongside environmental licensing and removal of obstacles that left cases suspended. The Presidency said prior consultation would be respected, with good-faith dialogue and agreements with communities. Infobae reported that the Ministry of the Interior proposes processing consultation in parallel with environmental licensing and will prioritize Sirius, Canal del Dique and Buenaventura's pier 13. The texts announce measures and targets, not completed consultations or approvals for those projects.
 
-Bruno Moretti said “fiscal neutrality” would be maintained and called for enforcement to ensure relief reaches the pump. According to Valor Economico, the government counts around R$55.5 billion in measures against a conservative forecast of R$50 billion in additional oil revenue. Actual subsidy spending depends on participation assessed by ANP.
+Exposure: Energy, Infrastructure · prior-consultation backlog → consultation completion → project-approval timing → execution schedules · prior-consultation processing time, gas project approval timeline, infrastructure project delays  
+**Aldra assessment** (confidence: moderate, direction: unclear). Completing consultations for the priority projects could remove a constraint on their execution schedules. The effect depends on community agreements translating into completed cases, rather than digital processing alone.
 
-Exposure: Energy, Commodities · tax relief and subsidy expansion → lower supported fuel costs → retail pass-through → fuel-price adjustment · gasoline pump prices, imported diesel economics, ethanol producer subsidies, fuel subsidy expenditure  
-**Aldra assessment** (confidence: moderate, direction: unclear). The subsidy improves import economics but does not establish a retail price decline: pump-price pass-through requires enforcement. Fiscal neutrality remains an official premise; the measures and revenue figures are not an executed fiscal balance.
-
-**What to watch.** Published enforcement results measuring the gasoline tax relief passed through to pump prices.
+**What to watch.** Prior-consultation completion records for Sirius, Canal del Dique or Buenaventura's pier 13.
 
 Sources:
-- https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/credito-extraordinario-de-r-75-bi-reforca-subsidios-combustiveis
-- https://estadao.com.br/economia/durigan-ampliacao-prorrogacao-medidas-reduzir-precos-combustiveis
-- https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/tributos-da-gasolina-sao-zerados-e-subsidios-combustiveis-ampliados
-- https://valor.globo.com/brasil/noticia/2026/10/09/analise-calendario-e-recrudescimento-da-guerra-criaram-oportunidade-para-nova-bondade.ghtml
-- https://valor.globo.com/brasil/noticia/2026/10/09/medidas-para-combustveis-somam-cerca-de-r-555-bi-ante-r-50-bi-em-receitas-extras-com-petrleo.ghtml
-- https://x.com/g1/status/2108655413709189449
+- https://x.com/infopresidencia/status/2109056382972649632
+- https://infobae.com/colombia/2026/10/10/licencias-ambientales-y-consultas-previas-se-tramitarian-de-forma-simultanea-esto-dice-borrador-de-decreto-del-gobierno-de-la-espriella?outputType=amp-type
 
-#### 2. Ecuador extends industrial power cuts to 72 hours
+#### 2. El Tiempo: Panama declares emergency after 7.7 earthquake
 
-Ecuador will extend weekly power cuts for high- and medium-voltage industries from 48 to 72 hours starting October 12. Expreso reported the date, while EFE reported that the decision aims to “guarantee electricity supply to households.” The announced measure expands existing industrial restrictions; implementation of the new schedule is not yet established.
+El Tiempo reported that Panama declared a state of emergency after the magnitude 7.7 earthquake, with at least 27 injured, hundreds of buildings affected and no deaths. The Government will prioritize aid, according to the outlet. Ambito reported damage to more than 400 buildings, including homes, schools, hospitals and public infrastructure, as well as hundreds of evacuees. Clarin also reported at least 27 injured following the collapse of several buildings.
 
-The Comité Empresarial Ecuatoriano (CEE) warned that the lack of regular production shifts threatens jobs and incomes and affects production chains. It requested a meeting with the Presidency to agree on production continuity. The business group recalled that previous restrictions had reduced GDP by up to 1.4 points: this is a historical reference, not an estimate of the current impact. EFE also reports that around 75% of exported cargo volume consists of perishable products requiring preservation and operational continuity.
+El Tiempo placed the epicenter near Tonosí and reported damage to public buildings, water-treatment plants and businesses, as well as more than 100 aftershocks. In an earlier publication, La Jornada had reported two earthquakes, of magnitude 7.7 and 6.6, around 20 aftershocks and evacuations in the country's central region, with no reported fatalities. Ambito also counted more than 100 aftershocks. The reports do not detail the operating capacity of affected water-treatment plants.
 
-Exposure: Energy, Logistics · longer industrial power cuts → reduced production continuity → cold-chain operating risk → export throughput risk · industrial electricity availability, production-shift continuity, cold-chain continuity, export throughput  
-**Aldra assessment** (confidence: moderate, direction: deteriorating). The extension concentrates electricity rationing on production to sustain household supply. The share of perishables reported by EFE connects the cuts to cold-chain continuity, but does not establish an export loss.
+Exposure: Infrastructure · earthquake → public-building and water-treatment damage → infrastructure availability risk · water-treatment capacity, public infrastructure availability, building damage, emergency infrastructure response  
 
-**What to watch.** The official industrial disconnection schedule effective October 12, specifying affected hours and activities.
+**What to watch.** An official publication detailing the operating status of affected water-treatment plants.
 
 Sources:
-- https://expreso.ec/economia-y-negocios/cortes-luz-industrias-ecuador-aplicaran-tres-dias-desconexion-298749.html
-- https://infobae.com/america/agencias/2026/10/10/empresarios-advierten-del-riesgo-en-empleos-por-cortes-de-energia-a-industrias-en-ecuador
+- https://eltiempo.com/mundo/latinoamerica/panama-declara-estado-de-emergencia-tras-terremoto-de-magnitud-7-7-que-dejo-cientos-de-edificaciones-afectadas-no-hay-personas-muertas-3592811
+- https://ambito.com/mundo/terremoto-panama-al-menos-27-heridos-cientos-evacuados-y-graves-danos-edificios-n6332329
+- https://clarin.com/mundo/dramaticos-testimonios-afectados-terremoto-panama-horrible-visto_0_vH4rvO0dM4.html
+- https://eltiempo.com/mundo/latinoamerica/autoridades-de-panama-confirman-los-danos-que-dejo-el-terremoto-de-magnitud-7-7-hasta-el-momento-y-reportan-mas-de-100-replicas-3592751
+- https://jornada.com.mx/2026/10/10/mundo/020n1mun?partner=rss
 
-#### 3. CSN agrees €550 million SWT sale to cut debt
+#### 3. NHC forecasts Rachel landfall in northern Baja California
 
-CSN announced a binding agreement to sell SWT, its German long-steel plant, to Bipadosa, which controls the Spanish Megasa group. Estadao specifies that the €550 million is enterprise value, includes debt and is subject to adjustments. The agreement provides for up to ten weeks of exclusivity. Valor Economico says definitive documents must still be executed and conditions precedent met to complete the transaction.
+The NHC raised Rachel's intensity to sustained winds of 55 knots, equivalent to 100 km/h, with gusts of 65 knots in its 2100 UTC advisory on October 10. The system was moving north-northeast at 26 knots and had a central pressure of 989 mb. The forecast maintained landfall on the northern Baja California coast at tropical-storm strength that night; the cited advisories do not confirm landfall.
 
-The asset belongs to CSN Steel, CSN's Spanish subsidiary, is located in Unterwellenborn and was acquired in 2012, according to Valor Economico. Estadao reports capacity of 1.1 million tonnes of long steel annually. CSN presents the sale as part of its debt-reduction program. According to Estadao, the group has R$42 billion in net debt and a net debt/Ebitda ratio of almost 3.5 times. The plan announced in January contemplated selling up to 100% of CSN Cimentos and up to 30% of CSN Infraestrutura; SWT had not been publicly mentioned among those assets.
+The tropical-storm warning covers the west coast of Baja California and Baja California Sur from Punta Eugenia to the United States border, and the east coast from Isla San Luis to Puerto Penasco. The NHC expected tropical-storm conditions in parts of the peninsula during the evening of October 10.
 
-Exposure: Commodities · binding sale agreement → conditional asset disposal → potential net-debt reduction · CSN net debt, CSN leverage, steel-sector capital allocation, transaction closing  
-**Aldra assessment** (confidence: moderate, direction: unclear). Enterprise value does not equal cash available to repay debt. The effect on leverage depends on adjustments and closing; a binding agreement does not yet establish a reduction in net debt.
+The agency described a transition toward a post-tropical system, with shallow convection displaced northeast by strong southwesterly wind shear. Although Rachel intensified slightly, it forecast subsequent weakening and rapid movement across the southwestern United States. The 2100 UTC forecast showed it as post-tropical on October 11 and dissipated on October 12.
 
-**What to watch.** A CSN filing with definitive documents, value adjustments and fulfillment of closing conditions.
+Exposure: Logistics, Infrastructure · tropical-storm conditions → coastal operating constraints → transport-disruption risk · coastal transport conditions, port operating conditions, infrastructure outage risk  
 
-Sources:
-- https://valor.globo.com/empresas/noticia/2026/10/09/csn-assina-acordo-para-vender-a-alema-swt-a-espanhola-bipadosa.ghtml
-- https://estadao.com.br/economia/negocios/csn-vende-siderurgica-na-alemanha-por-550-milhoes-dentro-do-plano-de-reduzir-endividamento
-
-### Other developments
-
-#### 4. PCEC plans US$3.5 billion for Delta and Cabimas
-
-PCEC said it plans to invest US$3.5 billion over the life of its contracts with Petróleos de Venezuela (PDVSA), in Delta and Cabimas. According to, it expects to double a base of 19,300 barrels per day within six months under the new Production Participation Contracts. Rumbo Minero adds a target of up to 160,000 barrels per day through well rehabilitation and oil infrastructure investment. These are objectives, not achieved production or executed investment.
-
-Exposure: Energy, Infrastructure · production participation contracts → planned well rehabilitation → oil infrastructure investment → production capacity · oil production, oil-field investment execution, well rehabilitation progress  
-
-**What to watch.** A PCEC or PDVSA report giving production from the Delta and Cabimas blocks.
+**What to watch.** An NHC advisory placing Rachel's centre inland in northern Baja California.
 
 Sources:
-- https://rigzone.com/news/pacific_coast_energy_secures_agreements_with_pdvsa_to_revive_oilfields-09-oct-2026-184817-article
-- https://en.tdjnoticias.com/2026/10/09/pacific-coast-energy-plans-3-5-billion-investment-to-boost-heavy-crude-production-in-venezuela
-- https://rumbominero.com/otros-paises/venezuela-pcec-invertira-us-3500-millones-para-reactivar-petroleo
-
-#### 5. El Tiempo: Colombia signs nine exploration contracts
-
-According to El Tiempo, the government signed nine mining contracts expected to drive $54,000 million in exploration investment in areas of Cesar, La Guajira, Antioquia, Tolima and Huila. The Agencia Nacional de Minería announced commitments of around 54,000 million Colombian pesos, according to Rumbo Minero, which identifies copper, gold, polymetallic minerals and phosphates. The reports describe exploration commitments, not new mineral production.
-
-Exposure: Mining · reported exploration contracts → investment commitments → mineral exploration activity · mineral exploration investment, mining project access, future mineral supply  
-
-**What to watch.** Publication by the Agencia Nacional de Minería of the contracts and their exploration investment commitments.
-
-Sources:
-- https://eltiempo.com/economia/sectores/gobierno-nacional-firma-nueve-contratos-mineros-que-impulsaran-inversiones-en-exploracion-por-54-000-millones-3592606
-- https://rumbominero.com/colombia/colombia-adjudica-contratos-mineros-por-54-000-millones
-
-#### 6. Army confirms fighting on Pan-American Highway in Timbío
-
-The Army confirmed fighting with suspected Carlos Patiño members at El Bohío, Timbío, Cauca, on the Pan-American Highway, and the death of first sergeant Ángel David Ordóñez Ortiz. Its preliminary tally is four arrests; it seized two rifles, four handguns, a signal jammer and a vehicle. El Tiempo reported a car bomb and, in another report, at least seven possible arrests and wounded police officers. The count differs from the military statement; no road closure is documented.
-
-Exposure: Logistics, Security · armed fighting on highway → corridor security risk → road-freight operating uncertainty · highway security, corridor availability, road freight continuity, security costs  
-
-**What to watch.** An official notice establishing traffic restrictions at El Bohío on the Pan-American Highway.
-
-Sources:
-- https://x.com/COL_EJERCITO/status/2108770632578068964
-- https://eltiempo.com/colombia/otras-ciudades/frustran-atentado-terrorista-con-carro-bomba-en-la-via-panamericana-ejercito-verifica-la-zona-para-descartar-otros-explosivos-3592531
-- https://eltiempo.com/colombia/otras-ciudades/reportan-atentado-en-la-via-panamericana-entre-popayan-y-timbio-hubo-intercambio-de-disparos-un-suboficial-del-ejercito-muerto-y-policias-heridos-3592681
-
-#### Tracked situations
-
-- **Colombia boosts thermal fuel supply in response to El Niño**: No material change. Colombia boosts thermal fuel supply in response to El Niño
-- **Valor Economico: Brent closes at US$104.28 per barrel**: No material change. Valor Economico: Brent closes at US$104.28 per barrel
+- https://nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/101739.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCMEP3+shtml/102047.shtml
+- https://nhc.noaa.gov/text/refresh/MIAPWSEP3+shtml/102048.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/102049.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/100853.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/101151.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCMEP3+shtml/101452.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/101453.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/102048.shtml

@@ -1,121 +1,143 @@
-# Aldra SITREP · GLOBAL · 2026-10-11
+# Aldra SITREP · GLOBAL · 2026-10-12
 
 ## Español
 
-Edición: de respaldo · Sectores: Energía, Logística, Seguridad, Infraestructura · Publicada: 2026-10-11T07:03:55.784Z  
-Web: https://aldraresearch.com/sitreps/global-2026-10-11  
+Edición: parcial · Sectores: Energía, Logística, Seguridad, Infraestructura · Publicada: 2026-10-12T07:05:49.387Z  
+Web: https://aldraresearch.com/sitreps/global-2026-10-12  
 Licencia: CC BY 4.0
 
-### WPC: Isaias se debilita; riesgo de inundación en sureste de EEUU. Arabia Saudita suspende operaciones en el aeropuerto de Riad.
+### Argus: otros dos petroleros atacados cerca de Ormuz. GACA confirma un muerto y 11 heridos en aeropuerto de Riad.
 
-Vientos de unos 25 mph, según WPC. Bloomberg reporta más de 800.000 usuarios sin luz en la costa estadounidense del golfo. 12 muertos y 309 heridos, según Aviación Civil. Rubio atribuye el ataque a los hutíes y confirma una víctima estadounidense.
+Según Argus, hubo un incendio a bordo de un Suezmax con crudo iraquí. Dos marineros seguían desaparecidos al publicarse el reporte. La víctima era residente paquistaní. La autoridad sigue evaluando daños y la seguridad de las instalaciones. Zelensky: más de 200 golpes a generación y redes esta semana. Axios dice que la propuesta solo cubre refinerías; Rusia aún no la aceptó.
 
 ### Situaciones principales
 
-#### 1. WPC: Isaias se debilita; riesgo de inundación en sureste de EEUU
+#### 1. Argus: otros dos petroleros atacados cerca de Ormuz
 
-Isaias se debilitó rápidamente sobre Alabama y pasó a ser postropical, según el NHC, que cerró sus avisos y remitió el seguimiento al Weather Prediction Center (WPC). El parte de las 10:00 PM CDT del 10 de octubre situaba los vientos sostenidos en unos 25 mph, con movimiento al noreste a 16 mph hacia Tennessee.
+Argus reportó otros dos ataques contra petroleros el domingo: uno en el estrecho de Ormuz y otro frente a la costa de Omán, a partir de datos de seguimiento de buques y del ministro de transporte marítimo de India. Según el funcionario indio citado, uno era un Suezmax cargado con crudo iraquí que había zarpado el 8 de octubre. Un proyectil no identificado provocó un incendio a bordo; al publicarse el reporte, dos marineros seguían desaparecidos.
 
-El WPC mantiene el riesgo de inundaciones repentinas y urbanas en los Apalaches del sur y el sureste de Estados Unidos, y de deslizamientos en los Apalaches del sur. Advierte de ráfagas capaces de derribar árboles y tendidos y causar cortes eléctricos dispersos, sobre todo en zonas elevadas. También prevé posibles tornados en el este de Georgia y las Carolinas, y oleaje y corrientes de resaca peligrosos en las costas del golfo de Estados Unidos, México y el oeste de Cuba. Prevé la disipación de Isaias para el 12 de octubre.
+El otro buque era un petrolero de productos alcanzado por un dron, según Argus. gCaptain situó ambos ataques en el estrecho de Ormuz y también reportó que fuerzas de Estados Unidos inutilizaron un carguero en el golfo de Omán. Las fuentes difieren sobre la ubicación del segundo ataque; la información disponible no identifica los buques ni establece restricciones a la navegación o un cierre del estrecho.
 
-Bloomberg reportó más de 800.000 usuarios sin electricidad en la costa estadounidense del golfo tras vientos destructivos, inundaciones y marejada. Financial Times informó de al menos dos muertos e interrupciones en la producción estadounidense de petróleo y gas, con Florida, Alabama y Georgia afectadas.
+Exposición: Energía, Logística, Seguridad, Commodities · reported tanker attacks → vessel damage and crew risk → crude and product shipment risk → freight and insurance repricing risk · Tanker war-risk premiums, Tanker freight rates, Crude export flows, Refined-product shipping flows  
+**Evaluación de Aldra** (confianza: baja, dirección: se deteriora). Los reportes alcanzan tanto cargamentos de crudo como transporte de productos: el riesgo operativo no se limita a un solo flujo. El incendio y los desaparecidos sustentan una lectura de deterioro si se confirman, pero no permiten afirmar un cierre ni mayores primas de seguro.
 
-Exposición: Energía, Infraestructura, Logística · post-tropical rainfall and wind gusts → flooding and powerline damage risk → electricity and transport disruption → operational recovery constraints · electricity outages, power restoration, transport access, US oil and gas production  
-**Evaluación de Aldra** (confianza: moderada, dirección: incierta). La menor fuerza del viento no resuelve el riesgo operativo: la lluvia y los deslizamientos pueden prolongar problemas de acceso y de red eléctrica. Los avisos describen riesgos, no daños verificados en instalaciones concretas.
-
-**Qué vigilar.** El próximo parte del WPC que retire o mantenga el riesgo de inundaciones y deslizamientos en los Apalaches del sur.
+**Qué vigilar.** Un aviso marítimo oficial que identifique los petroleros atacados y detalle daños o restricciones a la navegación.
 
 Fuentes:
-- https://nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/100845.shtml
-- https://nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/110235.shtml
-- https://nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/110237.shtml
-- https://bloomberg.com/news/articles/2026-10-10/isaias-leaves-thousands-without-power-after-striking-gulf-coast
-- https://ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1
-- https://nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/101533.shtml
-- https://nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/102037.shtml
-- https://nhc.noaa.gov/text/refresh/MIATCMAT4+shtml/102037.shtml
-- https://nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/102038.shtml
+- https://gcaptain.com/more-tankers-hit-in-hormuz-as-u-s-strikes-cargo-ship
+- https://oilprice.com/Latest-Energy-News/World-News/Two-More-Oil-Tankers-Attacked-Near-Strait-of-Hormuz.html
 
-#### 2. Arabia Saudita suspende operaciones en el aeropuerto de Riad
+#### 2. GACA confirma un muerto y 11 heridos en aeropuerto de Riad
 
-La Autoridad General de Aviación Civil de Arabia Saudita anunció la suspensión temporal de operaciones en King Khalid International Airport, en Riad, tras un nuevo ataque. Las autoridades de Aviación Civil confirmaron 12 muertos y 309 heridos; varios de los heridos permanecen en estado crítico.
+La autoridad de aviación civil de Arabia Saudita (GACA) confirmó un muerto y 11 heridos en el ataque del domingo al Aeropuerto Internacional King Khalid de Riad. Identificó al fallecido como un residente paquistaní y señaló que los heridos fueron trasladados a hospitales. El ataque causó daños materiales que seguían en evaluación; las autoridades también verificaban la seguridad de las instalaciones con los organismos pertinentes.
 
-Entre los muertos hay 4 saudíes, 2 bangladesíes y una persona de cada una de estas nacionalidades: estadounidense, egipcia, jordana, siria, palestina y sudanesa. El secretario de Estado Marco Rubio condenó el ataque, lo atribuyó a los hutíes y confirmó la muerte de un ciudadano estadounidense. Expresó el respaldo de Estados Unidos a Arabia Saudita y pidió que cesen los ataques.
+Unidad Editorial atribuyó el nuevo ataque a los hutíes y reportó que el aeropuerto volvió a suspender operaciones «hasta nuevo aviso». La misma nota menciona la muerte de 12 personas el sábado. Los textos atribuidos a GACA confirman las víctimas y la evaluación de daños, pero no identifican al responsable del ataque ni anuncian la reanudación de operaciones.
 
-Reuters reportó que todos los vuelos hacia y desde el aeropuerto fueron desviados o cancelados. Associated Press citó a dos funcionarios regionales anónimos: uno dijo que se evacuó el aeropuerto y el otro que se detuvo el tráfico aéreo. El aeropuerto pidió a los pasajeros consultar el estado de sus vuelos antes de viajar. Según Associated Press, el aeropuerto había sufrido ataques repetidos durante la semana desde el inicio de una ofensiva militar liderada por Arabia Saudita contra los hutíes en Yemen.
+Exposición: Infraestructura, Logística, Seguridad · airport attack → material damage → facility safety checks → airport operational uncertainty · airport operational status, airport operational risk, flight disruption, aviation security  
 
-Exposición: Infraestructura, Logística, Seguridad · airport attack → temporary operations suspension → flight cancellations and diversions · airport availability, flight throughput, flight cancellations and diversions, aviation security risk  
-
-**Qué vigilar.** Un aviso de la Autoridad General de Aviación Civil que confirme la reanudación de operaciones en King Khalid International Airport.
+**Qué vigilar.** Un aviso de GACA que confirme la reanudación de operaciones en el Aeropuerto Internacional King Khalid.
 
 Fuentes:
-- https://x.com/hubofintel/status/2108961801513927007
-- https://x.com/FaytuksNetwork/status/2109040073786155080
-- https://x.com/InsiderGeo/status/2109075647263883427
-- https://x.com/Osint613/status/2109079714790789301
-- https://x.com/IsraelWarRoom/status/2108933359137181874
-- https://x.com/sentdefender/status/2108924475924250811
-- https://x.com/vcdgf555/status/2109057755290259473
-- https://x.com/InsiderGeo/status/2109065757724422192
-- https://x.com/sentdefender/status/2109071372244705403
-- https://x.com/FaytuksNetwork/status/2109073313947677004
+- https://x.com/Osint613/status/2109433595324764197
+- https://aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport
+- https://aa.com.tr/en/middle-east/1-person-killed-11-injured-in-attack-on-king-khalid-international-airport-in-riyadh/4085520
+- https://saudigazette.com.sa/article/665327/saudi-arabia/pakistani-resident-killed-11-injured-in-riyadh-airport-attack
+- https://elmundo.es/internacional/2026/10/11/6acb5c33e4d4d89f188b459d.html
+
+#### 3. Zelensky: Rusia ataca centrales en Kiev y Járkov
+
+Zelensky informó de un ataque ruso con un dron «shahed» contra una central de Kiev, con cortes de luz en muchos distritos, y de posteriores ataques a instalaciones energéticas en la región de Járkov. Dijo que ocurrieron después del anuncio de Trump de un alto el fuego energético. En su balance semanal denunció más de 200 golpes a generación y transmisión, otros 17 a instalaciones de gas y petróleo, más de 150 muertos y más de 700 heridos.
+
+Trump afirmó que ambas partes habían acordado una tregua «inmediata». Zelensky dijo a Axios que era nuevo para él y que Ucrania aceptaría si Rusia lo hacía. Financial Times citó a un alto funcionario ucraniano que desconocía el acuerdo y dijo que equipos restauraban luz y agua en Kiev. Según Axios, un funcionario de la Casa Blanca describió una propuesta limitada a refinerías: Rusia aún no la había aceptado; centrales y redes podrían abordarse después. Un funcionario ucraniano dijo al medio que su única refinería no era plenamente operativa y que necesitaban proteger la red.
+
+Zelensky agradeció a Ursula la recepción de €1,24 mil millones para defensa y la confirmación de otros aproximadamente €3 mil millones de apoyo militar para la semana siguiente. Dijo que las Fuerzas Armadas habían recibido las órdenes pertinentes y que esperaba detalles del diálogo entre Estados Unidos y Rusia.
+
+Exposición: Energía, Infraestructura, Seguridad · continued energy strikes → generation and grid damage risk → electricity supply disruption · Electricity supply, Power generation capacity, Grid reliability, Power-asset security  
+**Evaluación de Aldra** (confianza: moderada, dirección: se deteriora). El alcance importa: una pausa en refinerías no protegería por sí sola la generación ni la red. Los ataques descritos y la falta de aceptación rusa reportada impiden tratar el anuncio como una reducción confirmada del riesgo operativo.
+
+**Qué vigilar.** Un texto oficial del acuerdo que precise si cubre refinerías, centrales y redes, con aceptación de Rusia y Ucrania.
+
+Fuentes:
+- https://x.com/Osinttechnical/status/2109351239620423952
+- https://x.com/jimsciutto/status/2109376048060101057
+- https://axios.com/2026/10/11/russia-ukraine-oil-energy-ceasefire-trump-putin-zelensky
+- https://x.com/BarakRavid/status/2109294454343627173
+- https://x.com/Osint613/status/2109296973870190784
+- https://x.com/ChristopherJM/status/2109291090092167567
+- https://x.com/ChristopherJM/status/2109297208977957250
+
+#### Situaciones seguidas
+
+- **Fuerzas yemeníes reclaman control efectivo de Bab el-Mandeb, según Reuters**: Sin cambio material. La reclamación de control efectivo de Bab el-Mandeb por las fuerzas respaldadas por Arabia Saudita podría reducir el riesgo de tránsito en el mar Rojo si se confirma.
+- **Isaias alcanza 60 nudos rumbo a la costa norte del golfo**: Sin cambio material. La menor fuerza del viento no resuelve el riesgo operativo: la lluvia y los deslizamientos pueden prolongar problemas de acceso y de red eléctrica. Los avisos describen riesgos, no daños verificados en instalaciones concretas.
 
 ## English
 
-Edition: fallback · Sectors: Energy, Logistics, Security, Infrastructure · Published: 2026-10-11T07:03:55.784Z  
-Web: https://aldraresearch.com/sitreps/global-2026-10-11  
+Edition: partial · Sectors: Energy, Logistics, Security, Infrastructure · Published: 2026-10-12T07:05:49.387Z  
+Web: https://aldraresearch.com/sitreps/global-2026-10-12  
 License: CC BY 4.0
 
-### WPC: Isaias weakens; flood risk in southeastern US. Saudi Arabia suspends operations at Riyadh airport.
+### Argus: two more tankers attacked near Hormuz. GACA confirms one dead, 11 injured at Riyadh airport.
 
-About 25 mph winds, WPC says. Bloomberg reports more than 800,000 customers without power on the US Gulf Coast. 12 killed and 309 injured, civil aviation authorities say. Rubio blames the Houthis and confirms an American death.
+Argus reports fire aboard a Suezmax carrying Iraqi crude. Two sailors were still missing when the report was published. The victim was a Pakistani resident. Authorities are still assessing damage and checking facility safety. Zelensky: more than 200 generation and grid strikes this week. Axios says Russia has not yet accepted the refinery-only proposal.
 
 ### Main situations
 
-#### 1. WPC: Isaias weakens; flood risk in southeastern US
+#### 1. Argus: two more tankers attacked near Hormuz
 
-Isaias rapidly weakened over Alabama and became post-tropical, according to NHC, which ended its advisories and directed further coverage to the Weather Prediction Center (WPC). The 10:00 PM CDT update on October 10 put sustained winds at about 25 mph, with northeastward movement at 16 mph toward Tennessee.
+Argus reported two more tanker attacks on Sunday: one in the Strait of Hormuz and another off the coast of Oman, citing ship-tracking data and the Indian shipping minister. According to the Indian official cited, one was a Suezmax carrying Iraqi crude that had sailed on October 8. An unidentified projectile caused a fire aboard; when the report was published, two sailors were still missing.
 
-WPC maintains the risk of flash and urban flooding in the Southern Appalachians and southeastern US, and landslides in the Southern Appalachians. It warns of gusts capable of bringing down trees and powerlines and causing scattered outages, particularly in elevated terrain. It also forecasts possible tornadoes in eastern Georgia and the Carolinas, and dangerous surf and rip currents along the Gulf coasts of the US, Mexico and western Cuba. It forecasts Isaias to dissipate by October 12.
+The other vessel was a product tanker hit by a drone, according to Argus. gCaptain placed both attacks in the Strait of Hormuz and also reported that U.S. forces disabled a cargo vessel in the Gulf of Oman. The sources differ on the second attack's location; the available information does not identify the vessels or establish navigation restrictions or a closure of the strait.
 
-Bloomberg reported more than 800,000 customers without electricity on the US Gulf Coast after destructive winds, flooding and storm surge. Financial Times reported at least two deaths and disruption to US oil and gas production, with Florida, Alabama and Georgia affected.
+Exposure: Energy, Logistics, Security, Commodities · reported tanker attacks → vessel damage and crew risk → crude and product shipment risk → freight and insurance repricing risk · Tanker war-risk premiums, Tanker freight rates, Crude export flows, Refined-product shipping flows  
+**Aldra assessment** (confidence: low, direction: deteriorating). The reports cover both crude cargoes and product transport: operational risk is not confined to one flow. The fire and missing sailors support a deteriorating assessment if confirmed, but do not establish a closure or higher insurance premiums.
 
-Exposure: Energy, Infrastructure, Logistics · post-tropical rainfall and wind gusts → flooding and powerline damage risk → electricity and transport disruption → operational recovery constraints · electricity outages, power restoration, transport access, US oil and gas production  
-**Aldra assessment** (confidence: moderate, direction: unclear). Weaker winds do not resolve operational risk: rain and landslides can prolong access and electricity-network problems. The advisories describe risks, not verified damage at specific facilities.
-
-**What to watch.** The next WPC update withdrawing or maintaining flood and landslide risk in the Southern Appalachians.
+**What to watch.** An official maritime notice identifying the attacked tankers and detailing damage or navigation restrictions.
 
 Sources:
-- https://nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/100845.shtml
-- https://nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/110235.shtml
-- https://nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/110237.shtml
-- https://bloomberg.com/news/articles/2026-10-10/isaias-leaves-thousands-without-power-after-striking-gulf-coast
-- https://ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1
-- https://nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/101533.shtml
-- https://nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/102037.shtml
-- https://nhc.noaa.gov/text/refresh/MIATCMAT4+shtml/102037.shtml
-- https://nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/102038.shtml
+- https://gcaptain.com/more-tankers-hit-in-hormuz-as-u-s-strikes-cargo-ship
+- https://oilprice.com/Latest-Energy-News/World-News/Two-More-Oil-Tankers-Attacked-Near-Strait-of-Hormuz.html
 
-#### 2. Saudi Arabia suspends operations at Riyadh airport
+#### 2. GACA confirms one dead, 11 injured at Riyadh airport
 
-Saudi Arabia's General Authority of Civil Aviation announced the temporary suspension of operations at King Khalid International Airport in Riyadh after another attack. Civil aviation authorities confirmed 12 deaths and 309 injuries; several of the injured remain in critical condition.
+Saudi Arabia's civil aviation authority (GACA) confirmed one death and 11 injuries in Sunday's attack on King Khalid International Airport in Riyadh. It identified the deceased as a Pakistani resident and said the injured were taken to hospitals. The attack caused material damage that was still being assessed; authorities were also checking the safety of airport facilities with the relevant agencies.
 
-Those killed include 4 Saudi nationals, 2 Bangladeshi nationals and one person of each of these nationalities: American, Egyptian, Jordanian, Syrian, Palestinian and Sudanese. Secretary of State Marco Rubio condemned the attack, attributed it to the Houthis and confirmed the death of an American citizen. He expressed United States support for Saudi Arabia and called for the attacks to stop.
+Unidad Editorial attributed the new attack to the Houthis and reported that the airport had again suspended operations “until further notice.” The same report mentions the deaths of 12 people on Saturday. The texts attributed to GACA confirm the casualties and damage assessment, but do not identify the attacker or announce the resumption of operations.
 
-Reuters reported that all flights to and from the airport were diverted or canceled. Associated Press cited two anonymous regional officials: one said the airport was evacuated and the other that air traffic had stopped. The airport asked passengers to check their flight status before traveling. According to Associated Press, the airport had suffered repeated attacks during the week since a Saudi-led military offensive against the Houthis in Yemen began.
+Exposure: Infrastructure, Logistics, Security · airport attack → material damage → facility safety checks → airport operational uncertainty · airport operational status, airport operational risk, flight disruption, aviation security  
 
-Exposure: Infrastructure, Logistics, Security · airport attack → temporary operations suspension → flight cancellations and diversions · airport availability, flight throughput, flight cancellations and diversions, aviation security risk  
-
-**What to watch.** A General Authority of Civil Aviation notice confirming the resumption of operations at King Khalid International Airport.
+**What to watch.** A GACA notice confirming the resumption of operations at King Khalid International Airport.
 
 Sources:
-- https://x.com/hubofintel/status/2108961801513927007
-- https://x.com/FaytuksNetwork/status/2109040073786155080
-- https://x.com/InsiderGeo/status/2109075647263883427
-- https://x.com/Osint613/status/2109079714790789301
-- https://x.com/IsraelWarRoom/status/2108933359137181874
-- https://x.com/sentdefender/status/2108924475924250811
-- https://x.com/vcdgf555/status/2109057755290259473
-- https://x.com/InsiderGeo/status/2109065757724422192
-- https://x.com/sentdefender/status/2109071372244705403
-- https://x.com/FaytuksNetwork/status/2109073313947677004
+- https://x.com/Osint613/status/2109433595324764197
+- https://aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport
+- https://aa.com.tr/en/middle-east/1-person-killed-11-injured-in-attack-on-king-khalid-international-airport-in-riyadh/4085520
+- https://saudigazette.com.sa/article/665327/saudi-arabia/pakistani-resident-killed-11-injured-in-riyadh-airport-attack
+- https://elmundo.es/internacional/2026/10/11/6acb5c33e4d4d89f188b459d.html
+
+#### 3. Zelensky: Russia strikes power plants in Kyiv and Kharkiv
+
+Zelensky reported a Russian “shahed” drone strike on a Kyiv power plant, with outages in many districts, and subsequent attacks on energy facilities in the Kharkiv region. He said these occurred after Trump's energy ceasefire announcement. In his weekly account, he cited more than 200 strikes on generation and transmission, another 17 on gas and oil facilities, more than 150 deaths and more than 700 injuries.
+
+Trump said both parties had agreed to an “immediate” ceasefire. Zelensky told Axios it was news to him and Ukraine would agree if Russia did. Financial Times cited a senior Ukrainian official who knew nothing of the agreement and said crews were restoring electricity and water in Kyiv. According to Axios, a White House official described a refinery-only proposal: Russia had not yet accepted it; power plants and grids could be addressed later. A Ukrainian official told the outlet that the country's only refinery was not fully functional and that they needed protection for the grid.
+
+Zelensky thanked Ursula for the receipt of €1.24 billion for defense and confirmation of approximately another €3 billion in military support for the following week. He said the Armed Forces had received the appropriate orders and that he awaited details of the dialogue between the United States and Russia.
+
+Exposure: Energy, Infrastructure, Security · continued energy strikes → generation and grid damage risk → electricity supply disruption · Electricity supply, Power generation capacity, Grid reliability, Power-asset security  
+**Aldra assessment** (confidence: moderate, direction: deteriorating). Scope matters: a pause in refinery attacks would not itself protect generation or the grid. The described strikes and reported lack of Russian acceptance prevent treating the announcement as a confirmed reduction in operational risk.
+
+**What to watch.** An official agreement text specifying whether refineries, power plants and grids are covered, accepted by Russia and Ukraine.
+
+Sources:
+- https://x.com/Osinttechnical/status/2109351239620423952
+- https://x.com/jimsciutto/status/2109376048060101057
+- https://axios.com/2026/10/11/russia-ukraine-oil-energy-ceasefire-trump-putin-zelensky
+- https://x.com/BarakRavid/status/2109294454343627173
+- https://x.com/Osint613/status/2109296973870190784
+- https://x.com/ChristopherJM/status/2109291090092167567
+- https://x.com/ChristopherJM/status/2109297208977957250
+
+#### Tracked situations
+
+- **Yemeni forces claim effective control of Bab el-Mandeb, according to Reuters**: No material change. The claim of effective control of Bab el-Mandeb by Saudi-backed forces could reduce transit risk in the Red Sea if confirmed.
+- **Isaias reaches 60 knots toward the northern Gulf Coast**: No material change. Weaker winds do not resolve operational risk: rain and landslides can prolong access and electricity-network problems. The advisories describe risks, not verified damage at specific facilities.

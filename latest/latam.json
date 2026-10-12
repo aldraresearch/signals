@@ -2,153 +2,261 @@
   "schema_version": 2,
   "product": "LATAM",
   "date": "2026-10-12",
-  "kind": "partial",
+  "kind": "fallback",
   "sectors": [
     "logistics",
     "infrastructure",
+    "sovereign_finance",
     "energy",
     "mining",
     "security",
-    "sovereign_finance"
+    "agriculture",
+    "commodities"
   ],
   "themes": [
-    "weather_climate"
+    "weather_climate",
+    "macro",
+    "regulation"
   ],
-  "published_at": "2026-10-12T08:00:55.661Z",
+  "published_at": "2026-10-12T10:33:50.540Z",
   "web_url": "https://aldraresearch.com/sitreps/latam-2026-10-12",
   "headline": {
-    "en": "Hurricane Simon category 3 near Cabo Corrientes; ports closed. Tropical storm Rachel leaves one dead and seven missing in Baja California.",
-    "es": "Huracán Simón categoría 3 cerca de Cabo Corrientes; puertos cerrados. Tormenta tropical Rachel deja un muerto y siete desaparecidos en Baja California."
+    "en": "Mexico extends Simon hurricane watch along the Pacific coast. Codelco confirms two landslide deaths at El Teniente.",
+    "es": "México amplía vigilancia por Simón en la costa del Pacífico. Codelco confirma dos muertos por alud en El Teniente."
   },
   "summary": {
-    "en": "Simon cat 3, 81 km south of Cabo Corrientes. Ports closed in Nayarit, Jalisco, Colima. Winds 220 km/h. Rachel left one dead and seven missing in Baja California. More than 300 flood reports and 200 rescues. Civil Protection attended 425 cases.",
-    "es": "Simon cat 3 a 81 km de Cabo Corrientes. Puertos cerrados en Nayarit, Jalisco, Colima. Vientos 220 km/h. Rachel dejó un muerto y siete desaparecidos en Baja California. Más de 300 reportes de inundaciones y 200 rescates. Protección Civil atendió 425 casos."
+    "en": "Manzanillo and Lázaro Cárdenas are closed to all navigation, the Navy reported. The NHC recorded winds of 215 km/h. Reuters reports a partial suspension. La Tercera says open-pit operations were already halted by bad weather. Infobae says 80% is already registered. The official device will be required to move adult cattle outside farms. Transport officials date the backlog to 2015 and say parts were bought, according to Clarín. The outlet reports delays and cancellations. Infobae reports prices up 55.4% and volume up 15.4%. Six-month receipts nearly matched eight out of every ten dollars earned in all of 2025.",
+    "es": "Manzanillo y Lázaro Cárdenas cerrados a toda navegación, informó la Marina. El NHC registró vientos de 215 km/h. Reuters reporta suspensión parcial. La Tercera dice que el rajo abierto ya estaba parado por mal tiempo. El 80% ya está registrado, según Infobae. El dispositivo oficial será exigido para sacar bovinos adultos de las fincas. Transporte sitúa el atraso en 2015 y dice que compró repuestos, según Clarín. El medio reporta demoras y cancelaciones. Según Infobae, el precio promedio subió 55,4% y el volumen, 15,4%. En seis meses se obtuvo casi ocho de cada diez dólares del total de 2025."
   },
   "stories": [
     {
-      "id": "latam-2026-10-12-3f46a45e47",
+      "id": "latam-2026-10-12-a322137088",
       "status": "CONFIRMED",
       "tier": "major",
       "heading": {
-        "en": "Hurricane Simon category 3 near Cabo Corrientes; ports closed",
-        "es": "Huracán Simón categoría 3 cerca de Cabo Corrientes; puertos cerrados"
+        "en": "Mexico extends Simon hurricane watch along the Pacific coast",
+        "es": "México amplía vigilancia por Simón en la costa del Pacífico"
       },
       "text": {
-        "en": "Since the previous report, Simon weakened to category 3 and is located 81 km south of Cabo Corrientes, Jalisco, moving north-northwest. SEMAR reports sustained winds of 220 km/h and waves of 5 to 7 meters. Ports of San Blas and Chacala in Nayarit, Puerto Vallarta in Jalisco, Manzanillo in Colima and Lázaro Cárdenas in Michoacán remain closed to all navigation.\n\nNHC indicates the center is near the coast and gradual weakening is expected upon entering the Gulf of California. Alerts remain for heavy rains, strong winds and risk of flooding and landslides in coastal areas of Jalisco, Colima, Nayarit and Michoacán.\n\nThe NHC forecasts that Simon will avoid a direct landfall in the short term but its eastern inner core will produce hurricane conditions.",
-        "es": "Desde el reporte anterior, Simón se debilitó a categoría 3 y se ubica a 81 km al sur de Cabo Corrientes, Jalisco, moviéndose al norte-noroeste. SEMAR reporta vientos sostenidos de 220 km/h y oleaje de 5 a 7 metros. Los puertos de San Blas y Chacala en Nayarit, Puerto Vallarta en Jalisco, Manzanillo en Colima y Lázaro Cárdenas en Michoacán permanecen cerrados a toda la navegación.\n\nNHC indica que el centro está cerca de la costa y se prevé debilitamiento gradual al ingresar al Golfo de California. Se mantienen alertas por lluvias fuertes, vientos intensos y riesgo de inundaciones y deslaves en zonas costeras de Jalisco, Colima, Nayarit y Michoacán.\n\nEl NHC pronostica que Simon evitará un impacto directo en tierra a corto plazo pero sus efectos en el núcleo oriental producirán condiciones de huracán."
+        "en": "The NHC reported on October 11 that Mexico had issued a hurricane watch north of El Roblito to Bahia Tempehuaya. Advisory 18 retained the hurricane warning from Punta San Telmo to El Roblito and for Las Islas Marias. It placed the centre 90 km south of Cabo Corrientes and 170 km west-northwest of Manzanillo, with sustained winds of 215 km/h.\n\nIn its preceding report, the Navy recorded winds of 220 km/h and seas of 5 to 7 metres. It reported San Blas, Puerto Vallarta, Manzanillo and Lázaro Cárdenas closed to all navigation, with small-vessel restrictions at Teacapán, La Cruz de Huanacaxtle, Nuevo Vallarta, Barra de Navidad, Zihuatanejo and Puerto Marqués. It forecast weakening to category 3 in the next 6 to 12 hours through interaction with Jalisco, followed by further weakening at the entrance to the Gulf of California.\n\nThe National Guard reported clearing drains, moving people to safe locations and removing debris in Acapulco. The Navy kept its assistance and prevention plan active, including evacuations, cleaning and public assistance. The SSPC reported more than 22 thousand personnel available to respond to emergencies.",
+        "es": "El NHC informó el 11 de octubre que México emitió vigilancia de huracán al norte de El Roblito hasta Bahía Tempehuaya. En el aviso 18, mantuvo la advertencia de huracán de Punta San Telmo a El Roblito y para las Islas Marías. Situó el centro a 90 km al sur de Cabo Corrientes y a 170 km al oeste-noroeste de Manzanillo, con vientos sostenidos de 215 km/h.\n\nEn su reporte previo, la Marina registró vientos de 220 km/h y oleaje de 5 a 7 metros. Reportó cerrados a toda navegación San Blas, Puerto Vallarta, Manzanillo y Lázaro Cárdenas, y restricciones para embarcaciones menores en Teacapán, La Cruz de Huanacaxtle, Nuevo Vallarta, Barra de Navidad, Zihuatanejo y Puerto Marqués. Preveía una bajada a categoría 3 en las próximas 6 a 12 horas por interacción con Jalisco, seguida de debilitamiento en la entrada del golfo de California.\n\nLa Guardia Nacional informó trabajos de desazolve, traslado de personas a lugares seguros y retiro de escombros en Acapulco. La Marina mantuvo activo su plan de auxilio y prevención, con evacuaciones, limpieza y atención a la población. La SSPC reportó más de 22 mil elementos para atender emergencias."
       },
       "exposure": {
         "sectors": [
           "logistics",
           "infrastructure",
-          "energy"
+          "security"
         ],
         "assets_or_markets": [
-          "Puerto Manzanillo",
-          "Puerto Vallarta"
+          "Manzanillo port",
+          "Lázaro Cárdenas port",
+          "Puerto Vallarta port",
+          "San Blas port"
         ],
         "transmission_path": [
-          "hurricane proximity to coast",
-          "port closures",
-          "navigation restrictions",
-          "supply disruption"
+          "Hurricane exposure",
+          "Port closures",
+          "Coastal shipping disruption"
         ],
         "variables": [
-          "port operating status",
-          "coastal navigation risk",
-          "fuel distribution continuity"
+          "Port access",
+          "Commercial navigation availability",
+          "Coastal transport continuity",
+          "Emergency response capacity"
         ]
       },
       "assessment": {
         "confidence": "high",
-        "direction": "deteriorating",
+        "direction": "stable",
         "text": {
-          "en": "Port closures persist as the hurricane weakens upon interacting with the coast. Evidence from SEMAR and NHC shows that the risk to commercial navigation continues in the region.",
-          "es": "Los cierres de puertos persisten mientras el huracán se debilita al interactuar con la costa. La evidencia de SEMAR y NHC muestra que el riesgo de navegación comercial continúa en la región."
+          "en": "Forecast weakening does not amount to operational recovery: closures restrict navigation while the watch extends northward. The evidence confirms neither port damage nor a reopening date.",
+          "es": "El debilitamiento previsto no equivale a recuperación operativa: los cierres restringen la navegación mientras la vigilancia se amplía hacia el norte. La evidencia no confirma daños portuarios ni una fecha de reapertura."
         }
       },
       "watch": {
-        "en": "Next NHC update on Simon's position and strength",
-        "es": "Próxima actualización del NHC sobre la posición y fuerza de Simón"
+        "en": "A Navy notice reopening Manzanillo or Lázaro Cárdenas to all navigation.",
+        "es": "Un aviso de la Marina que reabra Manzanillo o Lázaro Cárdenas a toda la navegación."
       },
       "sources": [
-        "https://nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/111144.shtml",
+        "https://nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/112054.shtml",
         "https://x.com/SEMAR_mx/status/2109364480853283155",
-        "https://nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/111741.shtml",
-        "https://x.com/SEMAR_mx/status/2109450626086097270",
-        "https://nhc.noaa.gov/text/refresh/MIAPWSEP5+shtml/110856.shtml",
-        "https://x.com/SEMAR_mx/status/2109269342286229639",
-        "https://x.com/Claudiashein/status/2109312676706812380",
         "https://x.com/GN_MEXICO_/status/2109316377093759097",
         "https://x.com/SEMAR_mx/status/2109317448084099173",
-        "https://nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/112052.shtml",
-        "https://nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/112054.shtml",
-        "https://nhc.noaa.gov/text/refresh/MIAPWSEP5+shtml/112054.shtml",
-        "https://nhc.noaa.gov/text/refresh/MIATCDEP5+shtml/112112.shtml"
+        "https://x.com/SSPCMexico/status/2109336951690277249",
+        "https://nhc.noaa.gov/text/refresh/MIATCDEP5+shtml/110859.shtml",
+        "https://x.com/SEMAR_mx/status/2109269342286229639",
+        "https://x.com/Claudiashein/status/2109312676706812380",
+        "https://nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/111741.shtml",
+        "https://nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/112052.shtml"
       ]
     },
     {
-      "id": "latam-2026-10-12-6f5f5079d6",
+      "id": "latam-2026-10-12-4427e8850f",
       "status": "CONFIRMED",
-      "tier": "brief",
+      "tier": "major",
       "heading": {
-        "en": "Tropical storm Rachel leaves one dead and seven missing in Baja California",
-        "es": "Tormenta tropical Rachel deja un muerto y siete desaparecidos en Baja California"
+        "en": "Codelco confirms two landslide deaths at El Teniente",
+        "es": "Codelco confirma dos muertos por alud en El Teniente"
       },
       "text": {
-        "en": "Tropical storm Rachel in Baja California left one dead, seven people reported missing and more than 300 flood reports. Sinkholes, collapsed buildings and more than 200 rescues carried out are reported, with a total of 425 attentions by state Civil Protection.",
-        "es": "La tormenta tropical Rachel en Baja California dejó un muerto, siete personas reportadas como desaparecidas y más de 300 reportes de inundaciones. Se reportan socavones, inmuebles colapsados y más de 200 rescates realizados, con un total de 425 atenciones por Protección Civil estatal."
+        "en": "Codelco confirmed the deaths of two subcontractor workers following a landslide at El Teniente. Reuters reported a partial operating suspension after the fatal accident. Minería Chilena reported that PDI and Public Prosecutor's Office personnel were at the site to conduct inquiries and clarify the circumstances.\n\nEarly reports described efforts to rescue three workers. La Tercera reported that one had been rescued and taken to a medical facility while the other two remained the subject of rescue efforts. Minería Chilena placed the emergency in the open-pit sector and linked it to weather conditions.\n\nLa Tercera subsequently said the deceased workers belonged to San Lorenzo and provided services through Aura. Their duties were linked to inspections of open-pit areas, where operations, according to the outlet, had already been suspended because of bad weather. That description of their duties does not establish that they were conducting inspections when the landslide occurred. The outlet also reported that the union sought an investigation into why they were working in a critical area; Reuters did not specify the scope of the partial suspension.",
+        "es": "Codelco confirmó la muerte de dos trabajadores de una empresa subcontratista tras un alud en El Teniente. Reuters reportó una suspensión parcial de operaciones después del accidente fatal. Minería Chilena informó que personal de la PDI y del Ministerio Público estaba en el lugar para realizar diligencias y esclarecer las circunstancias.\n\nLos primeros reportes describían labores de rescate de tres trabajadores. La Tercera informó que uno había sido auxiliado y trasladado a un centro asistencial, mientras otros dos seguían en proceso de rescate. Minería Chilena situó la emergencia en el sector de la mina a rajo abierto y la vinculó a las condiciones climáticas.\n\nLa Tercera señaló después que los fallecidos pertenecían a San Lorenzo y prestaban servicios a través de Aura. Sus funciones estaban vinculadas a la inspección de sectores del rajo abierto, cuyas operaciones, según ese medio, ya estaban suspendidas por el mal tiempo. Esa descripción de funciones no establece que efectuaran inspecciones cuando ocurrió el alud. El medio también reportó que el sindicato pidió investigar por qué realizaban labores en una zona crítica; Reuters no precisó el alcance de la suspensión parcial."
       },
       "exposure": {
         "sectors": [
-          "infrastructure",
-          "logistics"
+          "mining",
+          "security"
         ],
         "assets_or_markets": [
-          "Baja California"
+          "El Teniente mine operations",
+          "El Teniente subcontractor workforce"
         ],
         "transmission_path": [
-          "storm rainfall",
-          "flooding",
-          "transport disruption"
+          "landslide",
+          "reported partial operating suspension",
+          "mine operating continuity uncertainty"
         ],
         "variables": [
-          "regional transport access",
-          "road and building availability"
+          "Mine operating status",
+          "Worksite access",
+          "Workforce safety"
+        ]
+      },
+      "assessment": null,
+      "watch": {
+        "en": "A Codelco statement specifying the scope of the suspension and the operating status of the open-pit sector.",
+        "es": "Un comunicado de Codelco que precise el alcance de la suspensión y el estado operativo del rajo abierto."
+      },
+      "sources": [
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGhTZXZKbVJyS2gyek1RTUY3VFlUTlBXalp0SkdiOGhJUHJFT0kzRjFMLWxMNUZ1YkFDRGdjU3d1dUxJMS1sd25oUzVFTnZBZWhuWFVxRDhuU3phOF9EOHAtR2VDamVBbGZkRURtcURpQU9yaFhaTGQyQ3hfYi1fNkRfNnoxUEphUlN2bU9XX1EyMHBpWlBDQlRJN0M?oc=5",
+        "https://mch.cl/codelco-informa-deceso-de-trabajadores-tras-alud-en-el-teniente",
+        "https://latercera.com/nacional/noticia/alud-de-barro-en-mina-el-teniente-un-trabajador-fue-auxiliado-y-otros-dos-estan-en-proceso-de-ser-rescatados",
+        "https://mch.cl/ultimo-minuto-codelco-informa-labores-de-rescate-de-tres-trabajadores-tras-alud-en-el-teniente",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQemctZDVjSUo2MDFRM1NPUW5XcS1xTldoZ21RYjJ4ckVldTZRQW1XM1ZDcTFxc3JZOVFKNEk4X3k5cmxmV2k3cXRuNnFBcjZfMzI4UElBdnpKMm56Qk96eVNEb1hqZzZUd2VRMEsyVDktQkNqRVlVeXAtRkpFR0RmellVZjFmQzZMS3dwZmc2ZkNlNV9mZ3VjNy1MY2FCaXBBcUJKakZ1NkZMQmlfODhvdTRhUzFvWEFiR1F5UzVNMA?oc=5",
+        "https://latercera.com/nacional/noticia/tragedia-en-el-teniente-hallan-muertos-a-dos-trabajadores-tras-alud-y-sindicato-pide-indagar-por-que-trabajaban-en-zona-critica",
+        "https://x.com/biobio/status/2109356169911542159",
+        "https://x.com/biobio/status/2109430011530719542"
+      ]
+    },
+    {
+      "id": "latam-2026-10-12-cb94211bc5",
+      "status": "CLAIM",
+      "tier": "brief",
+      "heading": {
+        "en": "Infobae: Costa Rica sets October 26 cattle identification deadline",
+        "es": "Infobae: Costa Rica fija trazabilidad bovina para el 26-oct"
+      },
+      "text": {
+        "en": "According to Infobae, Laura Fernández Delgado's government set October 26, 2026, as the deadline to identify adult cattle before requiring the official device to move them outside farms. The outlet says 80% of livestock is already registered and describes official traceability as a measure against meat smuggling. The requirement applies to animal movements.",
+        "es": "Según Infobae, el Gobierno de Laura Fernández Delgado fijó el 26 de octubre de 2026 como fecha límite para identificar bovinos adultos antes de exigir el dispositivo oficial para movilizarlos fuera de las fincas. El medio señala que el 80% del ganado ya está registrado y presenta la trazabilidad oficial como una medida contra el contrabando de carne. El requisito afecta la movilización de los animales."
+      },
+      "exposure": {
+        "sectors": [
+          "agriculture"
+        ],
+        "assets_or_markets": [
+          "Costa Rican cattle movements",
+          "Adult cattle identification"
+        ],
+        "transmission_path": [
+          "official identification requirement",
+          "livestock movement compliance",
+          "off-farm movement eligibility"
+        ],
+        "variables": [
+          "Cattle registration coverage",
+          "Traceability compliance",
+          "Livestock movement"
+        ]
+      },
+      "assessment": null,
+      "watch": {
+        "en": "Publication of the rule specifying the official-device requirement for moving cattle outside farms.",
+        "es": "La publicación de la norma que precise la exigencia del dispositivo oficial para movilizar bovinos fuera de las fincas."
+      },
+      "sources": [
+        "https://infobae.com/costa-rica/2026/10/12/con-el-80-del-ganado-registrado-costa-rica-fija-el-26-de-octubre-para-la-trazabilidad-oficial-en-busca-del-fin-del-contrabando-de-carne"
+      ]
+    },
+    {
+      "id": "latam-2026-10-12-d5428f4f31",
+      "status": "CLAIM",
+      "tier": "brief",
+      "heading": {
+        "en": "Clarín: three out of four trains have overdue inspections",
+        "es": "Clarín: tres de cada cuatro trenes tienen revisiones atrasadas"
+      },
+      "text": {
+        "en": "According to Clarín, the AGN exposed a railway crisis and the government acknowledged that three out of four trains have overdue inspections. Transport authorities say the backlog dates to 2015 and that spare parts have already been purchased. The opposition says the national government allocates less funding to trains. The outlet reports service delays and cancellations, but does not specify how many parts were installed or inspections completed.",
+        "es": "Según Clarín, la AGN reveló una crisis ferroviaria y el Gobierno reconoció que tres de cada cuatro trenes tienen revisiones atrasadas. Transporte sostiene que el atraso viene desde 2015 y que ya compró repuestos. La oposición asegura que Nación destina menos presupuesto a los trenes. El medio reporta demoras y cancelaciones de servicios, pero no detalla cuántos repuestos se instalaron ni cuántas revisiones se completaron."
+      },
+      "exposure": {
+        "sectors": [
+          "logistics",
+          "infrastructure"
+        ],
+        "assets_or_markets": [
+          "Rail services",
+          "Rail rolling stock"
+        ],
+        "transmission_path": [
+          "overdue inspections",
+          "rolling-stock operating constraints",
+          "service delays and cancellations"
+        ],
+        "variables": [
+          "Inspection backlog",
+          "Rail service availability",
+          "Service cancellations"
+        ]
+      },
+      "assessment": null,
+      "watch": {
+        "en": "A transport authority report detailing completed inspections and services cleared to operate.",
+        "es": "Un informe de Transporte que detalle revisiones completadas y servicios habilitados."
+      },
+      "sources": [
+        "https://clarin.com/politica/agn-revelo-crisis-ferroviaria-gobierno-reconoce-trenes-revisiones-atrasadas_0_LoVlgzhwBN.html"
+      ]
+    },
+    {
+      "id": "latam-2026-10-12-2d310cd8e4",
+      "status": "CLAIM",
+      "tier": "brief",
+      "heading": {
+        "en": "Infobae: Nicaragua's gold exports rise 79.3%",
+        "es": "Infobae: exportaciones de oro de Nicaragua crecen 79,3%"
+      },
+      "text": {
+        "en": "According to Infobae, Nicaragua's gold exports grew 79.3% compared with the same period of 2025. The average price increased 55.4% and the volume shipped abroad rose 15.4%. The outlet reports that, in six months, the country had already earned almost eight out of every ten dollars it earned from gold exports throughout 2025. The reported growth combines higher prices with larger physical shipments.",
+        "es": "Según Infobae, las exportaciones de oro de Nicaragua crecieron 79,3% frente al mismo período de 2025. El precio promedio aumentó 55,4% y el volumen enviado al exterior, 15,4%. El medio reporta que, en seis meses, el país ya obtuvo casi ocho de cada diez dólares que ganó por exportar oro durante todo 2025. El crecimiento reportado combina una mejora del precio con mayores envíos físicos."
+      },
+      "exposure": {
+        "sectors": [
+          "mining",
+          "commodities"
+        ],
+        "assets_or_markets": [
+          "Nicaraguan gold exports"
+        ],
+        "transmission_path": [
+          "higher average export price and shipment volume",
+          "higher gold export receipts"
+        ],
+        "variables": [
+          "Average gold export price",
+          "Gold export volume",
+          "Gold export value"
         ]
       },
       "assessment": null,
       "watch": null,
       "sources": [
-        "https://informador.mx/amp/mexico/tormenta-tropical-rachel-azota-baja-california-con-inundaciones-danos-y-desaparecidos-20261011-0085.html",
-        "https://afntijuana.info/informacion_general/182820_atendieron_autoridades_mas_de_300_reportes_de_inundaciones_tras_lluvias_en_la_region",
-        "https://eluniversal.com.mx/estados/tormenta-tropical-rachel-azota-baja-california-reportan-un-muerto-siete-desaparecidos-y-mas-de-200-rescates"
+        "https://infobae.com/nicaragua/2026/10/12/nicaragua-ya-obtuvo-en-seis-meses-casi-ocho-de-cada-diez-dolares-que-gano-por-exportar-oro-en-todo-2025"
       ]
     }
   ],
   "tracking": [
-    {
-      "situation_id": "latam-tropical-depression-nine-forms-in-the-gu-f2ba85",
-      "title": {
-        "en": "Tropical Depression Nine forms in the Gulf of America",
-        "es": "Depresión tropical nueve se forma en el golfo de América"
-      },
-      "line": {
-        "en": "No material change. The restrictions are operational and selective: ports are not all subject to the same closure. Reduced vessel mobility can affect fuel logistics, but these notices do not establish a production decline or a general traffic blockade.",
-        "es": "Sin cambio material. Las restricciones son operativas y selectivas: no todos los puertos tienen el mismo cierre. La menor movilidad puede afectar la logística de combustibles, pero estos avisos no permiten afirmar una caída de producción ni un bloqueo general del tráfico."
-      }
-    },
-    {
-      "situation_id": "latam-colombia-boosts-thermal-fuel-supply-in-r-d4393e",
-      "title": {
-        "en": "Colombia boosts thermal fuel supply in response to El Niño",
-        "es": "Colombia refuerza combustibles para generación térmica ante El Niño"
-      },
-      "line": {
-        "en": "No material change. Colombia boosts thermal fuel supply in response to El Niño",
-        "es": "Sin cambio material. Colombia refuerza combustibles para generación térmica ante El Niño"
-      }
-    },
     {
       "situation_id": "latam-rodrigo-lara-activates-90-day-plan-for-p-1b9cfc",
       "title": {
@@ -161,6 +269,16 @@
       }
     }
   ],
-  "content_hash": "d5435a9bdda238f18b307248beb901fbc82687d24356bcdafbe9f7a344f0fc62",
+  "context": {
+    "headline": {
+      "en": "Argus: two more tankers attacked near Hormuz. GACA confirms one dead, 11 injured at Riyadh airport.",
+      "es": "Argus: otros dos petroleros atacados cerca de Ormuz. GACA confirma un muerto y 11 heridos en aeropuerto de Riad."
+    },
+    "summary": {
+      "en": "Argus reports fire aboard a Suezmax carrying Iraqi crude. Two sailors were still missing when the report was published. The victim was a Pakistani resident. Authorities are still assessing damage and checking facility safety. Zelensky: more than 200 generation and grid strikes this week. Axios says Russia has not yet accepted the refinery-only proposal.",
+      "es": "Según Argus, hubo un incendio a bordo de un Suezmax con crudo iraquí. Dos marineros seguían desaparecidos al publicarse el reporte. La víctima era residente paquistaní. La autoridad sigue evaluando daños y la seguridad de las instalaciones. Zelensky: más de 200 golpes a generación y redes esta semana. Axios dice que la propuesta solo cubre refinerías; Rusia aún no la aceptó."
+    }
+  },
+  "content_hash": "febda3e7b4d00de0f4c605664af1cf4b86ff1e99bd9841114b67ca29387b0342",
   "license": "CC-BY-4.0"
 }

@@ -1,176 +1,166 @@
 {
   "schema_version": 2,
   "product": "LATAM",
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "kind": "partial",
   "sectors": [
     "logistics",
     "infrastructure",
-    "energy"
+    "energy",
+    "mining",
+    "security",
+    "sovereign_finance"
   ],
   "themes": [
-    "weather_climate",
-    "regulation"
+    "weather_climate"
   ],
-  "published_at": "2026-10-11T07:59:08.788Z",
-  "web_url": "https://aldraresearch.com/sitreps/latam-2026-10-11",
+  "published_at": "2026-10-12T08:00:55.661Z",
+  "web_url": "https://aldraresearch.com/sitreps/latam-2026-10-12",
   "headline": {
-    "en": "Rodrigo Lara activates 90-day plan for prior consultations. El Tiempo: Panama declares emergency after 7.7 earthquake.",
-    "es": "Rodrigo Lara activa plan de 90 días para consultas previas. El Tiempo: Panamá declara emergencia tras sismo de 7,7."
+    "en": "Hurricane Simon category 3 near Cabo Corrientes; ports closed. Tropical storm Rachel leaves one dead and seven missing in Baja California.",
+    "es": "Huracán Simón categoría 3 cerca de Cabo Corrientes; puertos cerrados. Tormenta tropical Rachel deja un muerto y siete desaparecidos en Baja California."
   },
   "summary": {
-    "en": "Almost 77 in 100 cases remain open, the Presidency says. Sirius and Canal del Dique are among the stalled projects. At least 27 injured, El Tiempo reports. Ambito reports damage to more than 400 buildings, including hospitals. 55-knot sustained winds, gusting to 65, the NHC says. The west-coast warning runs from Punta Eugenia to the U.S. border.",
-    "es": "Casi 77 de cada 100 procesos siguen abiertos, según Presidencia. Sirius y Canal del Dique están entre las obras frenadas. Al menos 27 heridos, según El Tiempo. Ambito reporta daños en más de 400 edificios, incluidos hospitales. 55 nudos sostenidos y rachas de 65, según el NHC. La alerta oeste va de Punta Eugenia a la frontera con Estados Unidos."
+    "en": "Simon cat 3, 81 km south of Cabo Corrientes. Ports closed in Nayarit, Jalisco, Colima. Winds 220 km/h. Rachel left one dead and seven missing in Baja California. More than 300 flood reports and 200 rescues. Civil Protection attended 425 cases.",
+    "es": "Simon cat 3 a 81 km de Cabo Corrientes. Puertos cerrados en Nayarit, Jalisco, Colima. Vientos 220 km/h. Rachel dejó un muerto y siete desaparecidos en Baja California. Más de 300 reportes de inundaciones y 200 rescates. Protección Civil atendió 425 casos."
   },
   "stories": [
     {
-      "id": "latam-2026-10-11-f2fd21ad52",
+      "id": "latam-2026-10-12-3f46a45e47",
       "status": "CONFIRMED",
       "tier": "major",
       "heading": {
-        "en": "Rodrigo Lara activates 90-day plan for prior consultations",
-        "es": "Rodrigo Lara activa plan de 90 días para consultas previas"
+        "en": "Hurricane Simon category 3 near Cabo Corrientes; ports closed",
+        "es": "Huracán Simón categoría 3 cerca de Cabo Corrientes; puertos cerrados"
       },
       "text": {
-        "en": "Minister Rodrigo Lara activated a plan to clear prior-consultation backlogs, with a 90-day target, according to the Presidency. The institution said almost 77 in 100 cases remain open and projects such as Sirius gas and Canal del Dique remain stalled amid USB drives and scattered files.\n\nThe plan includes full digitization through a single window, directly accountable officials with clear deadlines, procedures running alongside environmental licensing and removal of obstacles that left cases suspended. The Presidency said prior consultation would be respected, with good-faith dialogue and agreements with communities. Infobae reported that the Ministry of the Interior proposes processing consultation in parallel with environmental licensing and will prioritize Sirius, Canal del Dique and Buenaventura's pier 13. The texts announce measures and targets, not completed consultations or approvals for those projects.",
-        "es": "El ministro Rodrigo Lara activó un plan de choque para descongestionar las consultas previas, con una meta de 90 días, según Presidencia. La institución señaló que casi 77 de cada 100 procesos siguen abiertos y que proyectos como el gas de Sirius y el Canal del Dique permanecen frenados entre memorias USB y archivos dispersos.\n\nEl plan contempla digitalización total en una sola ventanilla, responsables directos con plazos claros, trámites simultáneos con las licencias ambientales y eliminación de trabas que mantenían procesos suspendidos. Presidencia sostuvo que se respetará la consulta previa, con diálogo de buena fe y acuerdos con las comunidades. Infobae informó que el Ministerio del Interior propone el trámite paralelo con la licencia ambiental y priorizará Sirius, Canal del Dique y el muelle 13 de Buenaventura. Los textos anuncian medidas y objetivos, no consultas concluidas ni aprobaciones de esos proyectos."
-      },
-      "exposure": {
-        "sectors": [
-          "energy",
-          "infrastructure"
-        ],
-        "assets_or_markets": [
-          "Sirius gas project",
-          "Canal del Dique",
-          "Buenaventura pier 13"
-        ],
-        "transmission_path": [
-          "prior-consultation backlog",
-          "consultation completion",
-          "project-approval timing",
-          "execution schedules"
-        ],
-        "variables": [
-          "prior-consultation processing time",
-          "gas project approval timeline",
-          "infrastructure project delays"
-        ]
-      },
-      "assessment": {
-        "confidence": "moderate",
-        "direction": "unclear",
-        "text": {
-          "en": "Completing consultations for the priority projects could remove a constraint on their execution schedules. The effect depends on community agreements translating into completed cases, rather than digital processing alone.",
-          "es": "Cerrar consultas de los proyectos priorizados podría liberar un bloqueo de sus calendarios de ejecución. El efecto depende de que los acuerdos con las comunidades se traduzcan en expedientes concluidos, no solo en tramitación digital."
-        }
-      },
-      "watch": {
-        "en": "Prior-consultation completion records for Sirius, Canal del Dique or Buenaventura's pier 13.",
-        "es": "Actas de cierre de consulta previa para Sirius, Canal del Dique o el muelle 13 de Buenaventura."
-      },
-      "sources": [
-        "https://x.com/infopresidencia/status/2109056382972649632",
-        "https://infobae.com/colombia/2026/10/10/licencias-ambientales-y-consultas-previas-se-tramitarian-de-forma-simultanea-esto-dice-borrador-de-decreto-del-gobierno-de-la-espriella?outputType=amp-type"
-      ]
-    },
-    {
-      "id": "latam-2026-10-11-d63bc276eb",
-      "status": "CLAIM",
-      "tier": "major",
-      "heading": {
-        "en": "El Tiempo: Panama declares emergency after 7.7 earthquake",
-        "es": "El Tiempo: Panamá declara emergencia tras sismo de 7,7"
-      },
-      "text": {
-        "en": "El Tiempo reported that Panama declared a state of emergency after the magnitude 7.7 earthquake, with at least 27 injured, hundreds of buildings affected and no deaths. The Government will prioritize aid, according to the outlet. Ambito reported damage to more than 400 buildings, including homes, schools, hospitals and public infrastructure, as well as hundreds of evacuees. Clarin also reported at least 27 injured following the collapse of several buildings.\n\nEl Tiempo placed the epicenter near Tonosí and reported damage to public buildings, water-treatment plants and businesses, as well as more than 100 aftershocks. In an earlier publication, La Jornada had reported two earthquakes, of magnitude 7.7 and 6.6, around 20 aftershocks and evacuations in the country's central region, with no reported fatalities. Ambito also counted more than 100 aftershocks. The reports do not detail the operating capacity of affected water-treatment plants.",
-        "es": "El Tiempo reportó que Panamá declaró el estado de emergencia tras el terremoto de magnitud 7,7, con al menos 27 heridos, cientos de edificaciones afectadas y sin personas muertas. El Gobierno priorizará la ayuda, según ese medio. Ambito reportó daños en más de 400 edificaciones, incluidas viviendas, escuelas, hospitales e infraestructura pública, además de cientos de evacuados. Clarin también informó al menos 27 heridos tras el colapso de varios edificios.\n\nEl Tiempo situó el epicentro cerca de Tonosí y reportó afectaciones en edificios públicos, plantas potabilizadoras y comercios, además de más de 100 réplicas. En una publicación anterior, La Jornada había informado dos sismos, de magnitud 7,7 y 6,6, unas 20 réplicas y desalojos en la región central del país, sin víctimas fatales reportadas. Ambito también contabilizó más de 100 réplicas. Los reportes no detallan la capacidad operativa de las plantas potabilizadoras afectadas."
-      },
-      "exposure": {
-        "sectors": [
-          "infrastructure"
-        ],
-        "assets_or_markets": [
-          "Panama water-treatment plants",
-          "Panama public buildings",
-          "Panama hospitals"
-        ],
-        "transmission_path": [
-          "earthquake",
-          "public-building and water-treatment damage",
-          "infrastructure availability risk"
-        ],
-        "variables": [
-          "water-treatment capacity",
-          "public infrastructure availability",
-          "building damage",
-          "emergency infrastructure response"
-        ]
-      },
-      "assessment": null,
-      "watch": {
-        "en": "An official publication detailing the operating status of affected water-treatment plants.",
-        "es": "Publicación oficial con el estado operativo de las plantas potabilizadoras afectadas."
-      },
-      "sources": [
-        "https://eltiempo.com/mundo/latinoamerica/panama-declara-estado-de-emergencia-tras-terremoto-de-magnitud-7-7-que-dejo-cientos-de-edificaciones-afectadas-no-hay-personas-muertas-3592811",
-        "https://ambito.com/mundo/terremoto-panama-al-menos-27-heridos-cientos-evacuados-y-graves-danos-edificios-n6332329",
-        "https://clarin.com/mundo/dramaticos-testimonios-afectados-terremoto-panama-horrible-visto_0_vH4rvO0dM4.html",
-        "https://eltiempo.com/mundo/latinoamerica/autoridades-de-panama-confirman-los-danos-que-dejo-el-terremoto-de-magnitud-7-7-hasta-el-momento-y-reportan-mas-de-100-replicas-3592751",
-        "https://jornada.com.mx/2026/10/10/mundo/020n1mun?partner=rss"
-      ]
-    },
-    {
-      "id": "latam-2026-10-11-e1030d29ca",
-      "status": "CONFIRMED",
-      "tier": "major",
-      "heading": {
-        "en": "NHC forecasts Rachel landfall in northern Baja California",
-        "es": "NHC prevé que Rachel toque tierra en el norte de Baja California"
-      },
-      "text": {
-        "en": "The NHC raised Rachel's intensity to sustained winds of 55 knots, equivalent to 100 km/h, with gusts of 65 knots in its 2100 UTC advisory on October 10. The system was moving north-northeast at 26 knots and had a central pressure of 989 mb. The forecast maintained landfall on the northern Baja California coast at tropical-storm strength that night; the cited advisories do not confirm landfall.\n\nThe tropical-storm warning covers the west coast of Baja California and Baja California Sur from Punta Eugenia to the United States border, and the east coast from Isla San Luis to Puerto Penasco. The NHC expected tropical-storm conditions in parts of the peninsula during the evening of October 10.\n\nThe agency described a transition toward a post-tropical system, with shallow convection displaced northeast by strong southwesterly wind shear. Although Rachel intensified slightly, it forecast subsequent weakening and rapid movement across the southwestern United States. The 2100 UTC forecast showed it as post-tropical on October 11 and dissipated on October 12.",
-        "es": "El NHC elevó la intensidad de Rachel a 55 nudos de viento sostenido, equivalentes a 100 km/h, con rachas de 65 nudos en su aviso de las 2100 UTC del 10 de octubre. El sistema avanzaba al nor-noreste a 26 nudos y tenía una presión central de 989 mb. El pronóstico mantenía la entrada en la costa del norte de Baja California con intensidad de tormenta tropical durante esa noche; los avisos citados no confirman que haya tocado tierra.\n\nLa alerta de tormenta tropical abarca la costa occidental de Baja California y Baja California Sur desde Punta Eugenia hasta la frontera con Estados Unidos, y la costa oriental desde Isla San Luis hasta Puerto Penasco. El NHC esperaba condiciones de tormenta tropical en partes de la península durante la tarde-noche del 10 de octubre.\n\nEl organismo describió una transición hacia un sistema postropical, con convección poco profunda desplazada al noreste por fuerte cizalladura del suroeste. Aunque Rachel se intensificó ligeramente, previó deterioro posterior y desplazamiento rápido por el suroeste de Estados Unidos. El pronóstico de las 2100 UTC la situaba como postropical el 11 de octubre y disipada el 12."
+        "en": "Since the previous report, Simon weakened to category 3 and is located 81 km south of Cabo Corrientes, Jalisco, moving north-northwest. SEMAR reports sustained winds of 220 km/h and waves of 5 to 7 meters. Ports of San Blas and Chacala in Nayarit, Puerto Vallarta in Jalisco, Manzanillo in Colima and Lázaro Cárdenas in Michoacán remain closed to all navigation.\n\nNHC indicates the center is near the coast and gradual weakening is expected upon entering the Gulf of California. Alerts remain for heavy rains, strong winds and risk of flooding and landslides in coastal areas of Jalisco, Colima, Nayarit and Michoacán.\n\nThe NHC forecasts that Simon will avoid a direct landfall in the short term but its eastern inner core will produce hurricane conditions.",
+        "es": "Desde el reporte anterior, Simón se debilitó a categoría 3 y se ubica a 81 km al sur de Cabo Corrientes, Jalisco, moviéndose al norte-noroeste. SEMAR reporta vientos sostenidos de 220 km/h y oleaje de 5 a 7 metros. Los puertos de San Blas y Chacala en Nayarit, Puerto Vallarta en Jalisco, Manzanillo en Colima y Lázaro Cárdenas en Michoacán permanecen cerrados a toda la navegación.\n\nNHC indica que el centro está cerca de la costa y se prevé debilitamiento gradual al ingresar al Golfo de California. Se mantienen alertas por lluvias fuertes, vientos intensos y riesgo de inundaciones y deslaves en zonas costeras de Jalisco, Colima, Nayarit y Michoacán.\n\nEl NHC pronostica que Simon evitará un impacto directo en tierra a corto plazo pero sus efectos en el núcleo oriental producirán condiciones de huracán."
       },
       "exposure": {
         "sectors": [
           "logistics",
-          "infrastructure"
+          "infrastructure",
+          "energy"
         ],
         "assets_or_markets": [
-          "Northern Baja California coastal transport",
-          "Baja California coastal infrastructure"
+          "Puerto Manzanillo",
+          "Puerto Vallarta"
         ],
         "transmission_path": [
-          "tropical-storm conditions",
-          "coastal operating constraints",
-          "transport-disruption risk"
+          "hurricane proximity to coast",
+          "port closures",
+          "navigation restrictions",
+          "supply disruption"
         ],
         "variables": [
-          "coastal transport conditions",
-          "port operating conditions",
-          "infrastructure outage risk"
+          "port operating status",
+          "coastal navigation risk",
+          "fuel distribution continuity"
+        ]
+      },
+      "assessment": {
+        "confidence": "high",
+        "direction": "deteriorating",
+        "text": {
+          "en": "Port closures persist as the hurricane weakens upon interacting with the coast. Evidence from SEMAR and NHC shows that the risk to commercial navigation continues in the region.",
+          "es": "Los cierres de puertos persisten mientras el huracán se debilita al interactuar con la costa. La evidencia de SEMAR y NHC muestra que el riesgo de navegación comercial continúa en la región."
+        }
+      },
+      "watch": {
+        "en": "Next NHC update on Simon's position and strength",
+        "es": "Próxima actualización del NHC sobre la posición y fuerza de Simón"
+      },
+      "sources": [
+        "https://nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/111144.shtml",
+        "https://x.com/SEMAR_mx/status/2109364480853283155",
+        "https://nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/111741.shtml",
+        "https://x.com/SEMAR_mx/status/2109450626086097270",
+        "https://nhc.noaa.gov/text/refresh/MIAPWSEP5+shtml/110856.shtml",
+        "https://x.com/SEMAR_mx/status/2109269342286229639",
+        "https://x.com/Claudiashein/status/2109312676706812380",
+        "https://x.com/GN_MEXICO_/status/2109316377093759097",
+        "https://x.com/SEMAR_mx/status/2109317448084099173",
+        "https://nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/112052.shtml",
+        "https://nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/112054.shtml",
+        "https://nhc.noaa.gov/text/refresh/MIAPWSEP5+shtml/112054.shtml",
+        "https://nhc.noaa.gov/text/refresh/MIATCDEP5+shtml/112112.shtml"
+      ]
+    },
+    {
+      "id": "latam-2026-10-12-6f5f5079d6",
+      "status": "CONFIRMED",
+      "tier": "brief",
+      "heading": {
+        "en": "Tropical storm Rachel leaves one dead and seven missing in Baja California",
+        "es": "Tormenta tropical Rachel deja un muerto y siete desaparecidos en Baja California"
+      },
+      "text": {
+        "en": "Tropical storm Rachel in Baja California left one dead, seven people reported missing and more than 300 flood reports. Sinkholes, collapsed buildings and more than 200 rescues carried out are reported, with a total of 425 attentions by state Civil Protection.",
+        "es": "La tormenta tropical Rachel en Baja California dejó un muerto, siete personas reportadas como desaparecidas y más de 300 reportes de inundaciones. Se reportan socavones, inmuebles colapsados y más de 200 rescates realizados, con un total de 425 atenciones por Protección Civil estatal."
+      },
+      "exposure": {
+        "sectors": [
+          "infrastructure",
+          "logistics"
+        ],
+        "assets_or_markets": [
+          "Baja California"
+        ],
+        "transmission_path": [
+          "storm rainfall",
+          "flooding",
+          "transport disruption"
+        ],
+        "variables": [
+          "regional transport access",
+          "road and building availability"
         ]
       },
       "assessment": null,
-      "watch": {
-        "en": "An NHC advisory placing Rachel's centre inland in northern Baja California.",
-        "es": "Un aviso del NHC que sitúe el centro de Rachel en tierra en el norte de Baja California."
-      },
+      "watch": null,
       "sources": [
-        "https://nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/101739.shtml",
-        "https://nhc.noaa.gov/text/refresh/MIATCMEP3+shtml/102047.shtml",
-        "https://nhc.noaa.gov/text/refresh/MIAPWSEP3+shtml/102048.shtml",
-        "https://nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/102049.shtml",
-        "https://nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/100853.shtml",
-        "https://nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/101151.shtml",
-        "https://nhc.noaa.gov/text/refresh/MIATCMEP3+shtml/101452.shtml",
-        "https://nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/101453.shtml",
-        "https://nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/102048.shtml"
+        "https://informador.mx/amp/mexico/tormenta-tropical-rachel-azota-baja-california-con-inundaciones-danos-y-desaparecidos-20261011-0085.html",
+        "https://afntijuana.info/informacion_general/182820_atendieron_autoridades_mas_de_300_reportes_de_inundaciones_tras_lluvias_en_la_region",
+        "https://eluniversal.com.mx/estados/tormenta-tropical-rachel-azota-baja-california-reportan-un-muerto-siete-desaparecidos-y-mas-de-200-rescates"
       ]
     }
   ],
-  "tracking": [],
-  "content_hash": "0fe62e0b2c283aa06ba670c04b942f34a6040b8baface419aafd867a2fb3634e",
+  "tracking": [
+    {
+      "situation_id": "latam-tropical-depression-nine-forms-in-the-gu-f2ba85",
+      "title": {
+        "en": "Tropical Depression Nine forms in the Gulf of America",
+        "es": "Depresión tropical nueve se forma en el golfo de América"
+      },
+      "line": {
+        "en": "No material change. The restrictions are operational and selective: ports are not all subject to the same closure. Reduced vessel mobility can affect fuel logistics, but these notices do not establish a production decline or a general traffic blockade.",
+        "es": "Sin cambio material. Las restricciones son operativas y selectivas: no todos los puertos tienen el mismo cierre. La menor movilidad puede afectar la logística de combustibles, pero estos avisos no permiten afirmar una caída de producción ni un bloqueo general del tráfico."
+      }
+    },
+    {
+      "situation_id": "latam-colombia-boosts-thermal-fuel-supply-in-r-d4393e",
+      "title": {
+        "en": "Colombia boosts thermal fuel supply in response to El Niño",
+        "es": "Colombia refuerza combustibles para generación térmica ante El Niño"
+      },
+      "line": {
+        "en": "No material change. Colombia boosts thermal fuel supply in response to El Niño",
+        "es": "Sin cambio material. Colombia refuerza combustibles para generación térmica ante El Niño"
+      }
+    },
+    {
+      "situation_id": "latam-rodrigo-lara-activates-90-day-plan-for-p-1b9cfc",
+      "title": {
+        "en": "Rodrigo Lara activates 90-day plan for prior consultations",
+        "es": "Rodrigo Lara activa plan de 90 días para consultas previas"
+      },
+      "line": {
+        "en": "No material change. Completing consultations for the priority projects could remove a constraint on their execution schedules. The effect depends on community agreements translating into completed cases, rather than digital processing alone.",
+        "es": "Sin cambio material. Cerrar consultas de los proyectos priorizados podría liberar un bloqueo de sus calendarios de ejecución. El efecto depende de que los acuerdos con las comunidades se traduzcan en expedientes concluidos, no solo en tramitación digital."
+      }
+    }
+  ],
+  "content_hash": "d5435a9bdda238f18b307248beb901fbc82687d24356bcdafbe9f7a344f0fc62",
   "license": "CC-BY-4.0"
 }

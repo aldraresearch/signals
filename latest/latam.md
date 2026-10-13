@@ -1,193 +1,191 @@
-# Aldra SITREP · LATAM · 2026-10-12
+# Aldra SITREP · LATAM · 2026-10-13
 
 ## Español
 
-Edición: de respaldo · Sectores: Logística, Infraestructura, Finanzas soberanas, Energía, Minería, Seguridad, Agro, Commodities · Publicada: 2026-10-12T10:33:50.540Z  
-Web: https://aldraresearch.com/sitreps/latam-2026-10-12  
+Edición: parcial · Sectores: Logística, Infraestructura, Energía, Seguridad, Minería, Finanzas soberanas · Publicada: 2026-10-13T08:20:19.793Z  
+Web: https://aldraresearch.com/sitreps/latam-2026-10-13  
 Licencia: CC BY 4.0
 
-### México amplía vigilancia por Simón en la costa del Pacífico. Codelco confirma dos muertos por alud en El Teniente.
+### Simón baja a categoría 2; Manzanillo y Lázaro Cárdenas cerrados. Defensa reporta ataque al peaje El Bordo en la Panamericana.
 
-Manzanillo y Lázaro Cárdenas cerrados a toda navegación, informó la Marina. El NHC registró vientos de 215 km/h. Reuters reporta suspensión parcial. La Tercera dice que el rajo abierto ya estaba parado por mal tiempo. El 80% ya está registrado, según Infobae. El dispositivo oficial será exigido para sacar bovinos adultos de las fincas. Transporte sitúa el atraso en 2015 y dice que compró repuestos, según Clarín. El medio reporta demoras y cancelaciones. Según Infobae, el precio promedio subió 55,4% y el volumen, 15,4%. En seis meses se obtuvo casi ocho de cada diez dólares del total de 2025.
+El NHC registra 85 nudos. La Comisión Federal de Electricidad trabaja para restablecer el servicio. Defensa informa, preliminarmente, tres civiles heridos. El Tiempo reporta cinco trabajadores heridos. Según Infobae, regirá en siete días y cubre crudo, gas y derivados. Clarin dice que busca aumentar la producción. La Ley 27.828 tendrá validez hasta el 31 de diciembre de 2031. Fue aprobada con 38 votos afirmativos.
 
 ### Situaciones principales
 
-#### 1. México amplía vigilancia por Simón en la costa del Pacífico
+#### 1. Simón baja a categoría 2; Manzanillo y Lázaro Cárdenas cerrados
 
-El NHC informó el 11 de octubre que México emitió vigilancia de huracán al norte de El Roblito hasta Bahía Tempehuaya. En el aviso 18, mantuvo la advertencia de huracán de Punta San Telmo a El Roblito y para las Islas Marías. Situó el centro a 90 km al sur de Cabo Corrientes y a 170 km al oeste-noroeste de Manzanillo, con vientos sostenidos de 215 km/h.
+La Marina reportó a Simón en categoría 2 y reiteró el cierre de San Blas, Puerto Vallarta, Manzanillo y Lázaro Cárdenas. El NHC registró vientos sostenidos de 85 nudos a las 03:00 UTC del 13 de octubre, frente a 95 nudos en el aviso de las 15:00 UTC del 12. El huracán seguía avanzando lentamente hacia el oeste-noroeste. La Marina informó vientos de hasta 155 km/h y rachas de 194 km/h.
 
-En su reporte previo, la Marina registró vientos de 220 km/h y oleaje de 5 a 7 metros. Reportó cerrados a toda navegación San Blas, Puerto Vallarta, Manzanillo y Lázaro Cárdenas, y restricciones para embarcaciones menores en Teacapán, La Cruz de Huanacaxtle, Nuevo Vallarta, Barra de Navidad, Zihuatanejo y Puerto Marqués. Preveía una bajada a categoría 3 en las próximas 6 a 12 horas por interacción con Jalisco, seguida de debilitamiento en la entrada del golfo de California.
+El parte previo de la Marina también cerró Chacala a toda navegación y restringió embarcaciones menores en Teacapán, La Cruz de Huanacaxtle, Nuevo Vallarta y Barra de Navidad. Zihuatanejo y Marqués reabrieron para embarcaciones menores: esa apertura no corresponde a Manzanillo ni Lázaro Cárdenas. El NHC advirtió que continuarían las lluvias capaces de causar inundaciones y calificó de baja confianza la trayectoria prevista cerca de un impacto en México en 72–96 horas.
 
-La Guardia Nacional informó trabajos de desazolve, traslado de personas a lugares seguros y retiro de escombros en Acapulco. La Marina mantuvo activo su plan de auxilio y prevención, con evacuaciones, limpieza y atención a la población. La SSPC reportó más de 22 mil elementos para atender emergencias.
+El Gobierno mantuvo la alerta en Jalisco, Nayarit, Colima y Sinaloa, con los planes DN-III-E y Marina activos. La Comisión Federal de Electricidad trabaja para restablecer el suministro en estados afectados. La Guardia Nacional y el Ejército retiran escombros y árboles, liberan vías y trasladan familias a zonas seguras en Guerrero y Colima. Los avisos no establecen daños portuarios ni una fecha de reapertura de los puertos comerciales.
 
-Exposición: Logística, Infraestructura, Seguridad · Hurricane exposure → Port closures → Coastal shipping disruption · Port access, Commercial navigation availability, Coastal transport continuity, Emergency response capacity  
-**Evaluación de Aldra** (confianza: alta, dirección: estable). El debilitamiento previsto no equivale a recuperación operativa: los cierres restringen la navegación mientras la vigilancia se amplía hacia el norte. La evidencia no confirma daños portuarios ni una fecha de reapertura.
+Exposición: Logística, Infraestructura, Energía · hurricane winds and rainfall → port closures and road obstruction → restricted transport continuity · Commercial navigation availability, Port reopening status, Road access, Power restoration progress  
+**Evaluación de Aldra** (confianza: alta, dirección: estable). El debilitamiento no elimina la restricción logística: los cierres portuarios y las tareas para liberar vías limitan la continuidad del transporte. Las reaperturas para embarcaciones menores no resuelven el acceso comercial a Manzanillo o Lázaro Cárdenas. La evidencia no permite medir daños portuarios.
 
 **Qué vigilar.** Un aviso de la Marina que reabra Manzanillo o Lázaro Cárdenas a toda la navegación.
 
 Fuentes:
-- https://nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/112054.shtml
-- https://x.com/SEMAR_mx/status/2109364480853283155
-- https://x.com/GN_MEXICO_/status/2109316377093759097
-- https://x.com/SEMAR_mx/status/2109317448084099173
-- https://x.com/SSPCMexico/status/2109336951690277249
-- https://nhc.noaa.gov/text/refresh/MIATCDEP5+shtml/110859.shtml
-- https://x.com/SEMAR_mx/status/2109269342286229639
-- https://x.com/Claudiashein/status/2109312676706812380
-- https://nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/111741.shtml
-- https://nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/112052.shtml
+- https://x.com/SEMAR_mx/status/2109644390402580502
+- https://nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/121456.shtml
+- https://x.com/GobiernoMX/status/2109693008916439359
+- https://x.com/SEMAR_mx/status/2109699675368432072
+- https://x.com/GN_MEXICO_/status/2109735858345787563
+- https://nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/122051.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCDEP5+shtml/122053.shtml
+- https://x.com/SEMAR_mx/status/2109810916506456360
+- https://nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/130253.shtml
+- https://nhc.noaa.gov/text/refresh/MIAPWSEP5+shtml/130254.shtml
+- https://nhc.noaa.gov/text/refresh/MIAPWSEP5+shtml/121458.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/122050.shtml
+- https://nhc.noaa.gov/text/refresh/MIAPWSEP5+shtml/122051.shtml
 
-#### 2. Codelco confirma dos muertos por alud en El Teniente
+#### 2. Defensa reporta ataque al peaje El Bordo en la Panamericana
 
-Codelco confirmó la muerte de dos trabajadores de una empresa subcontratista tras un alud en El Teniente. Reuters reportó una suspensión parcial de operaciones después del accidente fatal. Minería Chilena informó que personal de la PDI y del Ministerio Público estaba en el lugar para realizar diligencias y esclarecer las circunstancias.
+El Ministerio de Defensa reportó un ataque al peaje de El Bordo, en La Sierra, Cauca. En el mensaje citado por la cartera, Abelardo De La Espriella dijo que la explosión obligó a cerrar el paso en la vía Panamericana mientras las autoridades aseguraban la zona. Defensa señaló que un vehículo acondicionado con explosivos habría sido utilizado por integrantes de la estructura ‘Carlos Patiño’ y dio un balance preliminar de tres civiles heridos.
 
-Los primeros reportes describían labores de rescate de tres trabajadores. La Tercera informó que uno había sido auxiliado y trasladado a un centro asistencial, mientras otros dos seguían en proceso de rescate. Minería Chilena situó la emergencia en el sector de la mina a rajo abierto y la vinculó a las condiciones climáticas.
+El Tiempo informó inicialmente al menos tres heridos y una atribución preliminar a la misma estructura de disidencias de las Farc. Otro reporte de El Tiempo elevó el balance a cinco trabajadores heridos y describió hombres armados que intimidaron al personal de seguridad y activaron un explosivo. Los balances difieren. Defensa indicó que los militares estaban ilesos y que soldados y Policía verificaban lo ocurrido y mantenían el control del lugar.
 
-La Tercera señaló después que los fallecidos pertenecían a San Lorenzo y prestaban servicios a través de Aura. Sus funciones estaban vinculadas a la inspección de sectores del rajo abierto, cuyas operaciones, según ese medio, ya estaban suspendidas por el mal tiempo. Esa descripción de funciones no establece que efectuaran inspecciones cuando ocurrió el alud. El medio también reportó que el sindicato pidió investigar por qué realizaban labores en una zona crítica; Reuters no precisó el alcance de la suspensión parcial.
+La Silla Vacía afirmó que el peaje fue destruido por disidencias de alias “Mordisco” y reportó que la cúpula militar viajará a Cali; el gobernador pidió la presencia del presidente, el ministro de Defensa y la cúpula. Las fuentes no precisan la duración del cierre ni acreditan una reapertura.
 
-Exposición: Minería, Seguridad · landslide → reported partial operating suspension → mine operating continuity uncertainty · Mine operating status, Worksite access, Workforce safety  
+Exposición: Logística, Infraestructura, Seguridad · reported toll attack → announced road closure → restricted freight transit · Pan-American Highway access, Closure duration, Freight transit risk, Infrastructure security risk  
+**Evaluación de Aldra** (confianza: moderada, dirección: se deteriora). El cierre anunciado transmite el ataque a la disponibilidad del corredor para los transportadores. La atribución al grupo armado sigue siendo preliminar y los balances de heridos divergen. Sin un aviso de reapertura, la evidencia no permite dar por normalizado el tránsito.
 
-**Qué vigilar.** Un comunicado de Codelco que precise el alcance de la suspensión y el estado operativo del rajo abierto.
+**Qué vigilar.** Un aviso oficial que precise la reapertura del paso en el peaje El Bordo.
 
 Fuentes:
-- https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGhTZXZKbVJyS2gyek1RTUY3VFlUTlBXalp0SkdiOGhJUHJFT0kzRjFMLWxMNUZ1YkFDRGdjU3d1dUxJMS1sd25oUzVFTnZBZWhuWFVxRDhuU3phOF9EOHAtR2VDamVBbGZkRURtcURpQU9yaFhaTGQyQ3hfYi1fNkRfNnoxUEphUlN2bU9XX1EyMHBpWlBDQlRJN0M?oc=5
-- https://mch.cl/codelco-informa-deceso-de-trabajadores-tras-alud-en-el-teniente
-- https://latercera.com/nacional/noticia/alud-de-barro-en-mina-el-teniente-un-trabajador-fue-auxiliado-y-otros-dos-estan-en-proceso-de-ser-rescatados
-- https://mch.cl/ultimo-minuto-codelco-informa-labores-de-rescate-de-tres-trabajadores-tras-alud-en-el-teniente
-- https://news.google.com/rss/articles/CBMivwFBVV95cUxQemctZDVjSUo2MDFRM1NPUW5XcS1xTldoZ21RYjJ4ckVldTZRQW1XM1ZDcTFxc3JZOVFKNEk4X3k5cmxmV2k3cXRuNnFBcjZfMzI4UElBdnpKMm56Qk96eVNEb1hqZzZUd2VRMEsyVDktQkNqRVlVeXAtRkpFR0RmellVZjFmQzZMS3dwZmc2ZkNlNV9mZ3VjNy1MY2FCaXBBcUJKakZ1NkZMQmlfODhvdTRhUzFvWEFiR1F5UzVNMA?oc=5
-- https://latercera.com/nacional/noticia/tragedia-en-el-teniente-hallan-muertos-a-dos-trabajadores-tras-alud-y-sindicato-pide-indagar-por-que-trabajaban-en-zona-critica
-- https://x.com/biobio/status/2109356169911542159
-- https://x.com/biobio/status/2109430011530719542
+- https://x.com/mindefensa/status/2109654759040758191
+- https://eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-sobre-atentado-en-la-via-panamericana-cada-agresion-de-los-narcoterroristas-tendra-consecuencias-3592986
+- https://eltiempo.com/colombia/otras-ciudades/al-menos-tres-heridos-deja-atentado-con-carro-bomba-en-la-via-panamericana-cerca-del-peaje-de-el-bordo-cauca-esto-se-sabe-3592979
+- https://lasillavacia.com/en-vivo/cupula-militar-viajara-a-cali-tras-atentado-en-cauca
+- https://eltiempo.com/economia/sectores/atentado-contra-el-peaje-el-bordo-en-el-cauca-dejo-cinco-trabajadores-heridos-3592995
+
+#### 3. Cuba anuncia concesiones petroleras para inversión extranjera
+
+Cuba anunció el lunes una reforma del sector petrolero que contempla concesiones a inversionistas extranjeros y la participación de empresas privadas nacionales, informó. Según Infobae, la norma fue publicada en la Gaceta Oficial y comenzará a regir dentro de siete días. Regula la exploración, extracción, refinación, transporte y venta de crudo, gas y derivados, tanto en tierra como en aguas profundas.
+
+Clarin describe la apertura como parte de un plan de liberalización para aumentar la producción y enfrentar la crisis económica y energética, agravada por sanciones y bloqueos de Estados Unidos. La evidencia recoge el anuncio y la publicación de la norma, no concesiones adjudicadas ni un aumento de producción.
+
+Exposición: Energía · oil-sector regulatory opening → foreign and domestic private participation → concession investment → production capacity · Concession awards, Oil-sector investment access, Oil and gas production capacity  
+**Evaluación de Aldra** (confianza: moderada, dirección: mejora). La reforma abre una vía de acceso al sector para capital extranjero y empresas privadas nacionales. El efecto sobre la oferta depende de que esa habilitación se traduzca en concesiones e inversión: el anuncio no demuestra nueva producción.
+
+**Qué vigilar.** Una concesión adjudicada bajo la norma publicada en la Gaceta Oficial.
+
+Fuentes:
+- https://nmas.com.mx/internacional/cuba-abre-su-petroleo-a-concesiones-y-a-empresas-privadas
+- https://clarin.com/estados-unidos/cuba-reforma-su-sector-petrolero-y-autoriza-concesiones_0_FLHRVWixlG.html
+- https://infobae.com/cuba/2026/10/13/regimen-cubano-abre-el-petroleo-y-gas-a-inversores-tras-profundizarse-la-crisis-energetica
 
 ### Otros desarrollos
 
-#### 3. Infobae: Costa Rica fija trazabilidad bovina para el 26-oct
+#### 4. El Gobierno promulga un recorte al subsidio de gas
 
-Según Infobae, el Gobierno de Laura Fernández Delgado fijó el 26 de octubre de 2026 como fecha límite para identificar bovinos adultos antes de exigir el dispositivo oficial para movilizarlos fuera de las fincas. El medio señala que el 80% del ganado ya está registrado y presenta la trazabilidad oficial como una medida contra el contrabando de carne. El requisito afecta la movilización de los animales.
+El Gobierno promulgó la ley que reduce el alcance de los subsidios del régimen de zonas frías. La Nacion recuerda que fue aprobada a finales de septiembre con 38 votos afirmativos. Infobae precisa que la Ley 27.828 se publicó este martes en el Boletín Oficial y tendrá validez hasta el 31 de diciembre de 2031. Los textos disponibles no detallan qué usuarios quedan fuera ni cuantifican la reducción del gasto.
 
-Exposición: Agro · official identification requirement → livestock movement compliance → off-farm movement eligibility · Cattle registration coverage, Traceability compliance, Livestock movement  
+Exposición: Energía, Finanzas soberanas · subsidy law enactment → narrower coverage → household subsidy access and public outlays · Gas-subsidy coverage, Eligible users, Government subsidy spending  
 
-**Qué vigilar.** La publicación de la norma que precise la exigencia del dispositivo oficial para movilizar bovinos fuera de las fincas.
-
-Fuentes:
-- https://infobae.com/costa-rica/2026/10/12/con-el-80-del-ganado-registrado-costa-rica-fija-el-26-de-octubre-para-la-trazabilidad-oficial-en-busca-del-fin-del-contrabando-de-carne
-
-#### 4. Clarín: tres de cada cuatro trenes tienen revisiones atrasadas
-
-Según Clarín, la AGN reveló una crisis ferroviaria y el Gobierno reconoció que tres de cada cuatro trenes tienen revisiones atrasadas. Transporte sostiene que el atraso viene desde 2015 y que ya compró repuestos. La oposición asegura que Nación destina menos presupuesto a los trenes. El medio reporta demoras y cancelaciones de servicios, pero no detalla cuántos repuestos se instalaron ni cuántas revisiones se completaron.
-
-Exposición: Logística, Infraestructura · overdue inspections → rolling-stock operating constraints → service delays and cancellations · Inspection backlog, Rail service availability, Service cancellations  
-
-**Qué vigilar.** Un informe de Transporte que detalle revisiones completadas y servicios habilitados.
+**Qué vigilar.** Una norma de aplicación que precise los usuarios incluidos en el subsidio de gas.
 
 Fuentes:
-- https://clarin.com/politica/agn-revelo-crisis-ferroviaria-gobierno-reconoce-trenes-revisiones-atrasadas_0_LoVlgzhwBN.html
-
-#### 5. Infobae: exportaciones de oro de Nicaragua crecen 79,3%
-
-Según Infobae, las exportaciones de oro de Nicaragua crecieron 79,3% frente al mismo período de 2025. El precio promedio aumentó 55,4% y el volumen enviado al exterior, 15,4%. El medio reporta que, en seis meses, el país ya obtuvo casi ocho de cada diez dólares que ganó por exportar oro durante todo 2025. El crecimiento reportado combina una mejora del precio con mayores envíos físicos.
-
-Exposición: Minería, Commodities · higher average export price and shipment volume → higher gold export receipts · Average gold export price, Gold export volume, Gold export value  
-
-Fuentes:
-- https://infobae.com/nicaragua/2026/10/12/nicaragua-ya-obtuvo-en-seis-meses-casi-ocho-de-cada-diez-dolares-que-gano-por-exportar-oro-en-todo-2025
+- https://lanacion.com.ar/politica/el-gobierno-promulgo-la-ley-que-modifica-el-regimen-de-zonas-frias-nid13102026
+- https://infobae.com/economia/2026/10/13/el-gobierno-promulgo-la-nueva-ley-de-zonas-frias-que-redefine-el-alcance-del-subsidio-de-gas
 
 #### Situaciones seguidas
 
+- **NHC prevé que Rachel toque tierra en el norte de Baja California**: Sin cambio material. Tormenta tropical Rachel deja un muerto y siete desaparecidos en Baja California
 - **Rodrigo Lara activa plan de 90 días para consultas previas**: Sin cambio material. Cerrar consultas de los proyectos priorizados podría liberar un bloqueo de sus calendarios de ejecución. El efecto depende de que los acuerdos con las comunidades se traduzcan en expedientes concluidos, no solo en tramitación digital.
 
 ## English
 
-Edition: fallback · Sectors: Logistics, Infrastructure, Sovereign finance, Energy, Mining, Security, Agriculture, Commodities · Published: 2026-10-12T10:33:50.540Z  
-Web: https://aldraresearch.com/sitreps/latam-2026-10-12  
+Edition: partial · Sectors: Logistics, Infrastructure, Energy, Security, Mining, Sovereign finance · Published: 2026-10-13T08:20:19.793Z  
+Web: https://aldraresearch.com/sitreps/latam-2026-10-13  
 License: CC BY 4.0
 
-### Mexico extends Simon hurricane watch along the Pacific coast. Codelco confirms two landslide deaths at El Teniente.
+### Simon drops to category 2; Manzanillo, Lázaro Cárdenas closed. Defense reports attack at El Bordo toll on Pan-American Highway.
 
-Manzanillo and Lázaro Cárdenas are closed to all navigation, the Navy reported. The NHC recorded winds of 215 km/h. Reuters reports a partial suspension. La Tercera says open-pit operations were already halted by bad weather. Infobae says 80% is already registered. The official device will be required to move adult cattle outside farms. Transport officials date the backlog to 2015 and say parts were bought, according to Clarín. The outlet reports delays and cancellations. Infobae reports prices up 55.4% and volume up 15.4%. Six-month receipts nearly matched eight out of every ten dollars earned in all of 2025.
+The NHC records 85 knots. The Comisión Federal de Electricidad is working to restore service. Defense reports a preliminary toll of three civilians injured. El Tiempo reports five injured workers. Infobae says it takes effect in seven days, covering oil, gas and derivatives. Clarin says it aims to increase production. Law 27.828 remains valid through December 31, 2031. It was approved with 38 affirmative votes.
 
 ### Main situations
 
-#### 1. Mexico extends Simon hurricane watch along the Pacific coast
+#### 1. Simon drops to category 2; Manzanillo, Lázaro Cárdenas closed
 
-The NHC reported on October 11 that Mexico had issued a hurricane watch north of El Roblito to Bahia Tempehuaya. Advisory 18 retained the hurricane warning from Punta San Telmo to El Roblito and for Las Islas Marias. It placed the centre 90 km south of Cabo Corrientes and 170 km west-northwest of Manzanillo, with sustained winds of 215 km/h.
+The Navy reported Simon at category 2 and reiterated closures at San Blas, Puerto Vallarta, Manzanillo and Lázaro Cárdenas. The NHC recorded sustained winds of 85 knots at 03:00 UTC on October 13, compared with 95 knots in its 15:00 UTC October 12 advisory. The hurricane continued moving slowly west-northwestward. The Navy reported winds up to 155 km/h and gusts of 194 km/h.
 
-In its preceding report, the Navy recorded winds of 220 km/h and seas of 5 to 7 metres. It reported San Blas, Puerto Vallarta, Manzanillo and Lázaro Cárdenas closed to all navigation, with small-vessel restrictions at Teacapán, La Cruz de Huanacaxtle, Nuevo Vallarta, Barra de Navidad, Zihuatanejo and Puerto Marqués. It forecast weakening to category 3 in the next 6 to 12 hours through interaction with Jalisco, followed by further weakening at the entrance to the Gulf of California.
+The earlier Navy notice also closed Chacala to all navigation and restricted small craft at Teacapán, La Cruz de Huanacaxtle, Nuevo Vallarta and Barra de Navidad. Zihuatanejo and Marqués reopened to small craft: those openings do not cover Manzanillo or Lázaro Cárdenas. The NHC warned that flooding rains would continue and described the forecast track near landfall in Mexico in 72–96 hours as low confidence.
 
-The National Guard reported clearing drains, moving people to safe locations and removing debris in Acapulco. The Navy kept its assistance and prevention plan active, including evacuations, cleaning and public assistance. The SSPC reported more than 22 thousand personnel available to respond to emergencies.
+The government maintained alerts in Jalisco, Nayarit, Colima and Sinaloa, with the DN-III-E and Navy plans active. The Comisión Federal de Electricidad is working to restore power in affected states. The National Guard and Army are removing debris and trees, clearing roads and moving families to safe areas in Guerrero and Colima. The notices establish neither port damage nor a reopening date for the commercial ports.
 
-Exposure: Logistics, Infrastructure, Security · Hurricane exposure → Port closures → Coastal shipping disruption · Port access, Commercial navigation availability, Coastal transport continuity, Emergency response capacity  
-**Aldra assessment** (confidence: high, direction: stable). Forecast weakening does not amount to operational recovery: closures restrict navigation while the watch extends northward. The evidence confirms neither port damage nor a reopening date.
+Exposure: Logistics, Infrastructure, Energy · hurricane winds and rainfall → port closures and road obstruction → restricted transport continuity · Commercial navigation availability, Port reopening status, Road access, Power restoration progress  
+**Aldra assessment** (confidence: high, direction: stable). Weakening does not remove the logistical constraint: port closures and road-clearing work restrict transport continuity. Small-craft reopenings do not restore commercial access to Manzanillo or Lázaro Cárdenas. The evidence does not establish the extent of any port damage.
 
 **What to watch.** A Navy notice reopening Manzanillo or Lázaro Cárdenas to all navigation.
 
 Sources:
-- https://nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/112054.shtml
-- https://x.com/SEMAR_mx/status/2109364480853283155
-- https://x.com/GN_MEXICO_/status/2109316377093759097
-- https://x.com/SEMAR_mx/status/2109317448084099173
-- https://x.com/SSPCMexico/status/2109336951690277249
-- https://nhc.noaa.gov/text/refresh/MIATCDEP5+shtml/110859.shtml
-- https://x.com/SEMAR_mx/status/2109269342286229639
-- https://x.com/Claudiashein/status/2109312676706812380
-- https://nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/111741.shtml
-- https://nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/112052.shtml
+- https://x.com/SEMAR_mx/status/2109644390402580502
+- https://nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/121456.shtml
+- https://x.com/GobiernoMX/status/2109693008916439359
+- https://x.com/SEMAR_mx/status/2109699675368432072
+- https://x.com/GN_MEXICO_/status/2109735858345787563
+- https://nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/122051.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCDEP5+shtml/122053.shtml
+- https://x.com/SEMAR_mx/status/2109810916506456360
+- https://nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/130253.shtml
+- https://nhc.noaa.gov/text/refresh/MIAPWSEP5+shtml/130254.shtml
+- https://nhc.noaa.gov/text/refresh/MIAPWSEP5+shtml/121458.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/122050.shtml
+- https://nhc.noaa.gov/text/refresh/MIAPWSEP5+shtml/122051.shtml
 
-#### 2. Codelco confirms two landslide deaths at El Teniente
+#### 2. Defense reports attack at El Bordo toll on Pan-American Highway
 
-Codelco confirmed the deaths of two subcontractor workers following a landslide at El Teniente. Reuters reported a partial operating suspension after the fatal accident. Minería Chilena reported that PDI and Public Prosecutor's Office personnel were at the site to conduct inquiries and clarify the circumstances.
+The Defense Ministry reported an attack at El Bordo toll in La Sierra, Cauca. In the message quoted by the ministry, Abelardo De La Espriella said the explosion forced traffic on the Pan-American Highway to close while authorities secured the area. Defense said members of the ‘Carlos Patiño’ structure may have used a vehicle fitted with explosives and gave a preliminary toll of three civilians injured.
 
-Early reports described efforts to rescue three workers. La Tercera reported that one had been rescued and taken to a medical facility while the other two remained the subject of rescue efforts. Minería Chilena placed the emergency in the open-pit sector and linked it to weather conditions.
+El Tiempo initially reported at least three injured and preliminary attribution to the same Farc dissident structure. Another El Tiempo report raised the toll to five injured workers and described armed men intimidating security personnel and detonating an explosive. The injury counts differ. Defense said military personnel were unharmed and that soldiers and police were checking what happened and maintaining control of the site.
 
-La Tercera subsequently said the deceased workers belonged to San Lorenzo and provided services through Aura. Their duties were linked to inspections of open-pit areas, where operations, according to the outlet, had already been suspended because of bad weather. That description of their duties does not establish that they were conducting inspections when the landslide occurred. The outlet also reported that the union sought an investigation into why they were working in a critical area; Reuters did not specify the scope of the partial suspension.
+La Silla Vacía said dissidents associated with alias “Mordisco” destroyed the toll and reported that the military leadership would travel to Cali; the governor requested the presence of the president, defense minister and military leadership. The sources do not specify the closure's duration or establish a reopening.
 
-Exposure: Mining, Security · landslide → reported partial operating suspension → mine operating continuity uncertainty · Mine operating status, Worksite access, Workforce safety  
+Exposure: Logistics, Infrastructure, Security · reported toll attack → announced road closure → restricted freight transit · Pan-American Highway access, Closure duration, Freight transit risk, Infrastructure security risk  
+**Aldra assessment** (confidence: moderate, direction: deteriorating). The announced closure transmits the attack into corridor availability for road transport operators. Attribution to the armed group remains preliminary, and injury counts differ. Without a reopening notice, the evidence does not establish that traffic has returned to normal.
 
-**What to watch.** A Codelco statement specifying the scope of the suspension and the operating status of the open-pit sector.
+**What to watch.** An official notice specifying the reopening of traffic at El Bordo toll.
 
 Sources:
-- https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGhTZXZKbVJyS2gyek1RTUY3VFlUTlBXalp0SkdiOGhJUHJFT0kzRjFMLWxMNUZ1YkFDRGdjU3d1dUxJMS1sd25oUzVFTnZBZWhuWFVxRDhuU3phOF9EOHAtR2VDamVBbGZkRURtcURpQU9yaFhaTGQyQ3hfYi1fNkRfNnoxUEphUlN2bU9XX1EyMHBpWlBDQlRJN0M?oc=5
-- https://mch.cl/codelco-informa-deceso-de-trabajadores-tras-alud-en-el-teniente
-- https://latercera.com/nacional/noticia/alud-de-barro-en-mina-el-teniente-un-trabajador-fue-auxiliado-y-otros-dos-estan-en-proceso-de-ser-rescatados
-- https://mch.cl/ultimo-minuto-codelco-informa-labores-de-rescate-de-tres-trabajadores-tras-alud-en-el-teniente
-- https://news.google.com/rss/articles/CBMivwFBVV95cUxQemctZDVjSUo2MDFRM1NPUW5XcS1xTldoZ21RYjJ4ckVldTZRQW1XM1ZDcTFxc3JZOVFKNEk4X3k5cmxmV2k3cXRuNnFBcjZfMzI4UElBdnpKMm56Qk96eVNEb1hqZzZUd2VRMEsyVDktQkNqRVlVeXAtRkpFR0RmellVZjFmQzZMS3dwZmc2ZkNlNV9mZ3VjNy1MY2FCaXBBcUJKakZ1NkZMQmlfODhvdTRhUzFvWEFiR1F5UzVNMA?oc=5
-- https://latercera.com/nacional/noticia/tragedia-en-el-teniente-hallan-muertos-a-dos-trabajadores-tras-alud-y-sindicato-pide-indagar-por-que-trabajaban-en-zona-critica
-- https://x.com/biobio/status/2109356169911542159
-- https://x.com/biobio/status/2109430011530719542
+- https://x.com/mindefensa/status/2109654759040758191
+- https://eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-sobre-atentado-en-la-via-panamericana-cada-agresion-de-los-narcoterroristas-tendra-consecuencias-3592986
+- https://eltiempo.com/colombia/otras-ciudades/al-menos-tres-heridos-deja-atentado-con-carro-bomba-en-la-via-panamericana-cerca-del-peaje-de-el-bordo-cauca-esto-se-sabe-3592979
+- https://lasillavacia.com/en-vivo/cupula-militar-viajara-a-cali-tras-atentado-en-cauca
+- https://eltiempo.com/economia/sectores/atentado-contra-el-peaje-el-bordo-en-el-cauca-dejo-cinco-trabajadores-heridos-3592995
+
+#### 3. Cuba announces oil concessions for foreign investment
+
+Cuba announced an oil-sector reform on Monday that provides for concessions to foreign investors and participation by domestic private companies, reported. According to Infobae, the rule was published in the Gaceta Oficial and will take effect in seven days. It regulates exploration, extraction, refining, transport and sales of crude oil, gas and derivatives, both on land and in deep waters.
+
+Clarin describes the opening as part of a liberalization plan intended to increase production and address the economic and energy crisis, aggravated by United States sanctions and blockades. The evidence covers the announcement and publication of the rule, not awarded concessions or an increase in production.
+
+Exposure: Energy · oil-sector regulatory opening → foreign and domestic private participation → concession investment → production capacity · Concession awards, Oil-sector investment access, Oil and gas production capacity  
+**Aldra assessment** (confidence: moderate, direction: improving). The reform opens a route into the sector for foreign capital and domestic private companies. Its effect on supply depends on that authorization translating into concessions and investment: the announcement does not demonstrate new production.
+
+**What to watch.** A concession awarded under the rule published in the Gaceta Oficial.
+
+Sources:
+- https://nmas.com.mx/internacional/cuba-abre-su-petroleo-a-concesiones-y-a-empresas-privadas
+- https://clarin.com/estados-unidos/cuba-reforma-su-sector-petrolero-y-autoriza-concesiones_0_FLHRVWixlG.html
+- https://infobae.com/cuba/2026/10/13/regimen-cubano-abre-el-petroleo-y-gas-a-inversores-tras-profundizarse-la-crisis-energetica
 
 ### Other developments
 
-#### 3. Infobae: Costa Rica sets October 26 cattle identification deadline
+#### 4. Government enacts narrower cold-zone gas subsidies
 
-According to Infobae, Laura Fernández Delgado's government set October 26, 2026, as the deadline to identify adult cattle before requiring the official device to move them outside farms. The outlet says 80% of livestock is already registered and describes official traceability as a measure against meat smuggling. The requirement applies to animal movements.
+The government enacted the law narrowing subsidy coverage under the cold-zone regime. La Nacion notes that it was approved in late September with 38 affirmative votes. Infobae specifies that Law 27.828 was published on Tuesday in the Boletín Oficial and will remain valid through December 31, 2031. The available reports do not identify which users lose coverage or quantify the spending reduction.
 
-Exposure: Agriculture · official identification requirement → livestock movement compliance → off-farm movement eligibility · Cattle registration coverage, Traceability compliance, Livestock movement  
+Exposure: Energy, Sovereign finance · subsidy law enactment → narrower coverage → household subsidy access and public outlays · Gas-subsidy coverage, Eligible users, Government subsidy spending  
 
-**What to watch.** Publication of the rule specifying the official-device requirement for moving cattle outside farms.
-
-Sources:
-- https://infobae.com/costa-rica/2026/10/12/con-el-80-del-ganado-registrado-costa-rica-fija-el-26-de-octubre-para-la-trazabilidad-oficial-en-busca-del-fin-del-contrabando-de-carne
-
-#### 4. Clarín: three out of four trains have overdue inspections
-
-According to Clarín, the AGN exposed a railway crisis and the government acknowledged that three out of four trains have overdue inspections. Transport authorities say the backlog dates to 2015 and that spare parts have already been purchased. The opposition says the national government allocates less funding to trains. The outlet reports service delays and cancellations, but does not specify how many parts were installed or inspections completed.
-
-Exposure: Logistics, Infrastructure · overdue inspections → rolling-stock operating constraints → service delays and cancellations · Inspection backlog, Rail service availability, Service cancellations  
-
-**What to watch.** A transport authority report detailing completed inspections and services cleared to operate.
+**What to watch.** An implementing rule specifying which users retain gas-subsidy coverage.
 
 Sources:
-- https://clarin.com/politica/agn-revelo-crisis-ferroviaria-gobierno-reconoce-trenes-revisiones-atrasadas_0_LoVlgzhwBN.html
-
-#### 5. Infobae: Nicaragua's gold exports rise 79.3%
-
-According to Infobae, Nicaragua's gold exports grew 79.3% compared with the same period of 2025. The average price increased 55.4% and the volume shipped abroad rose 15.4%. The outlet reports that, in six months, the country had already earned almost eight out of every ten dollars it earned from gold exports throughout 2025. The reported growth combines higher prices with larger physical shipments.
-
-Exposure: Mining, Commodities · higher average export price and shipment volume → higher gold export receipts · Average gold export price, Gold export volume, Gold export value  
-
-Sources:
-- https://infobae.com/nicaragua/2026/10/12/nicaragua-ya-obtuvo-en-seis-meses-casi-ocho-de-cada-diez-dolares-que-gano-por-exportar-oro-en-todo-2025
+- https://lanacion.com.ar/politica/el-gobierno-promulgo-la-ley-que-modifica-el-regimen-de-zonas-frias-nid13102026
+- https://infobae.com/economia/2026/10/13/el-gobierno-promulgo-la-nueva-ley-de-zonas-frias-que-redefine-el-alcance-del-subsidio-de-gas
 
 #### Tracked situations
 
+- **NHC forecasts Rachel landfall in northern Baja California**: No material change. Tropical storm Rachel leaves one dead and seven missing in Baja California
 - **Rodrigo Lara activates 90-day plan for prior consultations**: No material change. Completing consultations for the priority projects could remove a constraint on their execution schedules. The effect depends on community agreements translating into completed cases, rather than digital processing alone.

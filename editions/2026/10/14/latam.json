@@ -1,0 +1,157 @@
+{
+  "schema_version": 2,
+  "product": "LATAM",
+  "date": "2026-10-14",
+  "kind": "partial",
+  "sectors": [
+    "energy",
+    "geopolitics",
+    "mining",
+    "infrastructure"
+  ],
+  "themes": [
+    "geopolitics",
+    "regulation",
+    "conflict"
+  ],
+  "published_at": "2026-10-14T09:41:41.264Z",
+  "web_url": "https://aldraresearch.com/sitreps/latam-2026-10-14",
+  "headline": {
+    "en": "The UK announces protection against Argentine measures over the Falklands. In Chile, mining company Minera Las Cenizas starts seawater conveyance, Rumbo Minero reports.",
+    "es": "Reino Unido anuncia protección ante medidas argentinas sobre Malvinas. En Chile, la minera Minera Las Cenizas activa la conducción de agua de mar, según Rumbo Minero."
+  },
+  "summary": {
+    "en": "The UK government announced protective measures for activities linked to the Falkland Islands after Argentina asked the International Tribunal for the Law of the Sea to suspend hydrocarbon development in their northern basin. The timetable for Sea Lion, led by British company Rockhopper and Israeli company Navitas, remains exposed to a judicial decision; according to Estadao, Rockhopper expects extraction to begin around January 2028. In Chile, mining company Minera Las Cenizas started seawater conveyance from Lavata Bay to Distrito Taltal, according to Rumbo Minero. The system includes more than 110 kilometres of pipes and initial capacity of 50 litres per second, expandable to 100 in a second phase.",
+    "es": "El Gobierno del Reino Unido anunció medidas de protección para actividades vinculadas a las islas Malvinas, después de que Argentina pidiera al Tribunal Internacional del Derecho del Mar suspender la explotación de hidrocarburos en su cuenca norte. El calendario de Sea Lion, liderado por la británica Rockhopper y la israelí Navitas, sigue expuesto a una decisión judicial; según Estadao, Rockhopper espera iniciar la extracción alrededor de enero de 2028. En Chile, la minera Minera Las Cenizas puso en marcha la conducción de agua de mar desde bahía Lavata hasta el Distrito Taltal, según Rumbo Minero. El sistema contempla más de 110 kilómetros de tuberías y una capacidad inicial de 50 litros por segundo, ampliable a 100 en una segunda etapa."
+  },
+  "stories": [
+    {
+      "id": "latam-2026-10-14-57afdd6a1d",
+      "status": "CONFIRMED",
+      "tier": "major",
+      "heading": {
+        "en": "Falklands: UK announces protection in response to Argentine measures",
+        "es": "Malvinas: Reino Unido anuncia protección ante las medidas argentinas"
+      },
+      "text": {
+        "en": "The UK government announced it will introduce protective measures in response to Argentine provisions targeting activities linked to the Falkland Islands. Argentina confirmed it asked the International Tribunal for the Law of the Sea to suspend hydrocarbon development in the islands' northern basin, whose sovereignty it disputes with the UK. The request includes provisional measures, following an announced intention to seek arbitration in late September.\n\nAccording to Clarin, the filing runs to 49 pages and seeks four provisional measures; the tribunal will set hearings for November and issue a binding ruling for the UK a few weeks later. Sea Lion is led by British company Rockhopper and Israeli company Navitas. According to Estadao, Rockhopper expects extraction to begin around January 2028.\n\nRumbo Minero reported that the UK will invoke Protection of Trading Interests legislation. According to Clarin, the British statement says companies can continue making decisions under UK law; Rockhopper and Navitas shares rose. In a separate report, Clarin said Navitas confirmed British authorization for Sea Lion, although the official government statement had yet to be published.",
+        "es": "El Gobierno del Reino Unido anunció que introducirá medidas de protección frente a las disposiciones argentinas que afectan actividades vinculadas a las islas Malvinas. Argentina confirmó que pidió al Tribunal Internacional del Derecho del Mar suspender la explotación de hidrocarburos en la cuenca norte de las islas, cuya soberanía disputa con el Reino Unido. El pedido incluye medidas provisionales, tras anunciar una intención de arbitraje a fines de septiembre.\n\nSegún Clarin, el escrito tiene 49 páginas y solicita cuatro medidas cautelares; el tribunal fijará audiencias para noviembre y dictará una resolución obligatoria para el Reino Unido pocas semanas después. Sea Lion está liderado por la empresa británica Rockhopper y la israelí Navitas. Según Estadao, Rockhopper espera iniciar la extracción alrededor de enero de 2028.\n\nRumbo Minero informó que el Reino Unido recurrirá a la legislación de Protección de Intereses Comerciales. Según Clarin, el comunicado británico sostiene que las empresas podrán seguir tomando decisiones conforme a su legislación; las acciones de Rockhopper y Navitas subieron. En otro reporte, Clarin dijo que Navitas confirmó la autorización británica a Sea Lion, aunque faltaba publicar el comunicado oficial."
+      },
+      "exposure": {
+        "sectors": [
+          "energy",
+          "geopolitics"
+        ],
+        "assets_or_markets": [
+          "Sea Lion",
+          "Rockhopper shares",
+          "Navitas shares",
+          "Falkland Islands hydrocarbon development"
+        ],
+        "transmission_path": [
+          "competing legal measures",
+          "uncertain project operating access",
+          "investment and development timetable risk"
+        ],
+        "variables": [
+          "project legal access",
+          "development timetable",
+          "investment commitments",
+          "equity prices"
+        ]
+      },
+      "assessment": {
+        "confidence": "moderate",
+        "direction": "unclear",
+        "text": {
+          "en": "British protection seeks to preserve commercial access, but Argentina's request leaves Sea Lion's timetable exposed to a judicial decision. For investors, the announcement does not remove suspension risk: the scope of the measures and the tribunal's response remain unresolved.",
+          "es": "La protección británica busca sostener el acceso comercial, pero el pedido argentino deja el calendario de Sea Lion expuesto a una decisión judicial. Para los inversores, el anuncio no despeja el riesgo de suspensión: falta conocer el alcance de las medidas y la respuesta del tribunal."
+        }
+      },
+      "watch": {
+        "en": "The International Tribunal for the Law of the Sea ruling on the provisional measures requested by Argentina.",
+        "es": "La resolución del Tribunal Internacional del Derecho del Mar sobre las medidas provisionales solicitadas por Argentina."
+      },
+      "sources": [
+        "https://x.com/FalklandsRepUK/status/2110051053844791795",
+        "https://clarin.com/politica/gobierno-confirmo-pidio-tribunal-mar-hamburgo-suspender-explotacion-petrolera-malvinas_0_Zl4vNgTOK2.html",
+        "https://estadao.com.br/internacional/argentina-pede-tribunal-do-mar-impeca-extracao-petroleo-malvinas-npr",
+        "https://clarin.com/politica/malvinas-argumento-argentino-frenar-extraccion-petroleo-tiempos-juicio-resuelve-cuestion-soberania_0_LliHRzmM8o.html",
+        "https://rumbominero.com/otros-paises/reino-unido-anuncia-medidas-legales-para-proteger-proyecto-petrolero-sea-lion",
+        "https://clarin.com/politica/malvinas-respuesta-gran-bretana-denuncia-argentina-tribunal-mar-explotacion-petrolera_0_0fmO6pzHSW.html",
+        "https://clarin.com/politica/secretario-relaciones-exteriores-britanico-autorizo-explotacion-petrolera-malvinas-crece-tension-argentina_0_Ozza0lw6NX.html"
+      ],
+      "countries": [
+        "FK"
+      ],
+      "story_class": "structural"
+    },
+    {
+      "id": "latam-2026-10-14-c84f7a3789",
+      "status": "CLAIM",
+      "tier": "major",
+      "heading": {
+        "en": "Chile: Rumbo Minero reports Minera Las Cenizas starts water conveyance",
+        "es": "Chile: según Rumbo Minero, Minera Las Cenizas activa conducción de agua"
+      },
+      "text": {
+        "en": "According to Rumbo Minero, Minera Las Cenizas started seawater conveyance from Lavata Bay to Distrito Taltal, Chile. The system includes more than 110 kilometres of pipes and initial capacity of 50 litres per second, expandable to 100 litres per second in a second phase. Mineria Chilena carried the company's claim that the initiative offers a long-term solution to the mining industry's water challenge in Chile's Antofagasta Region.",
+        "es": "Según Rumbo Minero, Minera Las Cenizas puso en marcha la conducción de agua de mar desde bahía Lavata hasta el Distrito Taltal, en Chile. El sistema contempla más de 110 kilómetros de tuberías y una capacidad inicial de 50 litros por segundo, ampliable a 100 litros por segundo en una segunda etapa. Mineria Chilena recogió la afirmación de la compañía de que la iniciativa ofrece una solución de largo plazo al desafío hídrico de la minería en la Región de Antofagasta, en Chile."
+      },
+      "exposure": {
+        "sectors": [
+          "mining",
+          "infrastructure"
+        ],
+        "assets_or_markets": [
+          "Distrito Taltal operations",
+          "Mine water supply"
+        ],
+        "transmission_path": [
+          "seawater conveyance startup",
+          "additional mine water availability",
+          "operating continuity support"
+        ],
+        "variables": [
+          "delivered water flow",
+          "water availability",
+          "operating continuity"
+        ]
+      },
+      "assessment": null,
+      "watch": {
+        "en": "A record of actual water delivery to Distrito Taltal.",
+        "es": "Un registro de suministro efectivo de agua al Distrito Taltal."
+      },
+      "sources": [
+        "https://mch.cl/minera-las-cenizas-concreta-un-nuevo-hito-hidrico-en-distrito-taltal",
+        "https://rumbominero.com/chile/minera-las-cenizas-sistema-de-agua-de-mar-operaciones-en-taltal"
+      ],
+      "countries": [
+        "CL"
+      ],
+      "story_class": "incident"
+    }
+  ],
+  "tracking": [
+    {
+      "situation_id": "latam-reuters-us-seizes-fuel-shipments-bound-f-7d6147",
+      "title": {
+        "en": "Reuters: US seizes fuel shipments bound for Cuba",
+        "es": "Reuters: EEUU incauta combustible destinado a Cuba"
+      },
+      "line": {
+        "en": "No material change. The reform opens a route into the sector for foreign capital and domestic private companies. Its effect on supply depends on that authorization translating into concessions and investment: the announcement does not demonstrate new production.",
+        "es": "Sin cambio material. La reforma abre una vía de acceso al sector para capital extranjero y empresas privadas nacionales. El efecto sobre la oferta depende de que esa habilitación se traduzca en concesiones e inversión: el anuncio no demuestra nueva producción."
+      }
+    }
+  ],
+  "context": {
+    "text": {
+      "en": "The US Department of Defense reported that US forces disabled a commercial cargo vessel in the Gulf of Oman during the naval blockade against Iran, which restricts commercial shipping access. In the Strait of Hormuz, the Financial Times reported that Iran targeted 24 tankers and other vessels in two weeks. According to gCaptain, a growing number of empty supertankers were turning away from the Persian Gulf as attacks threatened an oil-transfer hub; the reports do not quantify the impact on shipments, freight or insurance.",
+      "es": "El Departamento de Defensa de Estados Unidos informó que fuerzas estadounidenses inutilizaron un carguero comercial en el golfo de Omán durante el bloqueo naval contra Irán, que restringe el acceso marítimo comercial. En el estrecho de Ormuz, el Financial Times reportó que 24 petroleros y otros buques fueron blanco de Irán en dos semanas. Según gCaptain, un número creciente de superpetroleros vacíos desistía de entrar al golfo Pérsico ante ataques que amenazan un hub de transferencia de petróleo; los reportes no cuantifican el impacto en embarques, fletes o seguros."
+    }
+  },
+  "content_hash": "a3f526d8eed40e9bd6456d8853cc141b73c6cd803ad79f2ae166c8fc9d2f0892",
+  "license": "CC-BY-4.0"
+}

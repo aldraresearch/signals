@@ -1,0 +1,75 @@
+# Aldra SITREP · LATAM · 2026-10-18
+
+## Español
+
+Edición: parcial · Sectores: Logística, Infraestructura · Publicada: 2026-10-18T16:30:57.302Z  
+Web: https://aldraresearch.com/sitreps/latam-2026-10-18  
+Licencia: CC BY 4.0
+
+### México: la Secretaría de Marina reporta cierres a toda la navegación en Manzanillo, Lázaro Cárdenas y Puerto Escondido.
+
+La Secretaría de Marina de México informó el 17 de octubre que Manzanillo, en Colima; Lázaro Cárdenas, en Michoacán, y Puerto Escondido, en Oaxaca, estaban cerrados a toda la navegación ante el huracán Trudy. La Marina reportó vientos sostenidos de 148 km/h y oleaje de 5 a 6 metros, y advirtió que el huracán de categoría 1 podría alcanzar la categoría 2 en las siguientes 12 horas. Sheinbaum también informó de cierres a todo tipo de embarcaciones en Tamaulipas, Veracruz y Tabasco por el frente frío número 2 en el golfo de México. Los cierres exponen a cargadores y operadores a demoras de acceso portuario; los avisos no cuantifican la carga afectada ni fijan fechas de reapertura.
+
+### Situaciones principales
+
+#### 1. México: Marina reporta Manzanillo cerrado a toda la navegación
+
+En el episodio de Trudy bajo seguimiento en México, la Secretaría de Marina reportó el 17 de octubre que Manzanillo, en Colima; Lázaro Cárdenas, en Michoacán, y Puerto Escondido, en Oaxaca, estaban cerrados a toda la navegación. Para embarcaciones menores, también señaló cierres en Acapulco, Puerto Marqués y Zihuatanejo, en Guerrero, y Barra de Navidad, en Jalisco.
+
+La Marina ubicó al huracán de categoría 1 a 226 km al sur de Punta San Telmo, Michoacán, y a 314 km al sur-sureste de Manzanillo. Reportó avance al noroeste a 13 km/h, vientos sostenidos de 148 km/h, rachas de hasta 185 km/h y oleaje de 5 a 6 metros. Advirtió que podría intensificarse a categoría 2 en las siguientes 12 horas. Reuters informó que Trudy ganaba fuerza, aunque se esperaba que se debilitara el domingo.
+
+Sheinbaum informó también que, ante el frente frío número 2 en el golfo de México, la Marina mantenía puertos cerrados a todo tipo de embarcaciones en Tamaulipas, Veracruz y Tabasco. Los avisos no cuantifican carga demorada ni fijan una fecha de reapertura.
+
+Exposición: Logística, Infraestructura · full navigation closures → restricted port access → cargo scheduling delays · port access, shipping delays, port reopening dates  
+**Evaluación de Aldra** (confianza: moderada, dirección: se deteriora). El cierre total expone a cargadores y operadores a demoras de acceso portuario, no solo a restricciones para embarcaciones menores. Los cierres en el golfo amplían la exposición geográfica, pero los avisos no permiten calcular la carga afectada ni la duración de las demoras.
+
+**Qué vigilar.** Un aviso de la Marina que reabra Manzanillo y Lázaro Cárdenas a toda la navegación.
+
+Fuentes:
+- https://x.com/SEMAR_mx/status/2111478262635401310
+- https://x.com/Claudiashein/status/2111563061006086495
+- https://news.google.com/rss/articles/CBMiygFBVV95cUxQQUdGblRuOW5ZdjFTRUR1WkFYdEZKeDAxbjVscWNybm1RS3ZwelZlT084SVFHOFFRcDY5U1dlNUYtNkJKdHJUZEJITmZBeFBCSEZsR1RfNzdwcTY4ejNON0JycmgxN21xSTRPUjRFM2Uyd1ViNkdaZWdPQUJrUTRZd1dUVWIxOGI0Z1UxYjVkaDlZYUVzN3psc3g0bzF3OGo4MkF0NU9ZTmkzZC1zM0g4SUhRWTRqYUI0NWNaYmljYTFVSHM1eHU3d2pR?oc=5
+- https://x.com/Claudiashein/status/2111497702446080400
+
+#### Situaciones seguidas
+
+- **Malvinas: Reino Unido anuncia protección ante las medidas argentinas**: Sin cambio material. La protección británica busca sostener el acceso comercial, pero el pedido argentino deja el calendario de Sea Lion expuesto a una decisión judicial. Para los inversores, el anuncio no despeja el riesgo de suspensión: falta conocer el alcance de las medidas y la respuesta del tribunal.
+- **NHC prevé que Rachel toque tierra en el norte de Baja California**: Sin cambio material. Tormenta tropical Rachel deja un muerto y siete desaparecidos en Baja California
+- **Argentina: Infobae sitúa el riesgo país de JP Morgan en 648 puntos**: Sin cambio material. Para el soberano y sus prestamistas, el spread más alto apunta a financiación más cara pese a las compras de divisas. El aumento de reservas no basta, por sí solo, para inferir una mejora del acceso al mercado.
+
+## English
+
+Edition: partial · Sectors: Logistics, Infrastructure · Published: 2026-10-18T16:30:57.302Z  
+Web: https://aldraresearch.com/sitreps/latam-2026-10-18  
+License: CC BY 4.0
+
+### Mexico’s Navy reports Manzanillo, Lázaro Cárdenas and Puerto Escondido closed to all navigation.
+
+Mexico’s Navy reported on October 17 that Manzanillo, in Colima; Lázaro Cárdenas, in Michoacán; and Puerto Escondido, in Oaxaca, were closed to all navigation amid Hurricane Trudy. The Navy reported sustained winds of 148 km/h and waves of 5 to 6 meters, warning that the category 1 hurricane could reach category 2 within the following 12 hours. Sheinbaum also reported closures to all types of vessels in Tamaulipas, Veracruz and Tabasco because of cold front number 2 in the Gulf of Mexico. The closures expose shippers and operators to port-access delays; the notices do not quantify affected cargo or specify reopening dates.
+
+### Main situations
+
+#### 1. Mexico: Navy reports Manzanillo closed to all navigation
+
+In the tracked Trudy episode in Mexico, the Mexican Navy reported on October 17 that Manzanillo, in Colima; Lázaro Cárdenas, in Michoacán; and Puerto Escondido, in Oaxaca, were closed to all navigation. It also listed closures for small vessels at Acapulco, Puerto Marqués and Zihuatanejo, in Guerrero, and Barra de Navidad, in Jalisco.
+
+The Navy located the category 1 hurricane 226 km south of Punta San Telmo, Michoacán, and 314 km south-southeast of Manzanillo. It reported northwestward movement at 13 km/h, sustained winds of 148 km/h, gusts of up to 185 km/h and waves of 5 to 6 meters. It warned that the hurricane could intensify to category 2 over the following 12 hours. Reuters reported that Trudy was gaining strength but was expected to weaken by Sunday.
+
+Sheinbaum also reported that, with cold front number 2 in the Gulf of Mexico, the Navy was maintaining port closures to all types of vessels in Tamaulipas, Veracruz and Tabasco. The notices do not quantify delayed cargo or specify a reopening date.
+
+Exposure: Logistics, Infrastructure · full navigation closures → restricted port access → cargo scheduling delays · port access, shipping delays, port reopening dates  
+**Aldra assessment** (confidence: moderate, direction: deteriorating). Full closures expose shippers and operators to port-access delays, not just restrictions on small vessels. The Gulf closures widen the geographic exposure, but the notices do not establish the volume of cargo affected or how long delays may last.
+
+**What to watch.** A Navy notice reopening Manzanillo and Lázaro Cárdenas to all navigation.
+
+Sources:
+- https://x.com/SEMAR_mx/status/2111478262635401310
+- https://x.com/Claudiashein/status/2111563061006086495
+- https://news.google.com/rss/articles/CBMiygFBVV95cUxQQUdGblRuOW5ZdjFTRUR1WkFYdEZKeDAxbjVscWNybm1RS3ZwelZlT084SVFHOFFRcDY5U1dlNUYtNkJKdHJUZEJITmZBeFBCSEZsR1RfNzdwcTY4ejNON0JycmgxN21xSTRPUjRFM2Uyd1ViNkdaZWdPQUJrUTRZd1dUVWIxOGI0Z1UxYjVkaDlZYUVzN3psc3g0bzF3OGo4MkF0NU9ZTmkzZC1zM0g4SUhRWTRqYUI0NWNaYmljYTFVSHM1eHU3d2pR?oc=5
+- https://x.com/Claudiashein/status/2111497702446080400
+
+#### Tracked situations
+
+- **Falklands: UK announces protection in response to Argentine measures**: No material change. British protection seeks to preserve commercial access, but Argentina's request leaves Sea Lion's timetable exposed to a judicial decision. For investors, the announcement does not remove suspension risk: the scope of the measures and the tribunal's response remain unresolved.
+- **NHC forecasts Rachel landfall in northern Baja California**: No material change. Tropical storm Rachel leaves one dead and seven missing in Baja California
+- **Argentina: Infobae puts JP Morgan sovereign spread at 648 basis points**: No material change. For the sovereign and its lenders, the higher spread points to more expensive financing despite the currency purchases. Reserve accumulation alone is not enough to infer an improvement in market access.

@@ -1,75 +1,121 @@
-# Aldra SITREP · LATAM · 2026-10-18
+# Aldra SITREP · LATAM · 2026-10-19
 
 ## Español
 
-Edición: parcial · Sectores: Logística, Infraestructura · Publicada: 2026-10-18T16:30:57.302Z  
-Web: https://aldraresearch.com/sitreps/latam-2026-10-18  
+Edición: de respaldo · Sectores: Logística, Infraestructura · Publicada: 2026-10-19T06:31:18.916Z  
+Web: https://aldraresearch.com/sitreps/latam-2026-10-19  
 Licencia: CC BY 4.0
 
-### México: la Secretaría de Marina reporta cierres a toda la navegación en Manzanillo, Lázaro Cárdenas y Puerto Escondido.
+### El centro de huracanes de Estados Unidos registra vientos de 130 km/h en Trudy frente a México. Chile y Argentina anuncian el cierre de Los Libertadores, según La Tercera.
 
-La Secretaría de Marina de México informó el 17 de octubre que Manzanillo, en Colima; Lázaro Cárdenas, en Michoacán, y Puerto Escondido, en Oaxaca, estaban cerrados a toda la navegación ante el huracán Trudy. La Marina reportó vientos sostenidos de 148 km/h y oleaje de 5 a 6 metros, y advirtió que el huracán de categoría 1 podría alcanzar la categoría 2 en las siguientes 12 horas. Sheinbaum también informó de cierres a todo tipo de embarcaciones en Tamaulipas, Veracruz y Tabasco por el frente frío número 2 en el golfo de México. Los cierres exponen a cargadores y operadores a demoras de acceso portuario; los avisos no cuantifican la carga afectada ni fijan fechas de reapertura.
+En México, el centro de huracanes de Estados Unidos situó a Trudy a 355 km de Manzanillo y pronosticó un debilitamiento rápido; no está confirmada la reapertura de Manzanillo y Lázaro Cárdenas tras los cierres informados por la Marina de México. Según La Tercera, las autoridades de Chile y Argentina acordaron cerrar preventivamente Los Libertadores por el tiempo previsto en la alta cordillera: programaron el cierre de barreras a las 20:00 del domingo y del túnel a las 22:00, sin hora de reapertura. El Economista reporta que, tras el fin del veto estadounidense, el aeropuerto de la capital mexicana devolverá slots a aerolíneas estadounidenses y permitirá el regreso de carga dedicada; las aerolíneas mexicanas podrán ampliar operaciones hacia Estados Unidos, sin nuevas rutas ni fechas precisadas.
 
-### Situaciones principales
+### Otros desarrollos
 
-#### 1. México: Marina reporta Manzanillo cerrado a toda la navegación
+#### 1. México: el NHC registra vientos de 130 km/h en Trudy
 
-En el episodio de Trudy bajo seguimiento en México, la Secretaría de Marina reportó el 17 de octubre que Manzanillo, en Colima; Lázaro Cárdenas, en Michoacán, y Puerto Escondido, en Oaxaca, estaban cerrados a toda la navegación. Para embarcaciones menores, también señaló cierres en Acapulco, Puerto Marqués y Zihuatanejo, en Guerrero, y Barra de Navidad, en Jalisco.
+Tras los cierres a toda navegación de Manzanillo y Lázaro Cárdenas informados por la Marina de México, el NHC, el centro de huracanes de Estados Unidos, registró vientos sostenidos de 130 km/h en Trudy a las 03:00 UTC del 19 de octubre. El huracán estaba a 355 km al oeste-noroeste de Manzanillo y avanzaba al noroeste a 11 km/h.
 
-La Marina ubicó al huracán de categoría 1 a 226 km al sur de Punta San Telmo, Michoacán, y a 314 km al sur-sureste de Manzanillo. Reportó avance al noroeste a 13 km/h, vientos sostenidos de 148 km/h, rachas de hasta 185 km/h y oleaje de 5 a 6 metros. Advirtió que podría intensificarse a categoría 2 en las siguientes 12 horas. Reuters informó que Trudy ganaba fuerza, aunque se esperaba que se debilitara el domingo.
+El aviso de la Marina del 18 de octubre también incluía cierres totales en Puerto Vallarta y Puerto Escondido, y restricciones para embarcaciones menores en La Cruz de Huanacaxtle, Chacala, Barra de Navidad y Zihuatanejo. La institución mantuvo activo el Plan Marina en Jalisco y Colima, con vigilancia, limpieza de vialidades, habilitación de albergues temporales y preparación de despensas.
 
-Sheinbaum informó también que, ante el frente frío número 2 en el golfo de México, la Marina mantenía puertos cerrados a todo tipo de embarcaciones en Tamaulipas, Veracruz y Tabasco. Los avisos no cuantifican carga demorada ni fijan una fecha de reapertura.
+El NHC indicó que no había vigilancias ni avisos costeros vigentes y que la lluvia intensa cedía en Jalisco; esperaba también una disminución del riesgo de inundación. Pronosticó un debilitamiento rápido y una trayectoria más alejada de la costa continental mexicana. Las fuentes no confirman la reapertura de los puertos.
 
-Exposición: Logística, Infraestructura · full navigation closures → restricted port access → cargo scheduling delays · port access, shipping delays, port reopening dates  
-**Evaluación de Aldra** (confianza: moderada, dirección: se deteriora). El cierre total expone a cargadores y operadores a demoras de acceso portuario, no solo a restricciones para embarcaciones menores. Los cierres en el golfo amplían la exposición geográfica, pero los avisos no permiten calcular la carga afectada ni la duración de las demoras.
+Exposición: Logística, Infraestructura · hurricane conditions → navigation closures → restricted port access → potential shipping delays · port availability, navigation restrictions, shipping throughput, freight delays  
+**Evaluación de Aldra** (confianza: moderada, dirección: incierta). El debilitamiento mejora el entorno meteorológico, pero no demuestra que se haya restablecido el acceso portuario. Para cargadores y operadores, la incertidumbre sigue siendo la disponibilidad de los puertos; las fuentes no cuantifican la carga afectada ni la duración de las demoras.
 
-**Qué vigilar.** Un aviso de la Marina que reabra Manzanillo y Lázaro Cárdenas a toda la navegación.
+**Qué vigilar.** Confirmación de la Marina de México sobre la reapertura de Manzanillo y Lázaro Cárdenas.
 
 Fuentes:
-- https://x.com/SEMAR_mx/status/2111478262635401310
-- https://x.com/Claudiashein/status/2111563061006086495
-- https://news.google.com/rss/articles/CBMiygFBVV95cUxQQUdGblRuOW5ZdjFTRUR1WkFYdEZKeDAxbjVscWNybm1RS3ZwelZlT084SVFHOFFRcDY5U1dlNUYtNkJKdHJUZEJITmZBeFBCSEZsR1RfNzdwcTY4ejNON0JycmgxN21xSTRPUjRFM2Uyd1ViNkdaZWdPQUJrUTRZd1dUVWIxOGI0Z1UxYjVkaDlZYUVzN3psc3g0bzF3OGo4MkF0NU9ZTmkzZC1zM0g4SUhRWTRqYUI0NWNaYmljYTFVSHM1eHU3d2pR?oc=5
-- https://x.com/Claudiashein/status/2111497702446080400
+- https://x.com/SEMAR_mx/status/2111812775550861780
+- https://x.com/SEMAR_mx/status/2111883441218134465
+- https://nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/190243.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCDEP1+shtml/190244.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCMEP1+shtml/190243.shtml
+- https://nhc.noaa.gov/text/refresh/MIAPWSEP1+shtml/190243.shtml
+- https://nhc.noaa.gov/gtwo.php?basin=epac
+
+#### 2. Según La Tercera, Chile y Argentina anuncian cierre de Los Libertadores
+
+Según La Tercera, las autoridades de Chile y Argentina acordaron el cierre preventivo del paso Los Libertadores por la inestabilidad climática prevista en la alta cordillera. El anuncio fijó el cierre de barreras a las 20:00 del domingo y el cese de operaciones del túnel internacional a las 22:00. La nota no aporta una hora de reapertura.
+
+Exposición: Logística · announced weather closure → scheduled barrier and tunnel shutdown → cross-border freight interruption · border-pass availability, cross-border road access, freight delays  
+
+**Qué vigilar.** Un aviso de las autoridades de Chile y Argentina con la hora de reapertura de Los Libertadores.
+
+Fuentes:
+- https://latercera.com/nacional/noticia/anuncian-cierre-preventivo-del-paso-los-libertadores-desde-esta-noche-por-condiciones-meteorologicas
+
+#### 3. México: según El Economista, AICM devolverá slots a aerolíneas estadounidenses
+
+Tras el fin del veto de Estados Unidos al AIFA y al AICM en México, reportado por El Economista, el diario indicó que la terminal capitalina devolverá slots a aerolíneas estadounidenses y permitirá el regreso de carga dedicada. Añadió que las aerolíneas mexicanas podrán volver a ampliar operaciones hacia Estados Unidos; no precisó nuevas rutas ni fechas de inicio.
+
+Exposición: Logística, Infraestructura · reported lifting of aviation restrictions → slot return and dedicated cargo permission → potential cross-border capacity expansion · airport slots, Mexico-US air cargo capacity, cross-border airline capacity  
+
+**Qué vigilar.** Autorizaciones de nuevas rutas y anuncios de inicio de operaciones de carga dedicada en el AICM.
+
+Fuentes:
+- https://eleconomista.com.mx/empresas/eu-levanta-veto-aereo-aifa-aicm-20261018-839275.html
 
 #### Situaciones seguidas
 
 - **Malvinas: Reino Unido anuncia protección ante las medidas argentinas**: Sin cambio material. La protección británica busca sostener el acceso comercial, pero el pedido argentino deja el calendario de Sea Lion expuesto a una decisión judicial. Para los inversores, el anuncio no despeja el riesgo de suspensión: falta conocer el alcance de las medidas y la respuesta del tribunal.
-- **NHC prevé que Rachel toque tierra en el norte de Baja California**: Sin cambio material. Tormenta tropical Rachel deja un muerto y siete desaparecidos en Baja California
-- **Argentina: Infobae sitúa el riesgo país de JP Morgan en 648 puntos**: Sin cambio material. Para el soberano y sus prestamistas, el spread más alto apunta a financiación más cara pese a las compras de divisas. El aumento de reservas no basta, por sí solo, para inferir una mejora del acceso al mercado.
 
 ## English
 
-Edition: partial · Sectors: Logistics, Infrastructure · Published: 2026-10-18T16:30:57.302Z  
-Web: https://aldraresearch.com/sitreps/latam-2026-10-18  
+Edition: fallback · Sectors: Logistics, Infrastructure · Published: 2026-10-19T06:31:18.916Z  
+Web: https://aldraresearch.com/sitreps/latam-2026-10-19  
 License: CC BY 4.0
 
-### Mexico’s Navy reports Manzanillo, Lázaro Cárdenas and Puerto Escondido closed to all navigation.
+### The US National Hurricane Center records 130 km/h winds in Trudy off Mexico. Chile and Argentina announce the Los Libertadores closure, La Tercera reports.
 
-Mexico’s Navy reported on October 17 that Manzanillo, in Colima; Lázaro Cárdenas, in Michoacán; and Puerto Escondido, in Oaxaca, were closed to all navigation amid Hurricane Trudy. The Navy reported sustained winds of 148 km/h and waves of 5 to 6 meters, warning that the category 1 hurricane could reach category 2 within the following 12 hours. Sheinbaum also reported closures to all types of vessels in Tamaulipas, Veracruz and Tabasco because of cold front number 2 in the Gulf of Mexico. The closures expose shippers and operators to port-access delays; the notices do not quantify affected cargo or specify reopening dates.
+In Mexico, the US National Hurricane Center placed Trudy 355 km from Manzanillo and forecast rapid weakening; reopening of Manzanillo and Lázaro Cárdenas remains unconfirmed after closures reported by Mexico’s Navy. According to La Tercera, Chilean and Argentine authorities agreed to close Los Libertadores preventively because of forecast mountain weather: barrier closures were scheduled for 20:00 Sunday and the tunnel shutdown for 22:00, with no reopening time. El Economista reports that, following the end of the US ban, the airport in Mexico’s capital will return slots to US airlines and allow dedicated cargo operations to return; Mexican airlines will be able to expand US operations, with no new routes or dates specified.
 
-### Main situations
+### Other developments
 
-#### 1. Mexico: Navy reports Manzanillo closed to all navigation
+#### 1. Mexico: NHC records Trudy winds of 130 km/h
 
-In the tracked Trudy episode in Mexico, the Mexican Navy reported on October 17 that Manzanillo, in Colima; Lázaro Cárdenas, in Michoacán; and Puerto Escondido, in Oaxaca, were closed to all navigation. It also listed closures for small vessels at Acapulco, Puerto Marqués and Zihuatanejo, in Guerrero, and Barra de Navidad, in Jalisco.
+Following the closures to all navigation at Manzanillo and Lázaro Cárdenas reported by Mexico's Navy, the NHC, the United States' National Hurricane Center, recorded sustained winds of 130 km/h in Trudy at 03:00 UTC on October 19. The hurricane was 355 km west-northwest of Manzanillo and moving northwest at 11 km/h.
 
-The Navy located the category 1 hurricane 226 km south of Punta San Telmo, Michoacán, and 314 km south-southeast of Manzanillo. It reported northwestward movement at 13 km/h, sustained winds of 148 km/h, gusts of up to 185 km/h and waves of 5 to 6 meters. It warned that the hurricane could intensify to category 2 over the following 12 hours. Reuters reported that Trudy was gaining strength but was expected to weaken by Sunday.
+The Navy's October 18 notice also listed full closures at Puerto Vallarta and Puerto Escondido, with restrictions on small vessels at La Cruz de Huanacaxtle, Chacala, Barra de Navidad and Zihuatanejo. The institution kept Plan Marina active in Jalisco and Colima, conducting patrols, clearing roads, setting up temporary shelters and preparing food packages.
 
-Sheinbaum also reported that, with cold front number 2 in the Gulf of Mexico, the Navy was maintaining port closures to all types of vessels in Tamaulipas, Veracruz and Tabasco. The notices do not quantify delayed cargo or specify a reopening date.
+The NHC said no coastal watches or warnings were in effect and heavy rainfall was subsiding in Jalisco; it also expected flood risk to diminish. It forecast rapid weakening and a track farther away from mainland Mexico's coast. The sources do not confirm that the ports have reopened.
 
-Exposure: Logistics, Infrastructure · full navigation closures → restricted port access → cargo scheduling delays · port access, shipping delays, port reopening dates  
-**Aldra assessment** (confidence: moderate, direction: deteriorating). Full closures expose shippers and operators to port-access delays, not just restrictions on small vessels. The Gulf closures widen the geographic exposure, but the notices do not establish the volume of cargo affected or how long delays may last.
+Exposure: Logistics, Infrastructure · hurricane conditions → navigation closures → restricted port access → potential shipping delays · port availability, navigation restrictions, shipping throughput, freight delays  
+**Aldra assessment** (confidence: moderate, direction: unclear). Weakening improves weather conditions but does not establish that port access has been restored. For shippers and operators, uncertainty still concerns port availability; the sources do not quantify affected cargo or the duration of delays.
 
-**What to watch.** A Navy notice reopening Manzanillo and Lázaro Cárdenas to all navigation.
+**What to watch.** Confirmation from Mexico's Navy that Manzanillo and Lázaro Cárdenas have reopened.
 
 Sources:
-- https://x.com/SEMAR_mx/status/2111478262635401310
-- https://x.com/Claudiashein/status/2111563061006086495
-- https://news.google.com/rss/articles/CBMiygFBVV95cUxQQUdGblRuOW5ZdjFTRUR1WkFYdEZKeDAxbjVscWNybm1RS3ZwelZlT084SVFHOFFRcDY5U1dlNUYtNkJKdHJUZEJITmZBeFBCSEZsR1RfNzdwcTY4ejNON0JycmgxN21xSTRPUjRFM2Uyd1ViNkdaZWdPQUJrUTRZd1dUVWIxOGI0Z1UxYjVkaDlZYUVzN3psc3g0bzF3OGo4MkF0NU9ZTmkzZC1zM0g4SUhRWTRqYUI0NWNaYmljYTFVSHM1eHU3d2pR?oc=5
-- https://x.com/Claudiashein/status/2111497702446080400
+- https://x.com/SEMAR_mx/status/2111812775550861780
+- https://x.com/SEMAR_mx/status/2111883441218134465
+- https://nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/190243.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCDEP1+shtml/190244.shtml
+- https://nhc.noaa.gov/text/refresh/MIATCMEP1+shtml/190243.shtml
+- https://nhc.noaa.gov/text/refresh/MIAPWSEP1+shtml/190243.shtml
+- https://nhc.noaa.gov/gtwo.php?basin=epac
+
+#### 2. La Tercera: Chile and Argentina announce Los Libertadores closure
+
+According to La Tercera, Chilean and Argentine authorities agreed to a preventive closure of the Los Libertadores border crossing because of forecast unstable weather in the high mountains. The announcement scheduled barrier closures for 20:00 on Sunday and the international tunnel's shutdown for 22:00. The report gives no reopening time.
+
+Exposure: Logistics · announced weather closure → scheduled barrier and tunnel shutdown → cross-border freight interruption · border-pass availability, cross-border road access, freight delays  
+
+**What to watch.** A notice from Chilean and Argentine authorities giving a reopening time for Los Libertadores.
+
+Sources:
+- https://latercera.com/nacional/noticia/anuncian-cierre-preventivo-del-paso-los-libertadores-desde-esta-noche-por-condiciones-meteorologicas
+
+#### 3. Mexico: El Economista says AICM will return slots to US airlines
+
+Following the end of the US ban affecting AIFA and AICM in Mexico, as reported by El Economista, the newspaper said the capital's airport will return slots to US airlines and allow dedicated cargo operations to return. It added that Mexican airlines will again be able to expand operations to the United States; it specified no new routes or launch dates.
+
+Exposure: Logistics, Infrastructure · reported lifting of aviation restrictions → slot return and dedicated cargo permission → potential cross-border capacity expansion · airport slots, Mexico-US air cargo capacity, cross-border airline capacity  
+
+**What to watch.** New route authorizations and announced launch dates for dedicated cargo operations at AICM.
+
+Sources:
+- https://eleconomista.com.mx/empresas/eu-levanta-veto-aereo-aifa-aicm-20261018-839275.html
 
 #### Tracked situations
 
 - **Falklands: UK announces protection in response to Argentine measures**: No material change. British protection seeks to preserve commercial access, but Argentina's request leaves Sea Lion's timetable exposed to a judicial decision. For investors, the announcement does not remove suspension risk: the scope of the measures and the tribunal's response remain unresolved.
-- **NHC forecasts Rachel landfall in northern Baja California**: No material change. Tropical storm Rachel leaves one dead and seven missing in Baja California
-- **Argentina: Infobae puts JP Morgan sovereign spread at 648 basis points**: No material change. For the sovereign and its lenders, the higher spread points to more expensive financing despite the currency purchases. Reserve accumulation alone is not enough to infer an improvement in market access.

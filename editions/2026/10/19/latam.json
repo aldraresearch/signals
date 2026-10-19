@@ -1,0 +1,201 @@
+{
+  "schema_version": 2,
+  "product": "LATAM",
+  "date": "2026-10-19",
+  "kind": "fallback",
+  "sectors": [
+    "logistics",
+    "infrastructure"
+  ],
+  "themes": [
+    "weather_climate",
+    "regulation",
+    "trade"
+  ],
+  "published_at": "2026-10-19T06:31:18.916Z",
+  "web_url": "https://aldraresearch.com/sitreps/latam-2026-10-19",
+  "headline": {
+    "en": "The US National Hurricane Center records 130 km/h winds in Trudy off Mexico. Chile and Argentina announce the Los Libertadores closure, La Tercera reports.",
+    "es": "El centro de huracanes de Estados Unidos registra vientos de 130 km/h en Trudy frente a México. Chile y Argentina anuncian el cierre de Los Libertadores, según La Tercera."
+  },
+  "summary": {
+    "en": "In Mexico, the US National Hurricane Center placed Trudy 355 km from Manzanillo and forecast rapid weakening; reopening of Manzanillo and Lázaro Cárdenas remains unconfirmed after closures reported by Mexico’s Navy. According to La Tercera, Chilean and Argentine authorities agreed to close Los Libertadores preventively because of forecast mountain weather: barrier closures were scheduled for 20:00 Sunday and the tunnel shutdown for 22:00, with no reopening time. El Economista reports that, following the end of the US ban, the airport in Mexico’s capital will return slots to US airlines and allow dedicated cargo operations to return; Mexican airlines will be able to expand US operations, with no new routes or dates specified.",
+    "es": "En México, el centro de huracanes de Estados Unidos situó a Trudy a 355 km de Manzanillo y pronosticó un debilitamiento rápido; no está confirmada la reapertura de Manzanillo y Lázaro Cárdenas tras los cierres informados por la Marina de México. Según La Tercera, las autoridades de Chile y Argentina acordaron cerrar preventivamente Los Libertadores por el tiempo previsto en la alta cordillera: programaron el cierre de barreras a las 20:00 del domingo y del túnel a las 22:00, sin hora de reapertura. El Economista reporta que, tras el fin del veto estadounidense, el aeropuerto de la capital mexicana devolverá slots a aerolíneas estadounidenses y permitirá el regreso de carga dedicada; las aerolíneas mexicanas podrán ampliar operaciones hacia Estados Unidos, sin nuevas rutas ni fechas precisadas."
+  },
+  "stories": [
+    {
+      "id": "latam-2026-10-19-3747ca2a7e",
+      "status": "CONFIRMED",
+      "tier": "brief",
+      "heading": {
+        "en": "Mexico: NHC records Trudy winds of 130 km/h",
+        "es": "México: el NHC registra vientos de 130 km/h en Trudy"
+      },
+      "text": {
+        "en": "Following the closures to all navigation at Manzanillo and Lázaro Cárdenas reported by Mexico's Navy, the NHC, the United States' National Hurricane Center, recorded sustained winds of 130 km/h in Trudy at 03:00 UTC on October 19. The hurricane was 355 km west-northwest of Manzanillo and moving northwest at 11 km/h.\n\nThe Navy's October 18 notice also listed full closures at Puerto Vallarta and Puerto Escondido, with restrictions on small vessels at La Cruz de Huanacaxtle, Chacala, Barra de Navidad and Zihuatanejo. The institution kept Plan Marina active in Jalisco and Colima, conducting patrols, clearing roads, setting up temporary shelters and preparing food packages.\n\nThe NHC said no coastal watches or warnings were in effect and heavy rainfall was subsiding in Jalisco; it also expected flood risk to diminish. It forecast rapid weakening and a track farther away from mainland Mexico's coast. The sources do not confirm that the ports have reopened.",
+        "es": "Tras los cierres a toda navegación de Manzanillo y Lázaro Cárdenas informados por la Marina de México, el NHC, el centro de huracanes de Estados Unidos, registró vientos sostenidos de 130 km/h en Trudy a las 03:00 UTC del 19 de octubre. El huracán estaba a 355 km al oeste-noroeste de Manzanillo y avanzaba al noroeste a 11 km/h.\n\nEl aviso de la Marina del 18 de octubre también incluía cierres totales en Puerto Vallarta y Puerto Escondido, y restricciones para embarcaciones menores en La Cruz de Huanacaxtle, Chacala, Barra de Navidad y Zihuatanejo. La institución mantuvo activo el Plan Marina en Jalisco y Colima, con vigilancia, limpieza de vialidades, habilitación de albergues temporales y preparación de despensas.\n\nEl NHC indicó que no había vigilancias ni avisos costeros vigentes y que la lluvia intensa cedía en Jalisco; esperaba también una disminución del riesgo de inundación. Pronosticó un debilitamiento rápido y una trayectoria más alejada de la costa continental mexicana. Las fuentes no confirman la reapertura de los puertos."
+      },
+      "exposure": {
+        "sectors": [
+          "logistics",
+          "infrastructure"
+        ],
+        "assets_or_markets": [
+          "Manzanillo port access",
+          "Lázaro Cárdenas port access",
+          "Puerto Vallarta port access",
+          "Puerto Escondido port access"
+        ],
+        "transmission_path": [
+          "hurricane conditions",
+          "navigation closures",
+          "restricted port access",
+          "potential shipping delays"
+        ],
+        "variables": [
+          "port availability",
+          "navigation restrictions",
+          "shipping throughput",
+          "freight delays"
+        ]
+      },
+      "assessment": {
+        "confidence": "moderate",
+        "direction": "unclear",
+        "text": {
+          "en": "Weakening improves weather conditions but does not establish that port access has been restored. For shippers and operators, uncertainty still concerns port availability; the sources do not quantify affected cargo or the duration of delays.",
+          "es": "El debilitamiento mejora el entorno meteorológico, pero no demuestra que se haya restablecido el acceso portuario. Para cargadores y operadores, la incertidumbre sigue siendo la disponibilidad de los puertos; las fuentes no cuantifican la carga afectada ni la duración de las demoras."
+        }
+      },
+      "watch": {
+        "en": "Confirmation from Mexico's Navy that Manzanillo and Lázaro Cárdenas have reopened.",
+        "es": "Confirmación de la Marina de México sobre la reapertura de Manzanillo y Lázaro Cárdenas."
+      },
+      "sources": [
+        "https://x.com/SEMAR_mx/status/2111812775550861780",
+        "https://x.com/SEMAR_mx/status/2111883441218134465",
+        "https://nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/190243.shtml",
+        "https://nhc.noaa.gov/text/refresh/MIATCDEP1+shtml/190244.shtml",
+        "https://nhc.noaa.gov/text/refresh/MIATCMEP1+shtml/190243.shtml",
+        "https://nhc.noaa.gov/text/refresh/MIAPWSEP1+shtml/190243.shtml",
+        "https://nhc.noaa.gov/gtwo.php?basin=epac"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "story_class": "continuation"
+    },
+    {
+      "id": "latam-2026-10-19-c0767a14af",
+      "status": "CLAIM",
+      "tier": "brief",
+      "heading": {
+        "en": "La Tercera: Chile and Argentina announce Los Libertadores closure",
+        "es": "Según La Tercera, Chile y Argentina anuncian cierre de Los Libertadores"
+      },
+      "text": {
+        "en": "According to La Tercera, Chilean and Argentine authorities agreed to a preventive closure of the Los Libertadores border crossing because of forecast unstable weather in the high mountains. The announcement scheduled barrier closures for 20:00 on Sunday and the international tunnel's shutdown for 22:00. The report gives no reopening time.",
+        "es": "Según La Tercera, las autoridades de Chile y Argentina acordaron el cierre preventivo del paso Los Libertadores por la inestabilidad climática prevista en la alta cordillera. El anuncio fijó el cierre de barreras a las 20:00 del domingo y el cese de operaciones del túnel internacional a las 22:00. La nota no aporta una hora de reapertura."
+      },
+      "exposure": {
+        "sectors": [
+          "logistics"
+        ],
+        "assets_or_markets": [
+          "Los Libertadores border crossing",
+          "Chile-Argentina road freight"
+        ],
+        "transmission_path": [
+          "announced weather closure",
+          "scheduled barrier and tunnel shutdown",
+          "cross-border freight interruption"
+        ],
+        "variables": [
+          "border-pass availability",
+          "cross-border road access",
+          "freight delays"
+        ]
+      },
+      "assessment": null,
+      "watch": {
+        "en": "A notice from Chilean and Argentine authorities giving a reopening time for Los Libertadores.",
+        "es": "Un aviso de las autoridades de Chile y Argentina con la hora de reapertura de Los Libertadores."
+      },
+      "sources": [
+        "https://latercera.com/nacional/noticia/anuncian-cierre-preventivo-del-paso-los-libertadores-desde-esta-noche-por-condiciones-meteorologicas"
+      ],
+      "countries": [
+        "CL",
+        "AR"
+      ],
+      "story_class": "incident"
+    },
+    {
+      "id": "latam-2026-10-19-2ed7433a96",
+      "status": "CLAIM",
+      "tier": "brief",
+      "heading": {
+        "en": "Mexico: El Economista says AICM will return slots to US airlines",
+        "es": "México: según El Economista, AICM devolverá slots a aerolíneas estadounidenses"
+      },
+      "text": {
+        "en": "Following the end of the US ban affecting AIFA and AICM in Mexico, as reported by El Economista, the newspaper said the capital's airport will return slots to US airlines and allow dedicated cargo operations to return. It added that Mexican airlines will again be able to expand operations to the United States; it specified no new routes or launch dates.",
+        "es": "Tras el fin del veto de Estados Unidos al AIFA y al AICM en México, reportado por El Economista, el diario indicó que la terminal capitalina devolverá slots a aerolíneas estadounidenses y permitirá el regreso de carga dedicada. Añadió que las aerolíneas mexicanas podrán volver a ampliar operaciones hacia Estados Unidos; no precisó nuevas rutas ni fechas de inicio."
+      },
+      "exposure": {
+        "sectors": [
+          "logistics",
+          "infrastructure"
+        ],
+        "assets_or_markets": [
+          "Mexico-US air cargo",
+          "AICM airport slots",
+          "Mexican airline cross-border services"
+        ],
+        "transmission_path": [
+          "reported lifting of aviation restrictions",
+          "slot return and dedicated cargo permission",
+          "potential cross-border capacity expansion"
+        ],
+        "variables": [
+          "airport slots",
+          "Mexico-US air cargo capacity",
+          "cross-border airline capacity"
+        ]
+      },
+      "assessment": null,
+      "watch": {
+        "en": "New route authorizations and announced launch dates for dedicated cargo operations at AICM.",
+        "es": "Autorizaciones de nuevas rutas y anuncios de inicio de operaciones de carga dedicada en el AICM."
+      },
+      "sources": [
+        "https://eleconomista.com.mx/empresas/eu-levanta-veto-aereo-aifa-aicm-20261018-839275.html"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "story_class": "continuation"
+    }
+  ],
+  "tracking": [
+    {
+      "situation_id": "latam-falklands-uk-announces-protection-in-res-566973",
+      "title": {
+        "en": "Falklands: UK announces protection in response to Argentine measures",
+        "es": "Malvinas: Reino Unido anuncia protección ante las medidas argentinas"
+      },
+      "line": {
+        "en": "No material change. British protection seeks to preserve commercial access, but Argentina's request leaves Sea Lion's timetable exposed to a judicial decision. For investors, the announcement does not remove suspension risk: the scope of the measures and the tribunal's response remain unresolved.",
+        "es": "Sin cambio material. La protección británica busca sostener el acceso comercial, pero el pedido argentino deja el calendario de Sea Lion expuesto a una decisión judicial. Para los inversores, el anuncio no despeja el riesgo de suspensión: falta conocer el alcance de las medidas y la respuesta del tribunal."
+      }
+    }
+  ],
+  "context": {
+    "text": {
+      "en": "Japan’s Cabinet approved a bill on October 13 for P&I coverage and partial compensation of cargo and hull insurance payments for transporting crude oil, oil products and LNG, according to the scope reported by Hellenic Shipping News, citing a senior official at Japan’s Ministry of Economy, Trade and Industry. Approval does not establish that coverage is operational or specify the compensation share. Bloomberg reported a rise in wheat futures after strikes between Russia and Ukraine and said they reduced the likelihood of an agreement to restart exports; it did not quantify the increase.",
+      "es": "El gabinete de Japón aprobó el 13 de octubre un proyecto de cobertura P&I y compensación parcial de seguros de carga y casco para transportar crudo, derivados del petróleo y GNL, según el alcance informado por Hellenic Shipping News, que cita a un alto funcionario del Ministerio de Economía, Comercio e Industria de Japón. La aprobación no confirma que las coberturas estén operativas ni precisa la proporción a compensar. Bloomberg reportó una suba de los futuros de trigo tras los ataques entre Rusia y Ucrania y señaló que reducen la probabilidad de un acuerdo para reanudar exportaciones; no cuantificó el alza."
+    }
+  },
+  "content_hash": "ac36bb66a64d0bfe404b99c32ebee9f8f2c8a1d66dd17684dafbe6b38c1afcf2",
+  "license": "CC-BY-4.0"
+}

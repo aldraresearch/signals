@@ -1,153 +1,153 @@
-# Aldra SITREP · LATAM · 2026-10-20
+# Aldra SITREP · LATAM · 2026-10-21
 
 ## Español
 
-Edición: parcial · Sectores: Agro, Commodities, Infraestructura, Logística, Energía, Minería, Finanzas soberanas · Publicada: 2026-10-20T06:34:14.011Z  
-Web: https://aldraresearch.com/sitreps/latam-2026-10-20  
+Edición: de respaldo · Sectores: Minería, Commodities, Agro, Energía, Logística · Publicada: 2026-10-21T06:41:21.474Z  
+Web: https://aldraresearch.com/sitreps/latam-2026-10-21  
 Licencia: CC BY 4.0
 
-### El Ministerio de Agricultura de Brasil declara emergencia por Newcastle. El Congreso de Brasil elimina la escala 6x1 sin rebaja salarial.
+### Sherritt obtiene licencia para enviar combustible a Cuba, según El Economista. China suspende compras avícolas de Santa Catarina, Brasil, según Estadao.
 
-El Ministerio de Agricultura de Brasil declaró una emergencia zoosanitaria de 60 días en cuatro municipios de Santa Catarina tras confirmar Newcastle en una granja de 6.000 pavos. El Economista reportó que México suspendió las importaciones avícolas brasileñas. El Congreso de Brasil eliminó la escala 6x1 sin rebaja salarial: según Valor Economico, el máximo será de 42 horas semanales desde el 16 de diciembre de 2026 y de 40 desde el 16 de diciembre de 2027, lo que obliga a revisar la cobertura de turnos. En Argentina, La Nacion reportó un riesgo país de 675 puntos, que eleva el rendimiento exigido al soberano para financiarse. Las exportaciones argentinas de combustibles y energía alcanzaron USD 1.781 millones en septiembre, un 89,1% más interanual; según El Economista, apuntalaron el superávit comercial.
+La minera canadiense Sherritt obtuvo una licencia de la OFAC de Estados Unidos para abastecer sus plantas en Cuba, según El Economista; no hay entregas ni fecha de reinicio documentadas. En Brasil, Estadao reporta que China suspendió las importaciones avícolas de Santa Catarina y retiró la habilitación a 14 frigoríficos, mientras el Ministerio de Agricultura brasileño suspendió cautelarmente las exportaciones avícolas del país a China. En Argentina, YPF, Eni y XRG firmarán la decisión final de inversión de Argentina LNG, según Ambito: el proyecto contempla US$51.000 millones y apunta a exportar US$10.000 millones anuales desde 2031, sin fecha de firma precisada. También en Argentina, datos oficiales citados por Infobae sitúan la producción petrolera de septiembre en un récord de 973.700 barriles diarios.
 
 ### Situaciones principales
 
-#### 1. Brasil: Agricultura declara emergencia por Newcastle en cuatro municipios
+#### 1. Cuba: Sherritt obtiene licencia para enviar combustible, según El Economista
 
-El Ministerio de Agricultura de Brasil declaró una emergencia zoosanitaria por 60 días en Nova Itaberaba, Águas Frias, Coronel Freitas y Nova Erechim, en Santa Catarina, tras confirmar Newcastle en una granja comercial de pavos con 6.000 aves. La orden entró en vigor el 19 de octubre. El servicio veterinario oficial impuso restricciones a propiedades próximas y suspendió la salida de aves del establecimiento afectado, según Estadao.
+La minera canadiense Sherritt obtuvo una licencia de la OFAC de Estados Unidos para enviar combustible a sus plantas en Cuba, según El Economista. El medio presenta el abastecimiento de combustible como un paso clave de un plan de reactivación en alianza con un grupo inversor estadounidense.
 
-El Economista reportó que México suspendió la importación avícola de Brasil y que la medida abarca las importaciones comerciales y los productos que llevan turistas. Estadao/Broadcast había anticipado embargos temporales y parciales, según interlocutores. Para China, principal destino del pollo brasileño, describió un protocolo que prevé suspender certificaciones al detectar la enfermedad, sin regionalización, y exige un dossier técnico tras cerrar el foco para evaluar el retorno de los envíos. Ese reporte describe el protocolo chino, no una suspensión ya adoptada.
+Reforma informó que Sherritt International recibió permiso de Estados Unidos para reanudar sus operaciones en Cuba, suspendidas en mayo tras nuevas sanciones estadounidenses. El Economista describe la autorización en términos de envío de combustible. Los reportes no documentan entregas realizadas ni una fecha de reinicio de la producción.
 
-Exposición: Agro, Commodities · Newcastle outbreak → bird movement and certification restrictions → poultry export access constraints · Poultry export access, Poultry import availability, Bird movement restrictions, Poultry trade flows  
-**Evaluación de Aldra** (confianza: moderada, dirección: se deteriora). Las restricciones de movimiento ya limitan la logística del foco. Para exportadores brasileños e importadores mexicanos, la suspensión reportada agrega riesgo de acceso al mercado; su alcance efectivo requiere el aviso sanitario. El protocolo chino no prueba un embargo ya aplicado.
+Exposición: Minería, Commodities · reported U.S. license → authorized fuel shipments → potential plant restart · sanctions-related market access, fuel deliveries, plant operating status, mineral output  
+**Evaluación de Aldra** (confianza: moderada, dirección: mejora). La autorización reportada reduce un obstáculo regulatorio al abastecimiento de las plantas y al plan de reactivación. Para inversores y compradores de minerales, todavía no equivale a oferta recuperada: faltan entregas de combustible y un reinicio operativo documentados.
 
-**Qué vigilar.** El aviso sanitario de México que precise alcance y duración de la suspensión avícola reportada.
-
-Fuentes:
-- https://estadao.com.br/economia/agronegocios/governo-lula-declara-emergencia-zoossanitaria-em-4-municipios-de-sc-por-doenca-de-newcastle
-- https://canalrural.com.br/aves-e-suinos/emergencia-zoossanitaria-e-declarada-em-4-municipios-de-sc-por-foco-de-newcastle
-- https://estadao.com.br/economia/agronegocios/china-e-mexico-tendem-a-suspender-importacao-de-carne-de-aves-do-brasil-por-doenca-de-newcastle
-- https://eleconomista.com.mx/empresas/mexico-suspende-importacion-avicola-brasil-brote-enfermedad-newcastle-20261019-839437.html
-- https://eleconomista.com.mx/empresas/agricultura-pausa-entrada-pollo-brasileno-20261019-839469.html
-
-#### 2. Brasil: el Congreso elimina la escala 6x1 sin rebaja salarial
-
-El Congreso Nacional de Brasil promulgó el 16 de octubre la Enmienda Constitucional 141/2026, que elimina la escala de seis días de trabajo y uno de descanso. Desde el 16 de diciembre de 2026 regirán un máximo de 42 horas semanales y dos días de descanso remunerado; el límite bajará a 40 horas el 16 de diciembre de 2027, según Valor Economico. La reforma reduce el máximo semanal actual de 44 horas, mantiene el límite diario de 8 horas y prohíbe reducir los salarios.
-
-La enmienda modificó el artículo 7 de la Constitución y establece que uno de los días de descanso sea preferentemente el domingo. Según Valor Economico, no requiere sanción ni veto, y ninguna ley, contrato o acuerdo individual puede dejarla sin efecto. El texto no aclara si los descansos deben ser consecutivos, si un feriado puede contar como uno de ellos ni cómo se define la semana para quienes trabajan por turnos. Esas lagunas dejan abiertas decisiones concretas para organizar la cobertura laboral.
-
-Exposición: Infraestructura, Logística, Energía, Minería, Agro · Shorter statutory working week → Fewer hours per employee at unchanged pay → Shift coverage and labor-cost adjustment · Hourly labor costs, Shift coverage, Staffing requirements  
-**Evaluación de Aldra** (confianza: moderada, dirección: se deteriora). Menos horas por trabajador sin rebaja salarial elevan el costo por hora y obligan a revisar la cobertura de turnos. Para operadores que necesitan mantener esa cobertura, el costo adicional dependerá de cómo reorganicen las jornadas y de las reglas que aún quedan abiertas.
-
-**Qué vigilar.** Una aclaración oficial sobre si los dos días de descanso deben ser consecutivos y cómo se define la semana para trabajadores por turnos.
+**Qué vigilar.** Primer envío de combustible a las plantas de Sherritt en Cuba y aviso de reinicio de operaciones.
 
 Fuentes:
-- https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ex-balconista-de-farmacia-mobilizou-trabalhadores-para-reduzir-jornada
-- https://valor.globo.com/patrocinado/dino/noticia/2026/10/19/fim-da-escala-6x1-cinco-decisoes-para-as-empresas-1.ghtml
+- https://eleconomista.com.mx/empresas/eu-otorga-permiso-minera-sherritt-preparar-regreso-operaciones-cuba-20261020-839637.html
+- https://reforma.com/permite-eu-a-minera-canadiense-reactivar-operaciones-en-cuba/ar3298778
 
-#### 3. Argentina: La Nacion reporta riesgo país de 675 puntos
+### Otros desarrollos
 
-Tras el avance del riesgo país de Argentina, La Nacion reportó que el indicador alcanzó 675 puntos, su nivel más alto desde noviembre del año pasado. Ambito informó que los bonos soberanos profundizaron las pérdidas el lunes y que las acciones argentinas en Wall Street cayeron hasta un 7,5%.
+#### 2. Brasil: según Estadao, China suspende compras avícolas de Santa Catarina
 
-Ambito añadió que el Gobierno de Argentina defendió la continuidad de su programa económico pese a que el indicador de JP Morgan superó los 670 puntos básicos. La Nacion atribuyó la presión a la volatilidad externa y las dudas sobre el escenario político y económico local. Infobae señaló que, si los mercados siguen cerrados, podría complicarse el pago de la deuda.
+Tras la emergencia por Newcastle en Brasil, Estadao reportó que China suspendió las importaciones avícolas de Santa Catarina y retiró la habilitación a 14 frigoríficos. Entre los afectados figuran plantas de BRF S.A., JBS Aves Ltda., Seara Alimentos Ltda. y Cooperativa Central Aurora Alimentos. El medio sitúa el foco en un aviario comercial de pavos en Nova Itaberaba y dice que la suspensión alcanza a embarques desde el día anterior a su publicación.
 
-Exposición: Finanzas soberanas · wider sovereign spread → higher required financing yield → tighter debt-market access · Sovereign spreads, Sovereign borrowing costs, External debt-market access, Argentine asset valuations  
-**Evaluación de Aldra** (confianza: moderada, dirección: se deteriora). El mayor spread eleva el rendimiento exigido al soberano para obtener financiamiento. No demuestra una incapacidad de pago: Infobae plantea esa dificultad como un riesgo condicionado a que los mercados sigan cerrados.
+Un registro del Banco Central de Brasil también consigna la suspensión china de carne de aves de Santa Catarina. Estadao señala que figura en Ciferquery SingleWindow, gestionado por la Administración General de Aduanas de China (GACC). Además, reporta que el Ministerio de Agricultura de Brasil suspendió cautelarmente las exportaciones avícolas de todo el país a China.
 
-**Qué vigilar.** El próximo cierre del indicador de riesgo país de JP Morgan para Argentina.
+Según Folha de S.Paulo, el Ministerio de Agricultura y Ganadería de Brasil informó el 20 de octubre que China, México y Chile restringieron las importaciones de pollo brasileño. La Nacion reporta unas 6000 aves en la granja, restricciones de movimiento y monitoreo de 133 propiedades. Las fuentes no aportan los avisos sanitarios de México y Chile.
 
-Fuentes:
-- https://lanacion.com.ar/economia/dolar/el-riesgo-pais-alcanza-los-660-puntos-basicos-y-toca-el-valor-mas-alto-del-ano-nid19102026
-- https://ambito.com/finanzas/el-riesgo-pais-supera-los-650-puntos-una-nueva-caida-los-bonos-dolares-n6335256
-- https://ambito.com/politica/el-gobierno-defendio-su-programa-economico-pese-al-avance-del-riesgo-pais-n6335480
-- https://infobae.com/economia/2026/10/20/el-riesgo-pais-se-acerca-a-los-700-puntos-es-un-castigo-exagerado-a-un-ano-para-las-elecciones
+Exposición: Agro, Commodities · Newcastle outbreak → Import restrictions and export eligibility withdrawals → Reduced market access for Brazilian poultry suppliers · Poultry export volumes, Export destinations, Plant export eligibility, Restriction duration  
+**Evaluación de Aldra** (confianza: moderada, dirección: se deteriora). La suspensión china convierte el riesgo sanitario en pérdida de acceso comercial para las plantas afectadas. La suspensión cautelar nacional reportada amplía la exposición de los exportadores, pero las fuentes no permiten cuantificar el volumen desplazado ni precisar el alcance de las restricciones de México y Chile.
 
-#### 4. Argentina exporta USD 1.781 millones en combustibles y energía en septiembre
-
-Las exportaciones de combustibles y energía de Argentina alcanzaron USD 1.781 millones en septiembre, un 89,1% más que en el mismo mes de 2025. El Economista reportó que el aumento interanual equivalió a USD 840 millones y que el sector apuntaló el superávit comercial.
-
-Exposición: Energía, Commodities · higher energy export value → larger export receipts → support for the trade surplus · Fuel and energy export value, Trade surplus  
+**Qué vigilar.** El aviso sanitario de México que precise el alcance y la duración de la restricción.
 
 Fuentes:
-- https://infobae-infobae-prod.web.arc-cdn.net/economia/2026/10/19/vaca-muerta-cabeza-del-record-mas-de-la-mitad-del-superavit-comercial-del-pais-ya-se-explica-por-las-exportaciones-de-energia
-- https://eleconomista.com.mx/empresas/sector-energetico-apuntala-superavit-comercial-argentina-20261019-839468.html
+- https://gov.br/agricultura/pt-br/assuntos/noticias/doenca-de-newcastle-atualizacao-sobre-as-restricoes-as-exportacoes
+- https://estadao.com.br/economia/agronegocios/governo-suspende-exportacao-carne-aves-china-newcastle
+- https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/10/china-mexico-e-chile-restringem-importacoes-de-frango-do-brasil-por-doenca-de-newcastle-em-sc.shtml
+- https://lanacion.com.ar/economia/campo/emergencia-sanitaria-brasil-detecto-un-brote-de-newcastle-en-una-granja-de-pavos-y-mexico-suspendio-nid20102026
+
+#### 3. Argentina: según Ambito, YPF firmará la decisión de inversión en LNG
+
+Según Ambito, YPF, Eni y XRG, participantes del proyecto Argentina LNG en Argentina, firmarán la decisión final de inversión, de acuerdo con lo anunciado por YPF durante la AOG Patagonia 2026. La iniciativa contempla inversiones acumuladas por US$51.000 millones y apunta a generar exportaciones por US$10.000 millones anuales a partir de 2031. La fuente no precisa la fecha de firma.
+
+Exposición: Energía, Logística · Planned final investment decision → Proposed LNG investment → Targeted export capacity · Investment commitment, LNG export capacity, LNG export revenues, Project timetable  
+
+**Qué vigilar.** La firma de la decisión final de inversión de Argentina LNG.
+
+Fuentes:
+- https://ambito.com/energia/avanza-la-mayor-inversion-privada-la-historia-argentina-ypf-puso-fecha-firmar-el-acuerdo-argentina-lng-n6335786
+
+#### 4. Argentina produce 973.700 barriles diarios de petróleo, según Infobae
+
+Según Infobae, los datos oficiales situaron la producción petrolera de Argentina en 973.700 barriles diarios en septiembre, un nuevo récord histórico. La nota destaca el papel de Vaca Muerta, pero no desglosa su contribución al total ni aporta un volumen de exportaciones.
+
+Exposición: Energía · record oil extraction → increased domestic crude availability → potential export supply · daily oil production, crude export volumes, export capacity  
+
+**Qué vigilar.** Publicación oficial que desglose la producción de septiembre y el volumen exportado.
+
+Fuentes:
+- https://infobae.com/economia/2026/10/21/la-argentina-logro-otro-record-historico-de-produccion-de-petroleo-y-se-acerca-al-millon-de-barriles-diarios
 
 #### Situaciones seguidas
 
-- **Según Reuters, Estados Unidos levanta restricciones a aerolíneas mexicanas**: Sin cambio material. El levantamiento despeja una barrera de acceso al mercado para las aerolíneas mexicanas. Para pasajeros y operadores aeroportuarios, la mejora efectiva de conectividad dependerá de que se autoricen y comiencen nuevos servicios.
+- **Valor Economico: Brent cierra en US$104,28 por barril**: Sin cambio material. El alza eleva la referencia de costos para importadores de crudo y el precio de venta para exportadores, pero no establece un aumento equivalente de los combustibles. En Chile, el próximo anuncio de ENAP permitirá observar la transmisión local.
+- **Malvinas: Reino Unido anuncia protección ante las medidas argentinas**: Sin cambio material. La protección británica busca sostener el acceso comercial, pero el pedido argentino deja el calendario de Sea Lion expuesto a una decisión judicial. Para los inversores, el anuncio no despeja el riesgo de suspensión: falta conocer el alcance de las medidas y la respuesta del tribunal.
+- **Brasil elimina tributos a gasolina y amplía subsidios**: Sin cambio material. El subsidio mejora las condiciones de importación, pero no acredita una baja minorista: el traslado al surtidor requiere fiscalización. La neutralidad fiscal sigue siendo una premisa oficial; las cifras de medidas e ingresos no constituyen un saldo ejecutado.
 
 ## English
 
-Edition: partial · Sectors: Agriculture, Commodities, Infrastructure, Logistics, Energy, Mining, Sovereign finance · Published: 2026-10-20T06:34:14.011Z  
-Web: https://aldraresearch.com/sitreps/latam-2026-10-20  
+Edition: fallback · Sectors: Mining, Commodities, Agriculture, Energy, Logistics · Published: 2026-10-21T06:41:21.474Z  
+Web: https://aldraresearch.com/sitreps/latam-2026-10-21  
 License: CC BY 4.0
 
-### Brazil's Agriculture Ministry declares a Newcastle emergency. Brazil's Congress ends the six-day workweek without salary cuts.
+### Sherritt gets a license to send fuel to Cuba, El Economista reports. China suspends poultry imports from Santa Catarina, Brazil, Estadao reports.
 
-Brazil's Agriculture Ministry declared a 60-day animal-health emergency in four Santa Catarina municipalities after confirming Newcastle disease at a farm with 6,000 turkeys. El Economista reported that Mexico suspended Brazilian poultry imports. Brazil's Congress ended the six-day workweek without salary cuts: according to Valor Economico, the weekly ceiling will be 42 hours from 16 December 2026 and 40 from 16 December 2027, requiring a review of shift coverage. In Argentina, La Nacion reported country risk at 675 points, raising the yield demanded for sovereign financing. Argentine fuel and energy exports reached USD 1,781 million in September, up 89.1% year on year; according to El Economista, they supported the trade surplus.
+Canadian miner Sherritt obtained a license from the United States' OFAC to supply fuel to its plants in Cuba, El Economista reports; deliveries and a restart date remain undocumented. In Brazil, Estadao reports that China suspended poultry imports from Santa Catarina and withdrew eligibility from 14 processing plants, while Brazil's Agriculture Ministry provisionally suspended nationwide poultry exports to China. In Argentina, YPF, Eni and XRG will sign Argentina LNG's final investment decision, Ambito reports: the project envisages US$51 billion in investment and targets US$10 billion in annual exports from 2031, with no signing date specified. Also in Argentina, official data cited by Infobae put September oil production at a record 973,700 barrels a day.
 
 ### Main situations
 
-#### 1. Brazil: Agriculture Ministry declares Newcastle emergency in four municipalities
+#### 1. Cuba: Sherritt gets fuel-shipment license, El Economista reports
 
-Brazil's Agriculture Ministry declared a 60-day animal-health emergency in Nova Itaberaba, Águas Frias, Coronel Freitas and Nova Erechim, in Santa Catarina, after confirming Newcastle disease at a commercial turkey farm with 6,000 birds. The order took effect on October 19. The official veterinary service imposed restrictions on nearby properties and suspended bird movements out of the affected farm, according to Estadao.
+Canadian mining company Sherritt obtained a license from the United States' OFAC to send fuel to its plants in Cuba, according to El Economista. The report presents fuel supply as a key step in a restart plan involving a partnership with a U.S. investor group.
 
-El Economista reported that Mexico suspended poultry imports from Brazil and that the measure covers commercial imports and products carried by tourists. Estadao/Broadcast had anticipated temporary, partial bans, citing people following the issue. For China, the leading destination for Brazilian chicken, it described a protocol requiring certification suspensions upon detection, without regionalization, and a technical dossier after the outbreak is closed to assess the resumption of shipments. That report describes China's protocol, not an already adopted suspension.
+Reforma reported that Sherritt International received U.S. permission to resume its operations in Cuba, which were suspended in May following new U.S. sanctions. El Economista describes the authorization in terms of fuel shipments. The reports do not document completed deliveries or a date for production to restart.
 
-Exposure: Agriculture, Commodities · Newcastle outbreak → bird movement and certification restrictions → poultry export access constraints · Poultry export access, Poultry import availability, Bird movement restrictions, Poultry trade flows  
-**Aldra assessment** (confidence: moderate, direction: deteriorating). Movement restrictions already constrain logistics at the outbreak site. For Brazilian exporters and Mexican importers, the reported suspension adds market-access risk; its effective scope requires the sanitary notice. China's protocol does not establish that a ban has already been imposed.
+Exposure: Mining, Commodities · reported U.S. license → authorized fuel shipments → potential plant restart · sanctions-related market access, fuel deliveries, plant operating status, mineral output  
+**Aldra assessment** (confidence: moderate, direction: improving). The reported authorization reduces a regulatory obstacle to supplying the plants and pursuing the restart plan. For investors and mineral buyers, it does not yet amount to restored supply: documented fuel deliveries and an operational restart are still missing.
 
-**What to watch.** Mexico's sanitary notice specifying the scope and duration of the reported poultry suspension.
-
-Sources:
-- https://estadao.com.br/economia/agronegocios/governo-lula-declara-emergencia-zoossanitaria-em-4-municipios-de-sc-por-doenca-de-newcastle
-- https://canalrural.com.br/aves-e-suinos/emergencia-zoossanitaria-e-declarada-em-4-municipios-de-sc-por-foco-de-newcastle
-- https://estadao.com.br/economia/agronegocios/china-e-mexico-tendem-a-suspender-importacao-de-carne-de-aves-do-brasil-por-doenca-de-newcastle
-- https://eleconomista.com.mx/empresas/mexico-suspende-importacion-avicola-brasil-brote-enfermedad-newcastle-20261019-839437.html
-- https://eleconomista.com.mx/empresas/agricultura-pausa-entrada-pollo-brasileno-20261019-839469.html
-
-#### 2. Brazil: Congress ends six-day workweek without salary cuts
-
-Brazil's National Congress promulgated Constitutional Amendment 141/2026 on 16 October, ending the schedule of six working days and one rest day. A maximum of 42 weekly hours and two paid rest days will apply from 16 December 2026; the ceiling will fall to 40 hours on 16 December 2027, according to Valor Economico. The reform reduces the current weekly maximum of 44 hours, retains the daily limit of 8 hours and prohibits salary cuts.
-
-The amendment changed article 7 of the Constitution and provides that one rest day should preferably fall on Sunday. According to Valor Economico, it requires neither assent nor veto, and no law, contract or individual agreement can override it. The text does not clarify whether the rest days must be consecutive, whether a public holiday can count as one of them or how a week is defined for shift workers. Those gaps leave concrete decisions open on staffing coverage.
-
-Exposure: Infrastructure, Logistics, Energy, Mining, Agriculture · Shorter statutory working week → Fewer hours per employee at unchanged pay → Shift coverage and labor-cost adjustment · Hourly labor costs, Shift coverage, Staffing requirements  
-**Aldra assessment** (confidence: moderate, direction: deteriorating). Fewer hours per worker without salary cuts raise hourly labor costs and require a review of shift coverage. For operators that need to maintain that coverage, additional costs will depend on how they reorganize schedules and on the rules still left open.
-
-**What to watch.** Official clarification on whether the two rest days must be consecutive and how a week is defined for shift workers.
+**What to watch.** The first fuel shipment to Sherritt's plants in Cuba and an announcement that operations have restarted.
 
 Sources:
-- https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ex-balconista-de-farmacia-mobilizou-trabalhadores-para-reduzir-jornada
-- https://valor.globo.com/patrocinado/dino/noticia/2026/10/19/fim-da-escala-6x1-cinco-decisoes-para-as-empresas-1.ghtml
+- https://eleconomista.com.mx/empresas/eu-otorga-permiso-minera-sherritt-preparar-regreso-operaciones-cuba-20261020-839637.html
+- https://reforma.com/permite-eu-a-minera-canadiense-reactivar-operaciones-en-cuba/ar3298778
 
-#### 3. Argentina: La Nacion reports country risk reaching 675 points
+### Other developments
 
-Following the rise in Argentina's country risk, La Nacion reported that the indicator reached 675 points, its highest level since November of last year. Ambito reported that sovereign bonds deepened their losses on Monday and Argentine shares on Wall Street fell by up to 7.5%.
+#### 2. Brazil: Estadao reports China suspends poultry imports from Santa Catarina
 
-Ambito added that Argentina's government defended the continuation of its economic program despite JP Morgan's indicator exceeding 670 basis points. La Nacion attributed the pressure to external volatility and doubts about the domestic political and economic outlook. Infobae said that debt payments could become more difficult if markets remain closed.
+Following the Newcastle emergency in Brazil, Estadao reported that China suspended poultry imports from Santa Catarina and withdrew export eligibility from 14 processing plants. Those affected include facilities belonging to BRF S.A., JBS Aves Ltda., Seara Alimentos Ltda. and Cooperativa Central Aurora Alimentos. The report places the outbreak at a commercial turkey farm in Nova Itaberaba and says the suspension covers shipments from the day before publication.
 
-Exposure: Sovereign finance · wider sovereign spread → higher required financing yield → tighter debt-market access · Sovereign spreads, Sovereign borrowing costs, External debt-market access, Argentine asset valuations  
-**Aldra assessment** (confidence: moderate, direction: deteriorating). The wider spread raises the yield demanded of the sovereign to obtain financing. It does not demonstrate an inability to pay: Infobae presents that difficulty as a risk conditional on markets remaining closed.
+A Central Bank of Brazil record also lists China's suspension of poultry meat from Santa Catarina. Estadao says it appears in Ciferquery SingleWindow, managed by China's General Administration of Customs (GACC). It also reports that Brazil's Agriculture Ministry provisionally suspended poultry exports from the entire country to China.
 
-**What to watch.** The next closing level of JP Morgan's country-risk indicator for Argentina.
+According to Folha de S.Paulo, Brazil's Agriculture and Livestock Ministry said on October 20 that China, Mexico and Chile had restricted Brazilian chicken imports. La Nacion reports about 6000 birds at the farm, movement restrictions and monitoring of 133 properties. The sources do not provide the sanitary notices from Mexico and Chile.
 
-Sources:
-- https://lanacion.com.ar/economia/dolar/el-riesgo-pais-alcanza-los-660-puntos-basicos-y-toca-el-valor-mas-alto-del-ano-nid19102026
-- https://ambito.com/finanzas/el-riesgo-pais-supera-los-650-puntos-una-nueva-caida-los-bonos-dolares-n6335256
-- https://ambito.com/politica/el-gobierno-defendio-su-programa-economico-pese-al-avance-del-riesgo-pais-n6335480
-- https://infobae.com/economia/2026/10/20/el-riesgo-pais-se-acerca-a-los-700-puntos-es-un-castigo-exagerado-a-un-ano-para-las-elecciones
+Exposure: Agriculture, Commodities · Newcastle outbreak → Import restrictions and export eligibility withdrawals → Reduced market access for Brazilian poultry suppliers · Poultry export volumes, Export destinations, Plant export eligibility, Restriction duration  
+**Aldra assessment** (confidence: moderate, direction: deteriorating). China's suspension turns sanitary risk into lost market access for the affected plants. The reported nationwide precautionary suspension broadens exporters' exposure, but the sources do not establish displaced volumes or the precise scope of restrictions imposed by Mexico and Chile.
 
-#### 4. Argentina exports USD 1,781 million in fuel and energy in September
-
-Argentina's fuel and energy exports reached USD 1,781 million in September, up 89.1% from the same month in 2025. El Economista reported that the year-on-year increase amounted to USD 840 million and that the sector supported the country's trade surplus.
-
-Exposure: Energy, Commodities · higher energy export value → larger export receipts → support for the trade surplus · Fuel and energy export value, Trade surplus  
+**What to watch.** Mexico's sanitary notice specifying the scope and duration of the restriction.
 
 Sources:
-- https://infobae-infobae-prod.web.arc-cdn.net/economia/2026/10/19/vaca-muerta-cabeza-del-record-mas-de-la-mitad-del-superavit-comercial-del-pais-ya-se-explica-por-las-exportaciones-de-energia
-- https://eleconomista.com.mx/empresas/sector-energetico-apuntala-superavit-comercial-argentina-20261019-839468.html
+- https://gov.br/agricultura/pt-br/assuntos/noticias/doenca-de-newcastle-atualizacao-sobre-as-restricoes-as-exportacoes
+- https://estadao.com.br/economia/agronegocios/governo-suspende-exportacao-carne-aves-china-newcastle
+- https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/10/china-mexico-e-chile-restringem-importacoes-de-frango-do-brasil-por-doenca-de-newcastle-em-sc.shtml
+- https://lanacion.com.ar/economia/campo/emergencia-sanitaria-brasil-detecto-un-brote-de-newcastle-en-una-granja-de-pavos-y-mexico-suspendio-nid20102026
+
+#### 3. Argentina: Ambito reports YPF will sign the LNG investment decision
+
+According to Ambito, YPF, Eni and XRG, participants in the Argentina LNG project in Argentina, will sign the final investment decision, following YPF's announcement during AOG Patagonia 2026. The initiative envisages cumulative investment of US$51 billion and targets US$10 billion in annual exports from 2031. The source does not specify the signing date.
+
+Exposure: Energy, Logistics · Planned final investment decision → Proposed LNG investment → Targeted export capacity · Investment commitment, LNG export capacity, LNG export revenues, Project timetable  
+
+**What to watch.** The signing of Argentina LNG's final investment decision.
+
+Sources:
+- https://ambito.com/energia/avanza-la-mayor-inversion-privada-la-historia-argentina-ypf-puso-fecha-firmar-el-acuerdo-argentina-lng-n6335786
+
+#### 4. Argentina produces 973,700 barrels of oil daily, Infobae reports
+
+According to Infobae, official data put Argentina's oil production at 973,700 barrels per day in September, a new all-time record. The report highlights Vaca Muerta's role but does not break down its contribution to the total or provide an export volume.
+
+Exposure: Energy · record oil extraction → increased domestic crude availability → potential export supply · daily oil production, crude export volumes, export capacity  
+
+**What to watch.** An official publication breaking down September production and export volumes.
+
+Sources:
+- https://infobae.com/economia/2026/10/21/la-argentina-logro-otro-record-historico-de-produccion-de-petroleo-y-se-acerca-al-millon-de-barriles-diarios
 
 #### Tracked situations
 
-- **Reuters: United States lifts restrictions on Mexican airlines**: No material change. The lifting of restrictions removes a market-access barrier for Mexican airlines. For passengers and airport operators, an actual improvement in connectivity depends on new services being authorized and launched.
+- **Valor Economico: Brent closes at US$104.28 per barrel**: No material change. The rise lifts the cost benchmark for crude importers and the selling price for exporters, but does not establish an equivalent increase in fuel prices. In Chile, ENAP's next announcement will provide an observable measure of local pass-through.
+- **Falklands: UK announces protection in response to Argentine measures**: No material change. British protection seeks to preserve commercial access, but Argentina's request leaves Sea Lion's timetable exposed to a judicial decision. For investors, the announcement does not remove suspension risk: the scope of the measures and the tribunal's response remain unresolved.
+- **Brazil removes gasoline taxes and expands fuel subsidies**: No material change. The subsidy improves import economics but does not establish a retail price decline: pump-price pass-through requires enforcement. Fiscal neutrality remains an official premise; the measures and revenue figures are not an executed fiscal balance.

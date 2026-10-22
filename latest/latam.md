@@ -1,153 +1,167 @@
-# Aldra SITREP · LATAM · 2026-10-21
+# Aldra SITREP · LATAM · 2026-10-22
 
 ## Español
 
-Edición: de respaldo · Sectores: Minería, Commodities, Agro, Energía, Logística · Publicada: 2026-10-21T06:41:21.474Z  
-Web: https://aldraresearch.com/sitreps/latam-2026-10-21  
+Edición: de respaldo · Sectores: Energía, Infraestructura, Finanzas soberanas, Minería, Agro, Commodities, Logística · Publicada: 2026-10-22T06:42:02.068Z  
+Web: https://aldraresearch.com/sitreps/latam-2026-10-22  
 Licencia: CC BY 4.0
 
-### Sherritt obtiene licencia para enviar combustible a Cuba, según El Economista. China suspende compras avícolas de Santa Catarina, Brasil, según Estadao.
+### El Tribunal de Cuentas de Brasil fija 240 días para decidir sobre Angra 3. Según AP, el máximo tribunal de Brasil suspende un permiso para una mina de oro.
 
-La minera canadiense Sherritt obtuvo una licencia de la OFAC de Estados Unidos para abastecer sus plantas en Cuba, según El Economista; no hay entregas ni fecha de reinicio documentadas. En Brasil, Estadao reporta que China suspendió las importaciones avícolas de Santa Catarina y retiró la habilitación a 14 frigoríficos, mientras el Ministerio de Agricultura brasileño suspendió cautelarmente las exportaciones avícolas del país a China. En Argentina, YPF, Eni y XRG firmarán la decisión final de inversión de Argentina LNG, según Ambito: el proyecto contempla US$51.000 millones y apunta a exportar US$10.000 millones anuales desde 2031, sin fecha de firma precisada. También en Argentina, datos oficiales citados por Infobae sitúan la producción petrolera de septiembre en un récord de 973.700 barriles diarios.
+El Tribunal de Cuentas de la Unión de Brasil dio hasta 240 días para decidir si se retoman o abandonan las obras de la central nuclear Angra 3; los financiadores siguen expuestos a costos y deuda acumulada. Según AP, el máximo tribunal de Brasil suspendió el permiso de una gran mina de oro en la Amazonía, dejando sin resolver una condición para invertir. La Bolsa de Comercio de Rosario, en Argentina, estimó una producción de trigo de 23,8 millones de toneladas, aún no cosechadas. Según La Jornada, la Procuraduría Federal de Protección al Ambiente de México atribuyó a Minera Sabinas contaminación en 13,58 km de un arroyo y del río Súchil. El Canal de Panamá movió 521 millones de toneladas en casi 14.000 buques durante el año fiscal cerrado el 30 de septiembre, según cifras de su autoridad recogidas por El Economista.
 
 ### Situaciones principales
 
-#### 1. Cuba: Sherritt obtiene licencia para enviar combustible, según El Economista
+#### 1. Brasil: el TCU da hasta 240 días para decidir sobre Angra 3
 
-La minera canadiense Sherritt obtuvo una licencia de la OFAC de Estados Unidos para enviar combustible a sus plantas en Cuba, según El Economista. El medio presenta el abastecimiento de combustible como un paso clave de un plan de reactivación en alianza con un grupo inversor estadounidense.
+El Tribunal de Cuentas de la Unión de Brasil (TCU) fijó hasta 240 días para resolver si se retoman o abandonan las obras de la central nuclear Angra 3. Según Valor Economico, el Ministerio de Minas y Energía tiene 120 días para presentar los estudios al Consejo Nacional de Política Energética (CNPE); este dispondrá de otros 120 para pronunciarse sobre la viabilidad del proyecto.
 
-Reforma informó que Sherritt International recibió permiso de Estados Unidos para reanudar sus operaciones en Cuba, suspendidas en mayo tras nuevas sanciones estadounidenses. El Economista describe la autorización en términos de envío de combustible. Los reportes no documentan entregas realizadas ni una fecha de reinicio de la producción.
+Estadao reportó que la demora contribuyó a gastos de R$ 2.500 millones entre 2024 y mediados de 2026 para mantener la obra paralizada y pagar deudas. Según el análisis del TCU, suspender temporalmente los pagos al Banco Nacional de Desarrollo Económico y Social (BNDES) solo ofrece alivio de caja a Eletronuclear, la estatal brasileña, y eleva el saldo pendiente. El tribunal también alertó sobre una emisión de debentures de Eletronuclear por R$ 1.500 millones destinados a extender la vida útil de Angra 1.
 
-Exposición: Minería, Commodities · reported U.S. license → authorized fuel shipments → potential plant restart · sanctions-related market access, fuel deliveries, plant operating status, mineral output  
-**Evaluación de Aldra** (confianza: moderada, dirección: mejora). La autorización reportada reduce un obstáculo regulatorio al abastecimiento de las plantas y al plan de reactivación. Para inversores y compradores de minerales, todavía no equivale a oferta recuperada: faltan entregas de combustible y un reinicio operativo documentados.
+Exposición: Energía, Infraestructura, Finanzas soberanas · binding decision deadline → project viability decision → financing and carrying-cost exposure · Angra 3 project status, carrying costs, outstanding debt, project financing  
+**Evaluación de Aldra** (confianza: moderada, dirección: incierta). El plazo reduce el margen para mantener indefinida la decisión de inversión, pero no ordena reanudar las obras. Para los financiadores, la exposición sigue en el costo de sostener el activo y en la deuda acumulada mientras se resuelve su viabilidad.
 
-**Qué vigilar.** Primer envío de combustible a las plantas de Sherritt en Cuba y aviso de reinicio de operaciones.
+**Qué vigilar.** La presentación de los estudios al CNPE y su resolución sobre retomar o abandonar Angra 3.
 
 Fuentes:
-- https://eleconomista.com.mx/empresas/eu-otorga-permiso-minera-sherritt-preparar-regreso-operaciones-cuba-20261020-839637.html
-- https://reforma.com/permite-eu-a-minera-canadiense-reactivar-operaciones-en-cuba/ar3298778
+- https://estadao.com.br/economia/tcu-fixa-prazo-de-120-dias-para-governo-decidir-sobre-angra-3-apos-analise-da-documentacao
+- https://valor.globo.com/brasil/noticia/2026/10/21/tcu-da-120-dias-para-minas-e-energia-informar-futuro-das-obras-na-usina-nuclear-angra-3.ghtml
+
+#### 2. Brasil: según AP, el máximo tribunal suspende un permiso para extraer oro
+
+El máximo tribunal de Brasil suspendió el permiso para una gran mina de oro en la Amazonía, según AP. Infobae precisó que la resolución, firmada por el magistrado de Brasil Edson Fachin, revocó la autorización para avanzar con el proyecto a cielo abierto cerca del río Xingu, en una zona afectada por la represa hidroeléctrica de Belo Monte.
+
+Exposición: Minería · reported permit revocation → unresolved development authorization → investment timetable uncertainty · gold-project permitting, development timetable, financing readiness  
+**Evaluación de Aldra** (confianza: moderada, dirección: se deteriora). Para desarrolladores y financiadores, la revocación impide tratar el permiso como una condición resuelta para invertir. Los reportes no ofrecen un calendario que permita cuantificar el retraso.
+
+**Qué vigilar.** El texto de la resolución judicial y cualquier decisión posterior que restituya o limite el permiso.
+
+Fuentes:
+- https://news.google.com/rss/articles/CBMivwFBVV95cUxPQndBSWc1NTk4VGRjbzVCa2lMRGlEZ1Rxb0FkQS1TRVlQZjFJQzk3UDZydi05Sl9rb0hUOWZRZkNIQlpDZ21WMU5Lam1vZjFwQVptcENOSHBxUnc4dC1adHpFY0pYbzRMMzhPclVaQUlMblJjYjFzXzV3WlBURkNtOTNWdUw5RTQwaC1RcE50UGl1S25zM1hxSm0xX25Zc255TWdfRDVVdjdvOXZCak9BYnJtWW1iQTdTdE94TzVqVQ?oc=5
+- https://infobae.com/america/america-latina/2026/10/22/el-supremo-tribunal-de-brasil-suspendio-la-autorizacion-para-explotar-una-enorme-mina-de-oro-en-la-amazonia
+
+#### 3. Argentina: la Bolsa de Rosario proyecta 23,8 Mt de trigo
+
+La Bolsa de Comercio de Rosario, en Argentina, publicó su primera estimación de producción de trigo: 23,8 millones de toneladas. La Nacion señaló que sería la segunda mayor cosecha de la historia. Según ese medio, la Bolsa advirtió sobre las consecuencias de un ciclo marcado por el frío, la menor radiación y lluvias por debajo de lo esperado; la cifra es una estimación, no un volumen ya cosechado.
+
+Exposición: Agro, Commodities · first crop estimate → expected wheat supply → export availability and pricing expectations · wheat production estimate, exportable supply, wheat prices  
+**Evaluación de Aldra** (confianza: moderada, dirección: incierta). La cifra ofrece una referencia de oferta, no un volumen ya disponible para exportar. Para traders y exportadores, la incertidumbre está en cómo las condiciones señaladas se reflejen en las próximas estimaciones.
+
+**Qué vigilar.** La próxima estimación de producción de trigo de la Bolsa de Comercio de Rosario.
+
+Fuentes:
+- https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdEkzOUFVemtIOTBnTm5mdEVKeDloTUVfelZfVlpXM1JYdk9BX3IwZ0ZSdUZFYkxLb3dOa3YwVG1oLWwxeDVqME5MaFBkVWk1U3dJRDRPYWFMLUMxb1NSQjNWX2MxY3RVZGdzWXVFR0h0dmxoY1BxVVEzLUNTNmRxTjczcGFXR2JRTkxTLUNuTkNTZy1LTnltWVV0eUNiLU1uaGtBci1OdDV3TnUxRHRYS1VydjNnSGNJNkpUZmJRNGg?oc=5
+- https://lanacion.com.ar/economia/campo/octubre-tan-extrano-anticipan-que-la-cosecha-de-trigo-sera-la-segunda-de-mayor-importancia-de-la-nid21102026
 
 ### Otros desarrollos
 
-#### 2. Brasil: según Estadao, China suspende compras avícolas de Santa Catarina
+#### 4. México: Profepa atribuye a Minera Sabinas contaminación en 13,58 km
 
-Tras la emergencia por Newcastle en Brasil, Estadao reportó que China suspendió las importaciones avícolas de Santa Catarina y retiró la habilitación a 14 frigoríficos. Entre los afectados figuran plantas de BRF S.A., JBS Aves Ltda., Seara Alimentos Ltda. y Cooperativa Central Aurora Alimentos. El medio sitúa el foco en un aviario comercial de pavos en Nova Itaberaba y dice que la suspensión alcanza a embarques desde el día anterior a su publicación.
+La Procuraduría Federal de Protección al Ambiente de México (Profepa) informó que Minera Sabinas, propiedad de Industrias Peñoles, subsidiaria de Grupo BAL, contaminó 13,58 kilómetros de un arroyo y del río Súchil, en Sombrerete, Zacatecas, según La Jornada. Atribuyó la contaminación a toneladas de lodos con metales pesados y desechos tóxicos y reportó daños severos a fauna y vegetación en esa zona limítrofe con Durango.
 
-Un registro del Banco Central de Brasil también consigna la suspensión china de carne de aves de Santa Catarina. Estadao señala que figura en Ciferquery SingleWindow, gestionado por la Administración General de Aduanas de China (GACC). Además, reporta que el Ministerio de Agricultura de Brasil suspendió cautelarmente las exportaciones avícolas de todo el país a China.
+Exposición: Minería · reported toxic-sludge contamination → environmental remediation exposure → potential liabilities for mine investors and lenders · remediation liabilities, environmental compliance costs, operating continuity  
+**Evaluación de Aldra** (confianza: moderada, dirección: se deteriora). Para financiadores e inversores expuestos a la mina, la vía de riesgo es el costo de remediación. El reporte no permite concluir que haya una suspensión operativa ni cuantificar el pasivo.
 
-Según Folha de S.Paulo, el Ministerio de Agricultura y Ganadería de Brasil informó el 20 de octubre que China, México y Chile restringieron las importaciones de pollo brasileño. La Nacion reporta unas 6000 aves en la granja, restricciones de movimiento y monitoreo de 133 propiedades. Las fuentes no aportan los avisos sanitarios de México y Chile.
-
-Exposición: Agro, Commodities · Newcastle outbreak → Import restrictions and export eligibility withdrawals → Reduced market access for Brazilian poultry suppliers · Poultry export volumes, Export destinations, Plant export eligibility, Restriction duration  
-**Evaluación de Aldra** (confianza: moderada, dirección: se deteriora). La suspensión china convierte el riesgo sanitario en pérdida de acceso comercial para las plantas afectadas. La suspensión cautelar nacional reportada amplía la exposición de los exportadores, pero las fuentes no permiten cuantificar el volumen desplazado ni precisar el alcance de las restricciones de México y Chile.
-
-**Qué vigilar.** El aviso sanitario de México que precise el alcance y la duración de la restricción.
+**Qué vigilar.** Una resolución de Profepa con medidas de remediación o restricciones a Minera Sabinas.
 
 Fuentes:
-- https://gov.br/agricultura/pt-br/assuntos/noticias/doenca-de-newcastle-atualizacao-sobre-as-restricoes-as-exportacoes
-- https://estadao.com.br/economia/agronegocios/governo-suspende-exportacao-carne-aves-china-newcastle
-- https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/10/china-mexico-e-chile-restringem-importacoes-de-frango-do-brasil-por-doenca-de-newcastle-em-sc.shtml
-- https://lanacion.com.ar/economia/campo/emergencia-sanitaria-brasil-detecto-un-brote-de-newcastle-en-una-granja-de-pavos-y-mexico-suspendio-nid20102026
+- https://jornada.com.mx/2026/10/21/estados/026n1est?partner=rss
 
-#### 3. Argentina: según Ambito, YPF firmará la decisión de inversión en LNG
+#### 5. Panamá: según la ACP, el Canal mueve 521 millones de toneladas
 
-Según Ambito, YPF, Eni y XRG, participantes del proyecto Argentina LNG en Argentina, firmarán la decisión final de inversión, de acuerdo con lo anunciado por YPF durante la AOG Patagonia 2026. La iniciativa contempla inversiones acumuladas por US$51.000 millones y apunta a generar exportaciones por US$10.000 millones anuales a partir de 2031. La fuente no precisa la fecha de firma.
+El Canal de Panamá registró 521 millones de toneladas de carga en casi 14.000 buques durante el año fiscal que terminó el 30 de septiembre, según cifras de la Autoridad del Canal de Panamá (ACP) recogidas por El Economista. El medio presenta el volumen como un récord y lo vincula al cierre de Ormuz, pese a El Niño.
 
-Exposición: Energía, Logística · Planned final investment decision → Proposed LNG investment → Targeted export capacity · Investment commitment, LNG export capacity, LNG export revenues, Project timetable  
+Exposición: Logística, Commodities · reported record cargo throughput → canal route utilization → shipping-route allocation · cargo throughput, vessel transits, route flows  
 
-**Qué vigilar.** La firma de la decisión final de inversión de Argentina LNG.
+**Qué vigilar.** La publicación de la ACP con el detalle de carga y tránsitos del año fiscal.
 
 Fuentes:
-- https://ambito.com/energia/avanza-la-mayor-inversion-privada-la-historia-argentina-ypf-puso-fecha-firmar-el-acuerdo-argentina-lng-n6335786
-
-#### 4. Argentina produce 973.700 barriles diarios de petróleo, según Infobae
-
-Según Infobae, los datos oficiales situaron la producción petrolera de Argentina en 973.700 barriles diarios en septiembre, un nuevo récord histórico. La nota destaca el papel de Vaca Muerta, pero no desglosa su contribución al total ni aporta un volumen de exportaciones.
-
-Exposición: Energía · record oil extraction → increased domestic crude availability → potential export supply · daily oil production, crude export volumes, export capacity  
-
-**Qué vigilar.** Publicación oficial que desglose la producción de septiembre y el volumen exportado.
-
-Fuentes:
-- https://infobae.com/economia/2026/10/21/la-argentina-logro-otro-record-historico-de-produccion-de-petroleo-y-se-acerca-al-millon-de-barriles-diarios
+- https://eleconomista.com.mx/internacionales/canal-panama-bate-record-carga-impulsado-cierre-ormuz-pese-nino-20261021-839801.html
 
 #### Situaciones seguidas
 
-- **Valor Economico: Brent cierra en US$104,28 por barril**: Sin cambio material. El alza eleva la referencia de costos para importadores de crudo y el precio de venta para exportadores, pero no establece un aumento equivalente de los combustibles. En Chile, el próximo anuncio de ENAP permitirá observar la transmisión local.
-- **Malvinas: Reino Unido anuncia protección ante las medidas argentinas**: Sin cambio material. La protección británica busca sostener el acceso comercial, pero el pedido argentino deja el calendario de Sea Lion expuesto a una decisión judicial. Para los inversores, el anuncio no despeja el riesgo de suspensión: falta conocer el alcance de las medidas y la respuesta del tribunal.
-- **Brasil elimina tributos a gasolina y amplía subsidios**: Sin cambio material. El subsidio mejora las condiciones de importación, pero no acredita una baja minorista: el traslado al surtidor requiere fiscalización. La neutralidad fiscal sigue siendo una premisa oficial; las cifras de medidas e ingresos no constituyen un saldo ejecutado.
+- **Brasil: Agricultura declara emergencia por Newcastle en cuatro municipios**: Sin cambio material. La suspensión china convierte el riesgo sanitario en pérdida de acceso comercial para las plantas afectadas. La suspensión cautelar nacional reportada amplía la exposición de los exportadores, pero las fuentes no permiten cuantificar el volumen desplazado ni precisar el alcance de las restricciones de México y Chile.
+- **Aneel adía decisión sobre concesión de Enel São Paulo**: Sin cambio material. El pedido de vista posterga la posible caducidad de la segunda mayor concesión de distribución eléctrica en Brasil; la evidencia no confirma la decisión final.
 
 ## English
 
-Edition: fallback · Sectors: Mining, Commodities, Agriculture, Energy, Logistics · Published: 2026-10-21T06:41:21.474Z  
-Web: https://aldraresearch.com/sitreps/latam-2026-10-21  
+Edition: fallback · Sectors: Energy, Infrastructure, Sovereign finance, Mining, Agriculture, Commodities, Logistics · Published: 2026-10-22T06:42:02.068Z  
+Web: https://aldraresearch.com/sitreps/latam-2026-10-22  
 License: CC BY 4.0
 
-### Sherritt gets a license to send fuel to Cuba, El Economista reports. China suspends poultry imports from Santa Catarina, Brazil, Estadao reports.
+### Brazil’s Federal Court of Accounts sets 240 days to decide Angra 3’s future. According to AP, Brazil’s top court suspends a gold-mine permit.
 
-Canadian miner Sherritt obtained a license from the United States' OFAC to supply fuel to its plants in Cuba, El Economista reports; deliveries and a restart date remain undocumented. In Brazil, Estadao reports that China suspended poultry imports from Santa Catarina and withdrew eligibility from 14 processing plants, while Brazil's Agriculture Ministry provisionally suspended nationwide poultry exports to China. In Argentina, YPF, Eni and XRG will sign Argentina LNG's final investment decision, Ambito reports: the project envisages US$51 billion in investment and targets US$10 billion in annual exports from 2031, with no signing date specified. Also in Argentina, official data cited by Infobae put September oil production at a record 973,700 barrels a day.
+Brazil’s Federal Court of Accounts allowed up to 240 days to decide whether to resume or abandon construction of the Angra 3 nuclear plant; lenders remain exposed to carrying costs and accumulating debt. According to AP, Brazil’s top court suspended a permit for a large Amazon gold mine, leaving an investment condition unresolved. Argentina’s Bolsa de Comercio de Rosario estimated wheat production at 23.8 million tonnes, not yet harvested. According to La Jornada, Mexico’s Federal Attorney for Environmental Protection attributed contamination along 13.58 km of a stream and the Súchil River to Minera Sabinas. The Panama Canal handled 521 million tonnes aboard almost 14,000 ships in the fiscal year ending September 30, according to figures from its authority reported by El Economista.
 
 ### Main situations
 
-#### 1. Cuba: Sherritt gets fuel-shipment license, El Economista reports
+#### 1. Brazil: TCU gives government up to 240 days to decide Angra 3
 
-Canadian mining company Sherritt obtained a license from the United States' OFAC to send fuel to its plants in Cuba, according to El Economista. The report presents fuel supply as a key step in a restart plan involving a partnership with a U.S. investor group.
+Brazil's Federal Court of Accounts (TCU) set an outer deadline of 240 days to decide whether to resume or abandon construction of the Angra 3 nuclear plant. According to Valor Economico, the Ministry of Mines and Energy has 120 days to submit studies to the National Energy Policy Council (CNPE); the council then has another 120 days to reach a conclusion on the project's viability.
 
-Reforma reported that Sherritt International received U.S. permission to resume its operations in Cuba, which were suspended in May following new U.S. sanctions. El Economista describes the authorization in terms of fuel shipments. The reports do not document completed deliveries or a date for production to restart.
+Estadao reported that the delay contributed to R$2.5 billion in spending between 2024 and mid-2026 to maintain the stalled construction site and service debt. According to the TCU's analysis, temporarily suspending payments to the National Bank for Economic and Social Development (BNDES) only provides cash-flow relief to Brazilian state-owned Eletronuclear and increases the outstanding balance. The court also raised concerns about an Eletronuclear debenture issue of R$1.5 billion intended to extend Angra 1's operating life.
 
-Exposure: Mining, Commodities · reported U.S. license → authorized fuel shipments → potential plant restart · sanctions-related market access, fuel deliveries, plant operating status, mineral output  
-**Aldra assessment** (confidence: moderate, direction: improving). The reported authorization reduces a regulatory obstacle to supplying the plants and pursuing the restart plan. For investors and mineral buyers, it does not yet amount to restored supply: documented fuel deliveries and an operational restart are still missing.
+Exposure: Energy, Infrastructure, Sovereign finance · binding decision deadline → project viability decision → financing and carrying-cost exposure · Angra 3 project status, carrying costs, outstanding debt, project financing  
+**Aldra assessment** (confidence: moderate, direction: unclear). The deadline narrows the room to leave the investment decision unresolved, but does not order construction to resume. For lenders, exposure remains in the cost of maintaining the asset and the debt accumulating while its viability is decided.
 
-**What to watch.** The first fuel shipment to Sherritt's plants in Cuba and an announcement that operations have restarted.
+**What to watch.** Submission of the studies to the CNPE and its decision on resuming or abandoning Angra 3.
 
 Sources:
-- https://eleconomista.com.mx/empresas/eu-otorga-permiso-minera-sherritt-preparar-regreso-operaciones-cuba-20261020-839637.html
-- https://reforma.com/permite-eu-a-minera-canadiense-reactivar-operaciones-en-cuba/ar3298778
+- https://estadao.com.br/economia/tcu-fixa-prazo-de-120-dias-para-governo-decidir-sobre-angra-3-apos-analise-da-documentacao
+- https://valor.globo.com/brasil/noticia/2026/10/21/tcu-da-120-dias-para-minas-e-energia-informar-futuro-das-obras-na-usina-nuclear-angra-3.ghtml
+
+#### 2. Brazil: AP reports top court suspends a permit for gold mining
+
+Brazil's top court suspended the permit for a large gold mine in the Amazon, according to AP. Infobae added that the ruling, signed by Brazilian judge Edson Fachin, revoked authorization to advance the open-pit project near the Xingu River, in an area affected by the Belo Monte hydroelectric dam.
+
+Exposure: Mining · reported permit revocation → unresolved development authorization → investment timetable uncertainty · gold-project permitting, development timetable, financing readiness  
+**Aldra assessment** (confidence: moderate, direction: deteriorating). For developers and lenders, the revocation means the permit cannot be treated as a settled condition for investment. The reports provide no timetable with which to quantify the delay.
+
+**What to watch.** The text of the court ruling and any subsequent decision reinstating or limiting the permit.
+
+Sources:
+- https://news.google.com/rss/articles/CBMivwFBVV95cUxPQndBSWc1NTk4VGRjbzVCa2lMRGlEZ1Rxb0FkQS1TRVlQZjFJQzk3UDZydi05Sl9rb0hUOWZRZkNIQlpDZ21WMU5Lam1vZjFwQVptcENOSHBxUnc4dC1adHpFY0pYbzRMMzhPclVaQUlMblJjYjFzXzV3WlBURkNtOTNWdUw5RTQwaC1RcE50UGl1S25zM1hxSm0xX25Zc255TWdfRDVVdjdvOXZCak9BYnJtWW1iQTdTdE94TzVqVQ?oc=5
+- https://infobae.com/america/america-latina/2026/10/22/el-supremo-tribunal-de-brasil-suspendio-la-autorizacion-para-explotar-una-enorme-mina-de-oro-en-la-amazonia
+
+#### 3. Argentina: Rosario exchange projects a 23.8 Mt wheat crop
+
+Argentina's Bolsa de Comercio de Rosario published its first wheat production estimate: 23.8 million tonnes. La Nacion said it would be the second-largest crop on record. According to the outlet, the exchange warned about the consequences of a season marked by cold, lower radiation and rainfall below expectations; the figure is an estimate, not a volume already harvested.
+
+Exposure: Agriculture, Commodities · first crop estimate → expected wheat supply → export availability and pricing expectations · wheat production estimate, exportable supply, wheat prices  
+**Aldra assessment** (confidence: moderate, direction: unclear). The figure provides a supply benchmark, not a volume already available for export. For traders and exporters, the uncertainty is how the reported conditions feed into subsequent estimates.
+
+**What to watch.** The next wheat production estimate from the Bolsa de Comercio de Rosario.
+
+Sources:
+- https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdEkzOUFVemtIOTBnTm5mdEVKeDloTUVfelZfVlpXM1JYdk9BX3IwZ0ZSdUZFYkxLb3dOa3YwVG1oLWwxeDVqME5MaFBkVWk1U3dJRDRPYWFMLUMxb1NSQjNWX2MxY3RVZGdzWXVFR0h0dmxoY1BxVVEzLUNTNmRxTjczcGFXR2JRTkxTLUNuTkNTZy1LTnltWVV0eUNiLU1uaGtBci1OdDV3TnUxRHRYS1VydjNnSGNJNkpUZmJRNGg?oc=5
+- https://lanacion.com.ar/economia/campo/octubre-tan-extrano-anticipan-que-la-cosecha-de-trigo-sera-la-segunda-de-mayor-importancia-de-la-nid21102026
 
 ### Other developments
 
-#### 2. Brazil: Estadao reports China suspends poultry imports from Santa Catarina
+#### 4. Mexico: Profepa attributes 13.58 km of waterway contamination to Minera Sabinas
 
-Following the Newcastle emergency in Brazil, Estadao reported that China suspended poultry imports from Santa Catarina and withdrew export eligibility from 14 processing plants. Those affected include facilities belonging to BRF S.A., JBS Aves Ltda., Seara Alimentos Ltda. and Cooperativa Central Aurora Alimentos. The report places the outbreak at a commercial turkey farm in Nova Itaberaba and says the suspension covers shipments from the day before publication.
+Mexico's Federal Attorney for Environmental Protection (Profepa) said Minera Sabinas, owned by Industrias Peñoles, a Grupo BAL subsidiary, contaminated 13.58 kilometers of a stream and the Súchil River in Sombrerete, Zacatecas, according to La Jornada. It attributed the contamination to tonnes of sludge containing heavy metals and toxic waste and reported severe damage to wildlife and vegetation in the area bordering Durango.
 
-A Central Bank of Brazil record also lists China's suspension of poultry meat from Santa Catarina. Estadao says it appears in Ciferquery SingleWindow, managed by China's General Administration of Customs (GACC). It also reports that Brazil's Agriculture Ministry provisionally suspended poultry exports from the entire country to China.
+Exposure: Mining · reported toxic-sludge contamination → environmental remediation exposure → potential liabilities for mine investors and lenders · remediation liabilities, environmental compliance costs, operating continuity  
+**Aldra assessment** (confidence: moderate, direction: deteriorating). For lenders and investors exposed to the mine, the risk channel is remediation costs. The report does not establish an operational suspension or allow the liability to be quantified.
 
-According to Folha de S.Paulo, Brazil's Agriculture and Livestock Ministry said on October 20 that China, Mexico and Chile had restricted Brazilian chicken imports. La Nacion reports about 6000 birds at the farm, movement restrictions and monitoring of 133 properties. The sources do not provide the sanitary notices from Mexico and Chile.
-
-Exposure: Agriculture, Commodities · Newcastle outbreak → Import restrictions and export eligibility withdrawals → Reduced market access for Brazilian poultry suppliers · Poultry export volumes, Export destinations, Plant export eligibility, Restriction duration  
-**Aldra assessment** (confidence: moderate, direction: deteriorating). China's suspension turns sanitary risk into lost market access for the affected plants. The reported nationwide precautionary suspension broadens exporters' exposure, but the sources do not establish displaced volumes or the precise scope of restrictions imposed by Mexico and Chile.
-
-**What to watch.** Mexico's sanitary notice specifying the scope and duration of the restriction.
+**What to watch.** A Profepa resolution imposing remediation measures or restrictions on Minera Sabinas.
 
 Sources:
-- https://gov.br/agricultura/pt-br/assuntos/noticias/doenca-de-newcastle-atualizacao-sobre-as-restricoes-as-exportacoes
-- https://estadao.com.br/economia/agronegocios/governo-suspende-exportacao-carne-aves-china-newcastle
-- https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/agro/2026/10/china-mexico-e-chile-restringem-importacoes-de-frango-do-brasil-por-doenca-de-newcastle-em-sc.shtml
-- https://lanacion.com.ar/economia/campo/emergencia-sanitaria-brasil-detecto-un-brote-de-newcastle-en-una-granja-de-pavos-y-mexico-suspendio-nid20102026
+- https://jornada.com.mx/2026/10/21/estados/026n1est?partner=rss
 
-#### 3. Argentina: Ambito reports YPF will sign the LNG investment decision
+#### 5. Panama: Canal handles 521 million tonnes, according to ACP
 
-According to Ambito, YPF, Eni and XRG, participants in the Argentina LNG project in Argentina, will sign the final investment decision, following YPF's announcement during AOG Patagonia 2026. The initiative envisages cumulative investment of US$51 billion and targets US$10 billion in annual exports from 2031. The source does not specify the signing date.
+The Panama Canal handled 521 million tonnes of cargo aboard almost 14,000 ships during the fiscal year that ended September 30, according to Panama Canal Authority (ACP) figures reported by El Economista. The outlet describes the volume as a record and links it to the closure of the Strait of Hormuz, despite El Niño.
 
-Exposure: Energy, Logistics · Planned final investment decision → Proposed LNG investment → Targeted export capacity · Investment commitment, LNG export capacity, LNG export revenues, Project timetable  
+Exposure: Logistics, Commodities · reported record cargo throughput → canal route utilization → shipping-route allocation · cargo throughput, vessel transits, route flows  
 
-**What to watch.** The signing of Argentina LNG's final investment decision.
+**What to watch.** The ACP publication detailing fiscal-year cargo and vessel transits.
 
 Sources:
-- https://ambito.com/energia/avanza-la-mayor-inversion-privada-la-historia-argentina-ypf-puso-fecha-firmar-el-acuerdo-argentina-lng-n6335786
-
-#### 4. Argentina produces 973,700 barrels of oil daily, Infobae reports
-
-According to Infobae, official data put Argentina's oil production at 973,700 barrels per day in September, a new all-time record. The report highlights Vaca Muerta's role but does not break down its contribution to the total or provide an export volume.
-
-Exposure: Energy · record oil extraction → increased domestic crude availability → potential export supply · daily oil production, crude export volumes, export capacity  
-
-**What to watch.** An official publication breaking down September production and export volumes.
-
-Sources:
-- https://infobae.com/economia/2026/10/21/la-argentina-logro-otro-record-historico-de-produccion-de-petroleo-y-se-acerca-al-millon-de-barriles-diarios
+- https://eleconomista.com.mx/internacionales/canal-panama-bate-record-carga-impulsado-cierre-ormuz-pese-nino-20261021-839801.html
 
 #### Tracked situations
 
-- **Valor Economico: Brent closes at US$104.28 per barrel**: No material change. The rise lifts the cost benchmark for crude importers and the selling price for exporters, but does not establish an equivalent increase in fuel prices. In Chile, ENAP's next announcement will provide an observable measure of local pass-through.
-- **Falklands: UK announces protection in response to Argentine measures**: No material change. British protection seeks to preserve commercial access, but Argentina's request leaves Sea Lion's timetable exposed to a judicial decision. For investors, the announcement does not remove suspension risk: the scope of the measures and the tribunal's response remain unresolved.
-- **Brazil removes gasoline taxes and expands fuel subsidies**: No material change. The subsidy improves import economics but does not establish a retail price decline: pump-price pass-through requires enforcement. Fiscal neutrality remains an official premise; the measures and revenue figures are not an executed fiscal balance.
+- **Brazil: Agriculture Ministry declares Newcastle emergency in four municipalities**: No material change. China's suspension turns sanitary risk into lost market access for the affected plants. The reported nationwide precautionary suspension broadens exporters' exposure, but the sources do not establish displaced volumes or the precise scope of restrictions imposed by Mexico and Chile.
+- **Aneel postpones decision on Enel São Paulo concession**: No material change. The view request postpones possible caducity of Brazil's second-largest electricity distribution concession; the evidence does not confirm the final decision.

@@ -1,167 +1,175 @@
-# Aldra SITREP · LATAM · 2026-10-22
+# Aldra SITREP · LATAM · 2026-10-23
 
 ## Español
 
-Edición: de respaldo · Sectores: Energía, Infraestructura, Finanzas soberanas, Minería, Agro, Commodities, Logística · Publicada: 2026-10-22T06:42:02.068Z  
-Web: https://aldraresearch.com/sitreps/latam-2026-10-22  
+Edición: de respaldo · Sectores: Finanzas soberanas, Geopolítica, Energía, Infraestructura, Agro, Minería · Publicada: 2026-10-23T06:44:19.338Z  
+Web: https://aldraresearch.com/sitreps/latam-2026-10-23  
 Licencia: CC BY 4.0
 
-### El Tribunal de Cuentas de Brasil fija 240 días para decidir sobre Angra 3. Según AP, el máximo tribunal de Brasil suspende un permiso para una mina de oro.
+### Reuters: el Tesoro de Estados Unidos retira a Venezuela de la lista de países sujetos a restricciones a inversiones estadounidenses en el exterior.
 
-El Tribunal de Cuentas de la Unión de Brasil dio hasta 240 días para decidir si se retoman o abandonan las obras de la central nuclear Angra 3; los financiadores siguen expuestos a costos y deuda acumulada. Según AP, el máximo tribunal de Brasil suspendió el permiso de una gran mina de oro en la Amazonía, dejando sin resolver una condición para invertir. La Bolsa de Comercio de Rosario, en Argentina, estimó una producción de trigo de 23,8 millones de toneladas, aún no cosechadas. Según La Jornada, la Procuraduría Federal de Protección al Ambiente de México atribuyó a Minera Sabinas contaminación en 13,58 km de un arroyo y del río Súchil. El Canal de Panamá movió 521 millones de toneladas en casi 14.000 buques durante el año fiscal cerrado el 30 de septiembre, según cifras de su autoridad recogidas por El Economista.
+Según Reuters, el Tesoro de Estados Unidos retiró a Venezuela de restricciones a inversiones salientes, sin precisarse qué operaciones quedan habilitadas. Hitachi Energy invertirá US$77 millones en componentes para transformadores en Brasil, según Reuters. En Argentina, el productor de aluminio Aluar amplió su parque eólico de Puerto Madryn a 582 MW, según EconoJournal; según Ambito, podrá cubrir un tercio del consumo de su planta. Ambito reporta que el Ministerio de Economía argentino adjudicó el 90% de las acciones estatales de la empresa de agua AySA por US$340 millones; falta firmar el contrato. En Brasil, el Ministerio de Minas y Energía reportó una adjudicación de gas de 1,1 millones de m³ diarios, con descuentos de hasta 57% para fertilizantes, según Valor Economico; los ganadores contratarán el transporte.
 
 ### Situaciones principales
 
-#### 1. Brasil: el TCU da hasta 240 días para decidir sobre Angra 3
+#### 1. Reuters: Tesoro de EEUU excluye a Venezuela de restricciones a inversiones salientes
 
-El Tribunal de Cuentas de la Unión de Brasil (TCU) fijó hasta 240 días para resolver si se retoman o abandonan las obras de la central nuclear Angra 3. Según Valor Economico, el Ministerio de Minas y Energía tiene 120 días para presentar los estudios al Consejo Nacional de Política Energética (CNPE); este dispondrá de otros 120 para pronunciarse sobre la viabilidad del proyecto.
+Según Reuters, el Departamento del Tesoro de Estados Unidos retiró a Venezuela de la lista de países sujetos a restricciones a inversiones estadounidenses en el exterior. Efecto Cocuyo atribuyó la exclusión a que «el gobierno de Maduro ya no existe». Los reportes no detallan el alcance de las restricciones retiradas ni las condiciones aplicables a nuevas inversiones.
 
-Estadao reportó que la demora contribuyó a gastos de R$ 2.500 millones entre 2024 y mediados de 2026 para mantener la obra paralizada y pagar deudas. Según el análisis del TCU, suspender temporalmente los pagos al Banco Nacional de Desarrollo Económico y Social (BNDES) solo ofrece alivio de caja a Eletronuclear, la estatal brasileña, y eleva el saldo pendiente. El tribunal también alertó sobre una emisión de debentures de Eletronuclear por R$ 1.500 millones destinados a extender la vida útil de Angra 1.
+Exposición: Finanzas soberanas, Geopolítica · removal from restricted-country list → lower outbound investment barrier → changes to investor access · permitted investment scope, access to capital, investment conditions  
+**Evaluación de Aldra** (confianza: moderada, dirección: mejora). La exclusión reduce una barrera para el capital estadounidense, pero no acredita una apertura sin condiciones. Sin conocer el alcance de la norma, los inversores no pueden deducir qué operaciones quedan habilitadas.
 
-Exposición: Energía, Infraestructura, Finanzas soberanas · binding decision deadline → project viability decision → financing and carrying-cost exposure · Angra 3 project status, carrying costs, outstanding debt, project financing  
-**Evaluación de Aldra** (confianza: moderada, dirección: incierta). El plazo reduce el margen para mantener indefinida la decisión de inversión, pero no ordena reanudar las obras. Para los financiadores, la exposición sigue en el costo de sostener el activo y en la deuda acumulada mientras se resuelve su viabilidad.
-
-**Qué vigilar.** La presentación de los estudios al CNPE y su resolución sobre retomar o abandonar Angra 3.
+**Qué vigilar.** El texto del Tesoro que precise el alcance y la aplicación de la exclusión de Venezuela.
 
 Fuentes:
-- https://estadao.com.br/economia/tcu-fixa-prazo-de-120-dias-para-governo-decidir-sobre-angra-3-apos-analise-da-documentacao
-- https://valor.globo.com/brasil/noticia/2026/10/21/tcu-da-120-dias-para-minas-e-energia-informar-futuro-das-obras-na-usina-nuclear-angra-3.ghtml
+- https://news.google.com/rss/articles/CBMivwFBVV95cUxOOHpQWm5nQmJpYnlpNkloZEdBcWdKYmV2dkhOcFhuVEdtVUJBNlo4bVFZSkM0NmNVb3N3WEJ0QjYzekhrOEFvVmgzaEMtTUxtVnBpd0VIZm83RFpPOXpPV3FpVmtmZzNfRWphcjkwNURkMnk4MkhSQVI2NDgzRjFveWg3ang0VFlQY0thTzVybzdkYWRSeFUxdDYzMjBWU2k3UU1HamdFRVoySEJYeFJYd0h5X3hrY1l0dEtXelpCNA?oc=5
+- https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQzFRUy1kQ3hHLVh2OHFoTmVZR1R6ZGRPT2Zmb0w3aHlxdnJIbXBsZzEzdm9adGphekt6Ml9yTnN3Z0tQRGhPUmdVQmo4S29CdER5STB6R2VLZzVfZ2EyVzNYRmJTVU9rNjhOeUd5VVlXZUhrSmNfLVVsTEF6Sjcya3Zra3lZMUNSVVkzc0lsTzZEWDZZY2VnY1NkT2t1ZTBtSzI4M2lUeHJrWUlLbFR1N2NhaFk0Sm1JRkV3Mzk2LWJaaWp5YTRIRnBVLXlYOWxPd1gw?oc=5
 
-#### 2. Brasil: según AP, el máximo tribunal suspende un permiso para extraer oro
+#### 2. Brasil: Hitachi Energy invertirá US$77 millones, según Reuters
 
-El máximo tribunal de Brasil suspendió el permiso para una gran mina de oro en la Amazonía, según AP. Infobae precisó que la resolución, firmada por el magistrado de Brasil Edson Fachin, revocó la autorización para avanzar con el proyecto a cielo abierto cerca del río Xingu, en una zona afectada por la represa hidroeléctrica de Belo Monte.
+Hitachi Energy, fabricante de transformadores y sus componentes, invertirá US$77 millones en una nueva planta en Brasil, según Reuters. Valor Economico sitúa la inversión en R$385 millones y precisa que ampliará el complejo que la compañía construye en Pindamonhangaba, Brasil, antes de su inauguración. La nueva planta producirá componentes como bushings y conmutadores para transformadores de transmisión eléctrica. El aporte se suma a US$210 millones ya anunciados para la planta de transformadores del mismo complejo.
 
-Exposición: Minería · reported permit revocation → unresolved development authorization → investment timetable uncertainty · gold-project permitting, development timetable, financing readiness  
-**Evaluación de Aldra** (confianza: moderada, dirección: se deteriora). Para desarrolladores y financiadores, la revocación impide tratar el permiso como una condición resuelta para invertir. Los reportes no ofrecen un calendario que permita cuantificar el retraso.
+Según Valor Economico, la compañía espera que la primera planta esté lista en noviembre de 2027 y la nueva planta de componentes, un año después. La empresa atribuye la ampliación a un cuello de botella mundial en componentes y a la demanda de cargas electrointensivas, como centros de datos y movilidad eléctrica. El objetivo es abastecer el mercado brasileño, con posibilidad de exportar y de intercambiar suministro entre plantas para responder a dificultades de plazos.
 
-**Qué vigilar.** El texto de la resolución judicial y cualquier decisión posterior que restituya o limite el permiso.
+Exposición: Energía, Infraestructura · announced manufacturing investment → plant completion → potential increase in transformer-component supply · industrial investment, transformer-component manufacturing capacity, grid-equipment supply, equipment delivery times  
+**Evaluación de Aldra** (confianza: moderada, dirección: mejora). La expansión apunta al cuello de botella en componentes que describe la compañía, no sólo a fabricar más transformadores. Para compradores de equipos de transmisión, la mejora potencial de oferta depende de que las plantas se completen; el anuncio no acredita capacidad disponible.
 
-Fuentes:
-- https://news.google.com/rss/articles/CBMivwFBVV95cUxPQndBSWc1NTk4VGRjbzVCa2lMRGlEZ1Rxb0FkQS1TRVlQZjFJQzk3UDZydi05Sl9rb0hUOWZRZkNIQlpDZ21WMU5Lam1vZjFwQVptcENOSHBxUnc4dC1adHpFY0pYbzRMMzhPclVaQUlMblJjYjFzXzV3WlBURkNtOTNWdUw5RTQwaC1RcE50UGl1S25zM1hxSm0xX25Zc255TWdfRDVVdjdvOXZCak9BYnJtWW1iQTdTdE94TzVqVQ?oc=5
-- https://infobae.com/america/america-latina/2026/10/22/el-supremo-tribunal-de-brasil-suspendio-la-autorizacion-para-explotar-una-enorme-mina-de-oro-en-la-amazonia
-
-#### 3. Argentina: la Bolsa de Rosario proyecta 23,8 Mt de trigo
-
-La Bolsa de Comercio de Rosario, en Argentina, publicó su primera estimación de producción de trigo: 23,8 millones de toneladas. La Nacion señaló que sería la segunda mayor cosecha de la historia. Según ese medio, la Bolsa advirtió sobre las consecuencias de un ciclo marcado por el frío, la menor radiación y lluvias por debajo de lo esperado; la cifra es una estimación, no un volumen ya cosechado.
-
-Exposición: Agro, Commodities · first crop estimate → expected wheat supply → export availability and pricing expectations · wheat production estimate, exportable supply, wheat prices  
-**Evaluación de Aldra** (confianza: moderada, dirección: incierta). La cifra ofrece una referencia de oferta, no un volumen ya disponible para exportar. Para traders y exportadores, la incertidumbre está en cómo las condiciones señaladas se reflejen en las próximas estimaciones.
-
-**Qué vigilar.** La próxima estimación de producción de trigo de la Bolsa de Comercio de Rosario.
+**Qué vigilar.** La confirmación de Hitachi Energy de que la primera planta esté lista en noviembre de 2027.
 
 Fuentes:
-- https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdEkzOUFVemtIOTBnTm5mdEVKeDloTUVfelZfVlpXM1JYdk9BX3IwZ0ZSdUZFYkxLb3dOa3YwVG1oLWwxeDVqME5MaFBkVWk1U3dJRDRPYWFMLUMxb1NSQjNWX2MxY3RVZGdzWXVFR0h0dmxoY1BxVVEzLUNTNmRxTjczcGFXR2JRTkxTLUNuTkNTZy1LTnltWVV0eUNiLU1uaGtBci1OdDV3TnUxRHRYS1VydjNnSGNJNkpUZmJRNGg?oc=5
-- https://lanacion.com.ar/economia/campo/octubre-tan-extrano-anticipan-que-la-cosecha-de-trigo-sera-la-segunda-de-mayor-importancia-de-la-nid21102026
+- https://news.google.com/rss/articles/CBMirwFBVV95cUxNMVJZR3RiVGxaWEItNjdUX1lZeWtkWnhBV1BFYW5WOVNPblhVTkpiWlR6TTkzY2s2dGhRc3N0X0s5Q0wtMldINWxJYW9GbzFIVUpxMzVTYXE4anJWT09RWUxXYTZQS29MSnhZa2g3MWdNWGx3NGRpX2xsaFhaYkJNUUZYUjJKNXZISDRDT3FLOHdLdVgwX3BDeUxtUldaNkpDMzZWZHpDUXRMaHJuRkRZ?oc=5
+- https://valor.globo.com/empresas/noticia/2026/10/22/hitachi-energy-anuncia-expansao-no-interior-paulista-com-aporte-de-r-385-milhoes.ghtml
+
+#### 3. Según EconoJournal, Aluar amplía a 582 MW su parque en Argentina
+
+EconoJournal reportó que Aluar, el único productor de aluminio primario de Argentina, inauguró el jueves la quinta etapa de su parque eólico en Puerto Madryn, Chubut. La ampliación suma 56 aerogeneradores nuevos; el parque alcanza una capacidad de 582 MW, con una inversión de US$740 millones, según el medio.
+
+Según Ambito, el parque ya funciona y permitirá cubrir un tercio de la electricidad que necesita la planta de aluminio, tras la apuesta de la compañía por generar su propia energía. Clarin identifica a Aluar como el mayor consumidor eléctrico del país y reporta que analiza invertir en data centers y participará en la nueva privatización de Futaleufú.
+
+Exposición: Energía, Infraestructura · wind-farm expansion inaugurated → additional self-generation capability → potential reduction in external electricity purchases · wind generation, self-generation share, external electricity demand  
+**Evaluación de Aldra** (confianza: moderada, dirección: mejora). Cubrir un tercio del consumo con generación propia reduciría la dependencia del suministro externo de la planta de aluminio. La inauguración no demuestra todavía que esa cobertura se haya alcanzado.
+
+**Qué vigilar.** La generación efectiva del parque y la proporción del consumo de Aluar que cubra.
+
+Fuentes:
+- https://econojournal.com.ar/renovables-te/aluar-inauguro-la-expansion-de-su-parque-eolico-en-puerto-madryn-capacidad-de-582-mw-y-una-inversion-de-us-740-millones
+- https://ambito.com/energia/ya-funciona-el-parque-eolico-mas-grande-la-argentina-tiene-el-tamano-caba-y-puede-abastecer-600000-hogares-n6336902
+- https://clarin.com/economia/aluar-inauguro-mayor-parque-eolico-pais-analiza-invertir-data-centers_0_KhPCBDUaXL.html
 
 ### Otros desarrollos
 
-#### 4. México: Profepa atribuye a Minera Sabinas contaminación en 13,58 km
+#### 4. Ambito: Argentina adjudica acciones estatales de AySA por US$340 millones
 
-La Procuraduría Federal de Protección al Ambiente de México (Profepa) informó que Minera Sabinas, propiedad de Industrias Peñoles, subsidiaria de Grupo BAL, contaminó 13,58 kilómetros de un arroyo y del río Súchil, en Sombrerete, Zacatecas, según La Jornada. Atribuyó la contaminación a toneladas de lodos con metales pesados y desechos tóxicos y reportó daños severos a fauna y vegetación en esa zona limítrofe con Durango.
+Según Ambito, el Ministerio de Economía de Argentina aprobó por US$340 millones la venta del 90% de las acciones estatales de AySA, la empresa de agua, al consorcio integrado por Rowing, Arcos Saneamento, PHX Aqua y Transclor. El contrato deberá firmarse antes del 13 de noviembre; la adjudicación informada no equivale todavía a un contrato firmado.
 
-Exposición: Minería · reported toxic-sludge contamination → environmental remediation exposure → potential liabilities for mine investors and lenders · remediation liabilities, environmental compliance costs, operating continuity  
-**Evaluación de Aldra** (confianza: moderada, dirección: se deteriora). Para financiadores e inversores expuestos a la mina, la vía de riesgo es el costo de remediación. El reporte no permite concluir que haya una suspensión operativa ni cuantificar el pasivo.
+Exposición: Infraestructura, Finanzas soberanas · share-sale award → pending contract signature → potential ownership transfer and privatization proceeds · contract execution, AySA ownership, privatization proceeds  
 
-**Qué vigilar.** Una resolución de Profepa con medidas de remediación o restricciones a Minera Sabinas.
-
-Fuentes:
-- https://jornada.com.mx/2026/10/21/estados/026n1est?partner=rss
-
-#### 5. Panamá: según la ACP, el Canal mueve 521 millones de toneladas
-
-El Canal de Panamá registró 521 millones de toneladas de carga en casi 14.000 buques durante el año fiscal que terminó el 30 de septiembre, según cifras de la Autoridad del Canal de Panamá (ACP) recogidas por El Economista. El medio presenta el volumen como un récord y lo vincula al cierre de Ormuz, pese a El Niño.
-
-Exposición: Logística, Commodities · reported record cargo throughput → canal route utilization → shipping-route allocation · cargo throughput, vessel transits, route flows  
-
-**Qué vigilar.** La publicación de la ACP con el detalle de carga y tránsitos del año fiscal.
+**Qué vigilar.** La firma del contrato de venta antes del 13 de noviembre.
 
 Fuentes:
-- https://eleconomista.com.mx/internacionales/canal-panama-bate-record-carga-impulsado-cierre-ormuz-pese-nino-20261021-839801.html
+- https://ambito.com/economia/avanzan-las-privatizaciones-el-gobierno-javier-milei-adjudico-la-venta-aysa-us340-millones-n6336599
+
+#### 5. Brasil: Ministerio de Minas y Energía reporta gas hasta 57% más barato
+
+Según Valor Economico, el Ministerio de Minas y Energía de Brasil informó que la primera subasta de gas de la Unión adjudicó 1,1 millones de m³ diarios, con rebajas de hasta 57% para fertilizantes y 46% para siderurgia, metalurgia y minería. Pré-Sal Petróleo (PPSA), gestora de contratos de producción compartida, estimó un precio medio de US$5,83 por millón de BTU. El suministro irá de marzo a diciembre de 2027 desde la unidad de Petrobras en Itaboraí; los ganadores contratarán el transporte.
+
+Exposición: Energía, Agro, Minería · federal gas auction awards → lower reported gas purchase prices → buyer-arranged transportation → potential reduction in industrial input costs · delivered gas cost, transportation cost, fertilizer input costs, industrial gas deliveries  
+**Evaluación de Aldra** (confianza: moderada, dirección: mejora). Para fabricantes de fertilizantes y mineras, el ahorro efectivo dependerá también del transporte que deben contratar. La adjudicación fija una oportunidad de suministro futuro, no una reducción inmediata del costo de todo el gas industrial.
+
+**Qué vigilar.** El inicio de las entregas del gas adjudicado en marzo de 2027.
+
+Fuentes:
+- https://valor.globo.com/empresas/noticia/2026/10/22/leilao-de-gas-reduz-em-ate-57percent-preco-pago-pela-industria-diz-mme.ghtml
 
 #### Situaciones seguidas
 
+- **Argentina: la Bolsa de Rosario reporta comercialización récord de 105 Mt**: Sin cambio material. La cifra ofrece una referencia de oferta, no un volumen ya disponible para exportar. Para traders y exportadores, la incertidumbre está en cómo las condiciones señaladas se reflejen en las próximas estimaciones.
 - **Brasil: Agricultura declara emergencia por Newcastle en cuatro municipios**: Sin cambio material. La suspensión china convierte el riesgo sanitario en pérdida de acceso comercial para las plantas afectadas. La suspensión cautelar nacional reportada amplía la exposición de los exportadores, pero las fuentes no permiten cuantificar el volumen desplazado ni precisar el alcance de las restricciones de México y Chile.
-- **Aneel adía decisión sobre concesión de Enel São Paulo**: Sin cambio material. El pedido de vista posterga la posible caducidad de la segunda mayor concesión de distribución eléctrica en Brasil; la evidencia no confirma la decisión final.
+- **Argentina: Infobae sitúa el riesgo país de JP Morgan en 648 puntos**: Sin cambio material. El mayor spread eleva el rendimiento exigido al soberano para obtener financiamiento. No demuestra una incapacidad de pago: Infobae plantea esa dificultad como un riesgo condicionado a que los mercados sigan cerrados.
 
 ## English
 
-Edition: fallback · Sectors: Energy, Infrastructure, Sovereign finance, Mining, Agriculture, Commodities, Logistics · Published: 2026-10-22T06:42:02.068Z  
-Web: https://aldraresearch.com/sitreps/latam-2026-10-22  
+Edition: fallback · Sectors: Sovereign finance, Geopolitics, Energy, Infrastructure, Agriculture, Mining · Published: 2026-10-23T06:44:19.338Z  
+Web: https://aldraresearch.com/sitreps/latam-2026-10-23  
 License: CC BY 4.0
 
-### Brazil’s Federal Court of Accounts sets 240 days to decide Angra 3’s future. According to AP, Brazil’s top court suspends a gold-mine permit.
+### Reuters: the US Treasury removes Venezuela from the list of countries facing restrictions on outbound US investment.
 
-Brazil’s Federal Court of Accounts allowed up to 240 days to decide whether to resume or abandon construction of the Angra 3 nuclear plant; lenders remain exposed to carrying costs and accumulating debt. According to AP, Brazil’s top court suspended a permit for a large Amazon gold mine, leaving an investment condition unresolved. Argentina’s Bolsa de Comercio de Rosario estimated wheat production at 23.8 million tonnes, not yet harvested. According to La Jornada, Mexico’s Federal Attorney for Environmental Protection attributed contamination along 13.58 km of a stream and the Súchil River to Minera Sabinas. The Panama Canal handled 521 million tonnes aboard almost 14,000 ships in the fiscal year ending September 30, according to figures from its authority reported by El Economista.
+Reuters reports that the US Treasury removed Venezuela from outbound investment restrictions; which transactions are permitted remains unspecified. Hitachi Energy will invest US$77 million in transformer components in Brazil, according to Reuters. In Argentina, aluminum producer Aluar expanded its Puerto Madryn wind farm to 582 MW, EconoJournal reports; according to Ambito, it could cover a third of its plant's electricity needs. Ambito reports that Argentina's Economy Ministry awarded 90% of state-held shares in water company AySA for US$340 million; the contract remains unsigned. In Brazil, the Mines and Energy Ministry reported a gas award of 1.1 million m³ daily, with discounts of up to 57% for fertilizers, according to Valor Economico; winners must arrange transportation.
 
 ### Main situations
 
-#### 1. Brazil: TCU gives government up to 240 days to decide Angra 3
+#### 1. Reuters: US Treasury removes Venezuela from outbound investment restrictions
 
-Brazil's Federal Court of Accounts (TCU) set an outer deadline of 240 days to decide whether to resume or abandon construction of the Angra 3 nuclear plant. According to Valor Economico, the Ministry of Mines and Energy has 120 days to submit studies to the National Energy Policy Council (CNPE); the council then has another 120 days to reach a conclusion on the project's viability.
+According to Reuters, the United States Treasury Department removed Venezuela from the list of countries facing restrictions on outbound US investment. Efecto Cocuyo attributed the removal to the fact that “Maduro's government no longer exists.” The reports do not detail the scope of the restrictions removed or the conditions applicable to new investments.
 
-Estadao reported that the delay contributed to R$2.5 billion in spending between 2024 and mid-2026 to maintain the stalled construction site and service debt. According to the TCU's analysis, temporarily suspending payments to the National Bank for Economic and Social Development (BNDES) only provides cash-flow relief to Brazilian state-owned Eletronuclear and increases the outstanding balance. The court also raised concerns about an Eletronuclear debenture issue of R$1.5 billion intended to extend Angra 1's operating life.
+Exposure: Sovereign finance, Geopolitics · removal from restricted-country list → lower outbound investment barrier → changes to investor access · permitted investment scope, access to capital, investment conditions  
+**Aldra assessment** (confidence: moderate, direction: improving). The removal reduces a barrier to US capital, but does not establish an unconditional opening. Without the rule's scope, investors cannot determine which transactions are now permitted.
 
-Exposure: Energy, Infrastructure, Sovereign finance · binding decision deadline → project viability decision → financing and carrying-cost exposure · Angra 3 project status, carrying costs, outstanding debt, project financing  
-**Aldra assessment** (confidence: moderate, direction: unclear). The deadline narrows the room to leave the investment decision unresolved, but does not order construction to resume. For lenders, exposure remains in the cost of maintaining the asset and the debt accumulating while its viability is decided.
-
-**What to watch.** Submission of the studies to the CNPE and its decision on resuming or abandoning Angra 3.
+**What to watch.** The Treasury text specifying the scope and implementation of Venezuela's removal.
 
 Sources:
-- https://estadao.com.br/economia/tcu-fixa-prazo-de-120-dias-para-governo-decidir-sobre-angra-3-apos-analise-da-documentacao
-- https://valor.globo.com/brasil/noticia/2026/10/21/tcu-da-120-dias-para-minas-e-energia-informar-futuro-das-obras-na-usina-nuclear-angra-3.ghtml
+- https://news.google.com/rss/articles/CBMivwFBVV95cUxOOHpQWm5nQmJpYnlpNkloZEdBcWdKYmV2dkhOcFhuVEdtVUJBNlo4bVFZSkM0NmNVb3N3WEJ0QjYzekhrOEFvVmgzaEMtTUxtVnBpd0VIZm83RFpPOXpPV3FpVmtmZzNfRWphcjkwNURkMnk4MkhSQVI2NDgzRjFveWg3ang0VFlQY0thTzVybzdkYWRSeFUxdDYzMjBWU2k3UU1HamdFRVoySEJYeFJYd0h5X3hrY1l0dEtXelpCNA?oc=5
+- https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQzFRUy1kQ3hHLVh2OHFoTmVZR1R6ZGRPT2Zmb0w3aHlxdnJIbXBsZzEzdm9adGphekt6Ml9yTnN3Z0tQRGhPUmdVQmo4S29CdER5STB6R2VLZzVfZ2EyVzNYRmJTVU9rNjhOeUd5VVlXZUhrSmNfLVVsTEF6Sjcya3Zra3lZMUNSVVkzc0lsTzZEWDZZY2VnY1NkT2t1ZTBtSzI4M2lUeHJrWUlLbFR1N2NhaFk0Sm1JRkV3Mzk2LWJaaWp5YTRIRnBVLXlYOWxPd1gw?oc=5
 
-#### 2. Brazil: AP reports top court suspends a permit for gold mining
+#### 2. Brazil: Hitachi Energy to invest US$77 million, Reuters reports
 
-Brazil's top court suspended the permit for a large gold mine in the Amazon, according to AP. Infobae added that the ruling, signed by Brazilian judge Edson Fachin, revoked authorization to advance the open-pit project near the Xingu River, in an area affected by the Belo Monte hydroelectric dam.
+Hitachi Energy, a manufacturer of transformers and their components, will invest US$77 million in a new plant in Brazil, according to Reuters. Valor Economico puts the investment at R$385 million and says it will expand the complex the company is building in Pindamonhangaba, Brazil, before its opening. The new plant will produce components such as bushings and tap changers for electricity transmission transformers. The investment adds to US$210 million already announced for the transformer plant at the same complex.
 
-Exposure: Mining · reported permit revocation → unresolved development authorization → investment timetable uncertainty · gold-project permitting, development timetable, financing readiness  
-**Aldra assessment** (confidence: moderate, direction: deteriorating). For developers and lenders, the revocation means the permit cannot be treated as a settled condition for investment. The reports provide no timetable with which to quantify the delay.
+According to Valor Economico, the company expects the first plant to be ready in November 2027 and the new components plant a year later. The company attributes the expansion to a global components bottleneck and demand from electricity-intensive loads such as data centres and electric mobility. The aim is to supply the Brazilian market, with the possibility of exports and supply exchanges between plants to address delivery difficulties.
 
-**What to watch.** The text of the court ruling and any subsequent decision reinstating or limiting the permit.
+Exposure: Energy, Infrastructure · announced manufacturing investment → plant completion → potential increase in transformer-component supply · industrial investment, transformer-component manufacturing capacity, grid-equipment supply, equipment delivery times  
+**Aldra assessment** (confidence: moderate, direction: improving). The expansion targets the components bottleneck described by the company, rather than simply adding transformer manufacturing. For transmission-equipment buyers, the potential supply improvement depends on completion of the plants; the announcement does not establish available capacity.
 
-Sources:
-- https://news.google.com/rss/articles/CBMivwFBVV95cUxPQndBSWc1NTk4VGRjbzVCa2lMRGlEZ1Rxb0FkQS1TRVlQZjFJQzk3UDZydi05Sl9rb0hUOWZRZkNIQlpDZ21WMU5Lam1vZjFwQVptcENOSHBxUnc4dC1adHpFY0pYbzRMMzhPclVaQUlMblJjYjFzXzV3WlBURkNtOTNWdUw5RTQwaC1RcE50UGl1S25zM1hxSm0xX25Zc255TWdfRDVVdjdvOXZCak9BYnJtWW1iQTdTdE94TzVqVQ?oc=5
-- https://infobae.com/america/america-latina/2026/10/22/el-supremo-tribunal-de-brasil-suspendio-la-autorizacion-para-explotar-una-enorme-mina-de-oro-en-la-amazonia
-
-#### 3. Argentina: Rosario exchange projects a 23.8 Mt wheat crop
-
-Argentina's Bolsa de Comercio de Rosario published its first wheat production estimate: 23.8 million tonnes. La Nacion said it would be the second-largest crop on record. According to the outlet, the exchange warned about the consequences of a season marked by cold, lower radiation and rainfall below expectations; the figure is an estimate, not a volume already harvested.
-
-Exposure: Agriculture, Commodities · first crop estimate → expected wheat supply → export availability and pricing expectations · wheat production estimate, exportable supply, wheat prices  
-**Aldra assessment** (confidence: moderate, direction: unclear). The figure provides a supply benchmark, not a volume already available for export. For traders and exporters, the uncertainty is how the reported conditions feed into subsequent estimates.
-
-**What to watch.** The next wheat production estimate from the Bolsa de Comercio de Rosario.
+**What to watch.** Confirmation from Hitachi Energy that the first plant is ready in November 2027.
 
 Sources:
-- https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdEkzOUFVemtIOTBnTm5mdEVKeDloTUVfelZfVlpXM1JYdk9BX3IwZ0ZSdUZFYkxLb3dOa3YwVG1oLWwxeDVqME5MaFBkVWk1U3dJRDRPYWFMLUMxb1NSQjNWX2MxY3RVZGdzWXVFR0h0dmxoY1BxVVEzLUNTNmRxTjczcGFXR2JRTkxTLUNuTkNTZy1LTnltWVV0eUNiLU1uaGtBci1OdDV3TnUxRHRYS1VydjNnSGNJNkpUZmJRNGg?oc=5
-- https://lanacion.com.ar/economia/campo/octubre-tan-extrano-anticipan-que-la-cosecha-de-trigo-sera-la-segunda-de-mayor-importancia-de-la-nid21102026
+- https://news.google.com/rss/articles/CBMirwFBVV95cUxNMVJZR3RiVGxaWEItNjdUX1lZeWtkWnhBV1BFYW5WOVNPblhVTkpiWlR6TTkzY2s2dGhRc3N0X0s5Q0wtMldINWxJYW9GbzFIVUpxMzVTYXE4anJWT09RWUxXYTZQS29MSnhZa2g3MWdNWGx3NGRpX2xsaFhaYkJNUUZYUjJKNXZISDRDT3FLOHdLdVgwX3BDeUxtUldaNkpDMzZWZHpDUXRMaHJuRkRZ?oc=5
+- https://valor.globo.com/empresas/noticia/2026/10/22/hitachi-energy-anuncia-expansao-no-interior-paulista-com-aporte-de-r-385-milhoes.ghtml
+
+#### 3. EconoJournal: Aluar expands wind farm in Argentina to 582 MW
+
+EconoJournal reported that Aluar, Argentina's only primary aluminum producer, inaugurated the fifth stage of its wind farm in Puerto Madryn, Chubut, on Thursday. The expansion adds 56 new wind turbines; the farm reaches 582 MW of capacity, with an investment of US$740 million, according to the report.
+
+According to Ambito, the wind farm is operating and will be able to cover a third of the aluminum plant's electricity needs, following the company's decision to generate its own power. Clarin identifies Aluar as the country's largest electricity consumer and reports that it is considering data-center investment and will participate in the new privatization of Futaleufú.
+
+Exposure: Energy, Infrastructure · wind-farm expansion inaugurated → additional self-generation capability → potential reduction in external electricity purchases · wind generation, self-generation share, external electricity demand  
+**Aldra assessment** (confidence: moderate, direction: improving). Covering a third of consumption with self-generation would reduce the aluminum plant's dependence on external supply. The inauguration does not yet demonstrate that this coverage has been achieved.
+
+**What to watch.** Actual wind-farm generation and the share of Aluar's consumption it covers.
+
+Sources:
+- https://econojournal.com.ar/renovables-te/aluar-inauguro-la-expansion-de-su-parque-eolico-en-puerto-madryn-capacidad-de-582-mw-y-una-inversion-de-us-740-millones
+- https://ambito.com/energia/ya-funciona-el-parque-eolico-mas-grande-la-argentina-tiene-el-tamano-caba-y-puede-abastecer-600000-hogares-n6336902
+- https://clarin.com/economia/aluar-inauguro-mayor-parque-eolico-pais-analiza-invertir-data-centers_0_KhPCBDUaXL.html
 
 ### Other developments
 
-#### 4. Mexico: Profepa attributes 13.58 km of waterway contamination to Minera Sabinas
+#### 4. Ambito: Argentina awards sale of state-held AySA shares for US$340 million
 
-Mexico's Federal Attorney for Environmental Protection (Profepa) said Minera Sabinas, owned by Industrias Peñoles, a Grupo BAL subsidiary, contaminated 13.58 kilometers of a stream and the Súchil River in Sombrerete, Zacatecas, according to La Jornada. It attributed the contamination to tonnes of sludge containing heavy metals and toxic waste and reported severe damage to wildlife and vegetation in the area bordering Durango.
+According to Ambito, Argentina's Economy Ministry approved the sale of 90% of the state-held shares in AySA, the water company, for US$340 million to a consortium comprising Rowing, Arcos Saneamento, PHX Aqua and Transclor. The contract must be signed before November 13; the reported award does not yet amount to a signed contract.
 
-Exposure: Mining · reported toxic-sludge contamination → environmental remediation exposure → potential liabilities for mine investors and lenders · remediation liabilities, environmental compliance costs, operating continuity  
-**Aldra assessment** (confidence: moderate, direction: deteriorating). For lenders and investors exposed to the mine, the risk channel is remediation costs. The report does not establish an operational suspension or allow the liability to be quantified.
+Exposure: Infrastructure, Sovereign finance · share-sale award → pending contract signature → potential ownership transfer and privatization proceeds · contract execution, AySA ownership, privatization proceeds  
 
-**What to watch.** A Profepa resolution imposing remediation measures or restrictions on Minera Sabinas.
-
-Sources:
-- https://jornada.com.mx/2026/10/21/estados/026n1est?partner=rss
-
-#### 5. Panama: Canal handles 521 million tonnes, according to ACP
-
-The Panama Canal handled 521 million tonnes of cargo aboard almost 14,000 ships during the fiscal year that ended September 30, according to Panama Canal Authority (ACP) figures reported by El Economista. The outlet describes the volume as a record and links it to the closure of the Strait of Hormuz, despite El Niño.
-
-Exposure: Logistics, Commodities · reported record cargo throughput → canal route utilization → shipping-route allocation · cargo throughput, vessel transits, route flows  
-
-**What to watch.** The ACP publication detailing fiscal-year cargo and vessel transits.
+**What to watch.** Signature of the sale contract before November 13.
 
 Sources:
-- https://eleconomista.com.mx/internacionales/canal-panama-bate-record-carga-impulsado-cierre-ormuz-pese-nino-20261021-839801.html
+- https://ambito.com/economia/avanzan-las-privatizaciones-el-gobierno-javier-milei-adjudico-la-venta-aysa-us340-millones-n6336599
+
+#### 5. Brazil: Mines and Energy Ministry reports gas discounts of up to 57%
+
+According to Valor Economico, Brazil's Ministry of Mines and Energy said the first federal natural-gas auction awarded 1.1 million m³ daily, with discounts of up to 57% for fertilizers and 46% for steelmaking, metallurgy and mining. Pré-Sal Petróleo (PPSA), which manages production-sharing contracts, estimated an average price of US$5.83 per million BTU. Supply will run from March to December 2027 from Petrobras's unit in Itaboraí; the winners must arrange transportation.
+
+Exposure: Energy, Agriculture, Mining · federal gas auction awards → lower reported gas purchase prices → buyer-arranged transportation → potential reduction in industrial input costs · delivered gas cost, transportation cost, fertilizer input costs, industrial gas deliveries  
+**Aldra assessment** (confidence: moderate, direction: improving). For fertilizer manufacturers and miners, effective savings will also depend on the transportation they must arrange. The award establishes a future supply opportunity, not an immediate reduction in the cost of all industrial gas.
+
+**What to watch.** The start of deliveries of the awarded gas in March 2027.
+
+Sources:
+- https://valor.globo.com/empresas/noticia/2026/10/22/leilao-de-gas-reduz-em-ate-57percent-preco-pago-pela-industria-diz-mme.ghtml
 
 #### Tracked situations
 
+- **Argentina: Rosario exchange reports record agricultural commercialization of 105 Mt**: No material change. The figure provides a supply benchmark, not a volume already available for export. For traders and exporters, the uncertainty is how the reported conditions feed into subsequent estimates.
 - **Brazil: Agriculture Ministry declares Newcastle emergency in four municipalities**: No material change. China's suspension turns sanitary risk into lost market access for the affected plants. The reported nationwide precautionary suspension broadens exporters' exposure, but the sources do not establish displaced volumes or the precise scope of restrictions imposed by Mexico and Chile.
-- **Aneel postpones decision on Enel São Paulo concession**: No material change. The view request postpones possible caducity of Brazil's second-largest electricity distribution concession; the evidence does not confirm the final decision.
+- **Argentina: Infobae puts JP Morgan sovereign spread at 648 basis points**: No material change. The wider spread raises the yield demanded of the sovereign to obtain financing. It does not demonstrate an inability to pay: Infobae presents that difficulty as a risk conditional on markets remaining closed.

@@ -1,314 +1,91 @@
 {
   "schema_version": 2,
   "product": "LATAM",
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "kind": "fallback",
   "sectors": [
-    "sovereign_finance",
-    "geopolitics",
-    "energy",
-    "infrastructure",
-    "agriculture",
-    "mining"
+    "mining",
+    "commodities"
   ],
   "themes": [
-    "regulation"
+    "trade",
+    "macro"
   ],
-  "published_at": "2026-10-23T06:44:19.338Z",
-  "web_url": "https://aldraresearch.com/sitreps/latam-2026-10-23",
+  "published_at": "2026-10-24T06:33:15.515Z",
+  "web_url": "https://aldraresearch.com/sitreps/latam-2026-10-24",
   "headline": {
-    "en": "Reuters: the US Treasury removes Venezuela from the list of countries facing restrictions on outbound US investment.",
-    "es": "Reuters: el Tesoro de Estados Unidos retira a Venezuela de la lista de países sujetos a restricciones a inversiones estadounidenses en el exterior."
+    "en": "Samarco plans to invest R$13.8 billion in Brazil through 2031, Estadão/Broadcast reports.",
+    "es": "Samarco prevé invertir R$ 13.800 millones en Brasil hasta 2031, según Estadão/Broadcast."
   },
   "summary": {
-    "en": "Reuters reports that the US Treasury removed Venezuela from outbound investment restrictions; which transactions are permitted remains unspecified. Hitachi Energy will invest US$77 million in transformer components in Brazil, according to Reuters. In Argentina, aluminum producer Aluar expanded its Puerto Madryn wind farm to 582 MW, EconoJournal reports; according to Ambito, it could cover a third of its plant's electricity needs. Ambito reports that Argentina's Economy Ministry awarded 90% of state-held shares in water company AySA for US$340 million; the contract remains unsigned. In Brazil, the Mines and Energy Ministry reported a gas award of 1.1 million m³ daily, with discounts of up to 57% for fertilizers, according to Valor Economico; winners must arrange transportation.",
-    "es": "Según Reuters, el Tesoro de Estados Unidos retiró a Venezuela de restricciones a inversiones salientes, sin precisarse qué operaciones quedan habilitadas. Hitachi Energy invertirá US$77 millones en componentes para transformadores en Brasil, según Reuters. En Argentina, el productor de aluminio Aluar amplió su parque eólico de Puerto Madryn a 582 MW, según EconoJournal; según Ambito, podrá cubrir un tercio del consumo de su planta. Ambito reporta que el Ministerio de Economía argentino adjudicó el 90% de las acciones estatales de la empresa de agua AySA por US$340 millones; falta firmar el contrato. En Brasil, el Ministerio de Minas y Energía reportó una adjudicación de gas de 1,1 millones de m³ diarios, con descuentos de hasta 57% para fertilizantes, según Valor Economico; los ganadores contratarán el transporte."
+    "en": "According to Estadão/Broadcast, mining company Samarco will fund its investment plan in Brazil with its own resources and aims to reach maximum capacity of 25–26 million tonnes of fines and pellets in March 2028. The company expects to turn profitable that year and is working with an ore price of about US$90 per tonne until then. It attributes higher pellet premiums to supply restrictions in the Middle East and is betting on decarbonization to sustain demand. For investors, that premium may cushion the impact of cheaper ore; for buyers, the announced capacity remains a future target, not supply already available.",
+    "es": "Según Estadão/Broadcast, la minera Samarco financiará con recursos propios su plan de inversión en Brasil y prevé alcanzar una capacidad máxima de 25–26 millones de toneladas de finos y pellets en marzo de 2028. La compañía espera pasar de pérdidas a ganancias ese año y trabaja hasta entonces con mineral a unos US$ 90 por tonelada. Atribuye el mayor premio de los pellets a restricciones de oferta en Oriente Medio y apuesta a la descarbonización para sostener la demanda. Para inversores, ese premio puede amortiguar el impacto de un mineral más barato; para compradores, la capacidad anunciada sigue siendo una meta futura, no oferta ya disponible."
   },
   "stories": [
     {
-      "id": "latam-2026-10-23-a72bb6bffc",
+      "id": "latam-2026-10-24-c5e2942fa3",
       "status": "CLAIM",
-      "tier": "major",
+      "tier": "brief",
       "heading": {
-        "en": "Reuters: US Treasury removes Venezuela from outbound investment restrictions",
-        "es": "Reuters: Tesoro de EEUU excluye a Venezuela de restricciones a inversiones salientes"
+        "en": "Brazil: Samarco plans R$13.8 billion through 2031, Estadão/Broadcast reports",
+        "es": "Brasil: Samarco prevé R$ 13.800 millones hasta 2031, según Estadão/Broadcast"
       },
       "text": {
-        "en": "According to Reuters, the United States Treasury Department removed Venezuela from the list of countries facing restrictions on outbound US investment. Efecto Cocuyo attributed the removal to the fact that “Maduro's government no longer exists.” The reports do not detail the scope of the restrictions removed or the conditions applicable to new investments.",
-        "es": "Según Reuters, el Departamento del Tesoro de Estados Unidos retiró a Venezuela de la lista de países sujetos a restricciones a inversiones estadounidenses en el exterior. Efecto Cocuyo atribuyó la exclusión a que «el gobierno de Maduro ya no existe». Los reportes no detallan el alcance de las restricciones retiradas ni las condiciones aplicables a nuevas inversiones."
+        "en": "According to Estadão/Broadcast, mining company Samarco plans to invest R$13.8 billion of its own funds in Brazil through 2031 and reach maximum capacity of 25–26 million tonnes of fines and pellets in March 2028. It expects to turn profitable that year and is working with an ore price of about US$90 per tonne until then. The company attributes higher pellet premiums to supply restrictions in the Middle East and is betting on decarbonization to sustain demand.",
+        "es": "Según Estadão/Broadcast, la minera Samarco prevé invertir en Brasil R$ 13.800 millones de recursos propios hasta 2031 y alcanzar su capacidad máxima de 25–26 millones de toneladas de finos y pellets en marzo de 2028. Espera pasar de pérdidas a ganancias ese año y trabaja hasta entonces con mineral a unos US$ 90 por tonelada. La compañía atribuye el aumento del premio de los pellets a restricciones de oferta en Oriente Medio y apuesta a la descarbonización para sostener la demanda."
       },
       "exposure": {
         "sectors": [
-          "sovereign_finance",
-          "geopolitics"
+          "mining",
+          "commodities"
         ],
         "assets_or_markets": [
-          "US investment in Venezuela"
+          "Samarco investment",
+          "Iron ore fines and pellets"
         ],
         "transmission_path": [
-          "removal from restricted-country list",
-          "lower outbound investment barrier",
-          "changes to investor access"
+          "Planned investment",
+          "Capacity expansion",
+          "Future fines and pellet availability"
         ],
         "variables": [
-          "permitted investment scope",
-          "access to capital",
-          "investment conditions"
+          "Investment execution",
+          "Production capacity",
+          "Pellet premium",
+          "Profitability"
         ]
       },
       "assessment": {
         "confidence": "moderate",
-        "direction": "improving",
+        "direction": "unclear",
         "text": {
-          "en": "The removal reduces a barrier to US capital, but does not establish an unconditional opening. Without the rule's scope, investors cannot determine which transactions are now permitted.",
-          "es": "La exclusión reduce una barrera para el capital estadounidense, pero no acredita una apertura sin condiciones. Sin conocer el alcance de la norma, los inversores no pueden deducir qué operaciones quedan habilitadas."
+          "en": "For investors, higher pellet premiums may cushion the impact of cheaper ore while investment proceeds. For buyers, the announced maximum capacity remains a future target, not a supply increase already delivered.",
+          "es": "Para inversores, el mayor premio de los pellets puede amortiguar el impacto de un mineral más barato mientras se ejecuta la inversión. Para compradores, la capacidad máxima anunciada sigue siendo una meta futura, no un aumento de oferta ya realizado."
         }
       },
       "watch": {
-        "en": "The Treasury text specifying the scope and implementation of Venezuela's removal.",
-        "es": "El texto del Tesoro que precise el alcance y la aplicación de la exclusión de Venezuela."
+        "en": "Capacity progress and investment execution reported by Samarco.",
+        "es": "Avances de capacidad y ejecución de inversiones publicados por Samarco."
       },
       "sources": [
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOHpQWm5nQmJpYnlpNkloZEdBcWdKYmV2dkhOcFhuVEdtVUJBNlo4bVFZSkM0NmNVb3N3WEJ0QjYzekhrOEFvVmgzaEMtTUxtVnBpd0VIZm83RFpPOXpPV3FpVmtmZzNfRWphcjkwNURkMnk4MkhSQVI2NDgzRjFveWg3ang0VFlQY0thTzVybzdkYWRSeFUxdDYzMjBWU2k3UU1HamdFRVoySEJYeFJYd0h5X3hrY1l0dEtXelpCNA?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQzFRUy1kQ3hHLVh2OHFoTmVZR1R6ZGRPT2Zmb0w3aHlxdnJIbXBsZzEzdm9adGphekt6Ml9yTnN3Z0tQRGhPUmdVQmo4S29CdER5STB6R2VLZzVfZ2EyVzNYRmJTVU9rNjhOeUd5VVlXZUhrSmNfLVVsTEF6Sjcya3Zra3lZMUNSVVkzc0lsTzZEWDZZY2VnY1NkT2t1ZTBtSzI4M2lUeHJrWUlLbFR1N2NhaFk0Sm1JRkV3Mzk2LWJaaWp5YTRIRnBVLXlYOWxPd1gw?oc=5"
-      ],
-      "countries": [
-        "VE"
-      ],
-      "story_class": "structural"
-    },
-    {
-      "id": "latam-2026-10-23-17ce19ee34",
-      "status": "CLAIM",
-      "tier": "major",
-      "heading": {
-        "en": "Brazil: Hitachi Energy to invest US$77 million, Reuters reports",
-        "es": "Brasil: Hitachi Energy invertirá US$77 millones, según Reuters"
-      },
-      "text": {
-        "en": "Hitachi Energy, a manufacturer of transformers and their components, will invest US$77 million in a new plant in Brazil, according to Reuters. Valor Economico puts the investment at R$385 million and says it will expand the complex the company is building in Pindamonhangaba, Brazil, before its opening. The new plant will produce components such as bushings and tap changers for electricity transmission transformers. The investment adds to US$210 million already announced for the transformer plant at the same complex.\n\nAccording to Valor Economico, the company expects the first plant to be ready in November 2027 and the new components plant a year later. The company attributes the expansion to a global components bottleneck and demand from electricity-intensive loads such as data centres and electric mobility. The aim is to supply the Brazilian market, with the possibility of exports and supply exchanges between plants to address delivery difficulties.",
-        "es": "Hitachi Energy, fabricante de transformadores y sus componentes, invertirá US$77 millones en una nueva planta en Brasil, según Reuters. Valor Economico sitúa la inversión en R$385 millones y precisa que ampliará el complejo que la compañía construye en Pindamonhangaba, Brasil, antes de su inauguración. La nueva planta producirá componentes como bushings y conmutadores para transformadores de transmisión eléctrica. El aporte se suma a US$210 millones ya anunciados para la planta de transformadores del mismo complejo.\n\nSegún Valor Economico, la compañía espera que la primera planta esté lista en noviembre de 2027 y la nueva planta de componentes, un año después. La empresa atribuye la ampliación a un cuello de botella mundial en componentes y a la demanda de cargas electrointensivas, como centros de datos y movilidad eléctrica. El objetivo es abastecer el mercado brasileño, con posibilidad de exportar y de intercambiar suministro entre plantas para responder a dificultades de plazos."
-      },
-      "exposure": {
-        "sectors": [
-          "energy",
-          "infrastructure"
-        ],
-        "assets_or_markets": [
-          "Brazilian transmission equipment",
-          "Transformer components",
-          "Pindamonhangaba manufacturing complex"
-        ],
-        "transmission_path": [
-          "announced manufacturing investment",
-          "plant completion",
-          "potential increase in transformer-component supply"
-        ],
-        "variables": [
-          "industrial investment",
-          "transformer-component manufacturing capacity",
-          "grid-equipment supply",
-          "equipment delivery times"
-        ]
-      },
-      "assessment": {
-        "confidence": "moderate",
-        "direction": "improving",
-        "text": {
-          "en": "The expansion targets the components bottleneck described by the company, rather than simply adding transformer manufacturing. For transmission-equipment buyers, the potential supply improvement depends on completion of the plants; the announcement does not establish available capacity.",
-          "es": "La expansión apunta al cuello de botella en componentes que describe la compañía, no sólo a fabricar más transformadores. Para compradores de equipos de transmisión, la mejora potencial de oferta depende de que las plantas se completen; el anuncio no acredita capacidad disponible."
-        }
-      },
-      "watch": {
-        "en": "Confirmation from Hitachi Energy that the first plant is ready in November 2027.",
-        "es": "La confirmación de Hitachi Energy de que la primera planta esté lista en noviembre de 2027."
-      },
-      "sources": [
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMVJZR3RiVGxaWEItNjdUX1lZeWtkWnhBV1BFYW5WOVNPblhVTkpiWlR6TTkzY2s2dGhRc3N0X0s5Q0wtMldINWxJYW9GbzFIVUpxMzVTYXE4anJWT09RWUxXYTZQS29MSnhZa2g3MWdNWGx3NGRpX2xsaFhaYkJNUUZYUjJKNXZISDRDT3FLOHdLdVgwX3BDeUxtUldaNkpDMzZWZHpDUXRMaHJuRkRZ?oc=5",
-        "https://valor.globo.com/empresas/noticia/2026/10/22/hitachi-energy-anuncia-expansao-no-interior-paulista-com-aporte-de-r-385-milhoes.ghtml"
+        "https://estadao.com.br/economia/negocios/entrevista-rodrigo-vilela-samarco-descarbonizacao-demanda-ciclo-minerio-barato"
       ],
       "countries": [
         "BR"
       ],
       "story_class": "structural"
-    },
-    {
-      "id": "latam-2026-10-23-ca7ed0fce4",
-      "status": "CLAIM",
-      "tier": "major",
-      "heading": {
-        "en": "EconoJournal: Aluar expands wind farm in Argentina to 582 MW",
-        "es": "Según EconoJournal, Aluar amplía a 582 MW su parque en Argentina"
-      },
-      "text": {
-        "en": "EconoJournal reported that Aluar, Argentina's only primary aluminum producer, inaugurated the fifth stage of its wind farm in Puerto Madryn, Chubut, on Thursday. The expansion adds 56 new wind turbines; the farm reaches 582 MW of capacity, with an investment of US$740 million, according to the report.\n\nAccording to Ambito, the wind farm is operating and will be able to cover a third of the aluminum plant's electricity needs, following the company's decision to generate its own power. Clarin identifies Aluar as the country's largest electricity consumer and reports that it is considering data-center investment and will participate in the new privatization of Futaleufú.",
-        "es": "EconoJournal reportó que Aluar, el único productor de aluminio primario de Argentina, inauguró el jueves la quinta etapa de su parque eólico en Puerto Madryn, Chubut. La ampliación suma 56 aerogeneradores nuevos; el parque alcanza una capacidad de 582 MW, con una inversión de US$740 millones, según el medio.\n\nSegún Ambito, el parque ya funciona y permitirá cubrir un tercio de la electricidad que necesita la planta de aluminio, tras la apuesta de la compañía por generar su propia energía. Clarin identifica a Aluar como el mayor consumidor eléctrico del país y reporta que analiza invertir en data centers y participará en la nueva privatización de Futaleufú."
-      },
-      "exposure": {
-        "sectors": [
-          "energy",
-          "infrastructure"
-        ],
-        "assets_or_markets": [
-          "Aluar aluminum plant electricity supply",
-          "Puerto Madryn wind farm"
-        ],
-        "transmission_path": [
-          "wind-farm expansion inaugurated",
-          "additional self-generation capability",
-          "potential reduction in external electricity purchases"
-        ],
-        "variables": [
-          "wind generation",
-          "self-generation share",
-          "external electricity demand"
-        ]
-      },
-      "assessment": {
-        "confidence": "moderate",
-        "direction": "improving",
-        "text": {
-          "en": "Covering a third of consumption with self-generation would reduce the aluminum plant's dependence on external supply. The inauguration does not yet demonstrate that this coverage has been achieved.",
-          "es": "Cubrir un tercio del consumo con generación propia reduciría la dependencia del suministro externo de la planta de aluminio. La inauguración no demuestra todavía que esa cobertura se haya alcanzado."
-        }
-      },
-      "watch": {
-        "en": "Actual wind-farm generation and the share of Aluar's consumption it covers.",
-        "es": "La generación efectiva del parque y la proporción del consumo de Aluar que cubra."
-      },
-      "sources": [
-        "https://econojournal.com.ar/renovables-te/aluar-inauguro-la-expansion-de-su-parque-eolico-en-puerto-madryn-capacidad-de-582-mw-y-una-inversion-de-us-740-millones",
-        "https://ambito.com/energia/ya-funciona-el-parque-eolico-mas-grande-la-argentina-tiene-el-tamano-caba-y-puede-abastecer-600000-hogares-n6336902",
-        "https://clarin.com/economia/aluar-inauguro-mayor-parque-eolico-pais-analiza-invertir-data-centers_0_KhPCBDUaXL.html"
-      ],
-      "countries": [
-        "AR"
-      ],
-      "story_class": "incident"
-    },
-    {
-      "id": "latam-2026-10-23-4568a02250",
-      "status": "CLAIM",
-      "tier": "brief",
-      "heading": {
-        "en": "Ambito: Argentina awards sale of state-held AySA shares for US$340 million",
-        "es": "Ambito: Argentina adjudica acciones estatales de AySA por US$340 millones"
-      },
-      "text": {
-        "en": "According to Ambito, Argentina's Economy Ministry approved the sale of 90% of the state-held shares in AySA, the water company, for US$340 million to a consortium comprising Rowing, Arcos Saneamento, PHX Aqua and Transclor. The contract must be signed before November 13; the reported award does not yet amount to a signed contract.",
-        "es": "Según Ambito, el Ministerio de Economía de Argentina aprobó por US$340 millones la venta del 90% de las acciones estatales de AySA, la empresa de agua, al consorcio integrado por Rowing, Arcos Saneamento, PHX Aqua y Transclor. El contrato deberá firmarse antes del 13 de noviembre; la adjudicación informada no equivale todavía a un contrato firmado."
-      },
-      "exposure": {
-        "sectors": [
-          "infrastructure",
-          "sovereign_finance"
-        ],
-        "assets_or_markets": [
-          "state-held AySA shares",
-          "Argentine privatization proceeds"
-        ],
-        "transmission_path": [
-          "share-sale award",
-          "pending contract signature",
-          "potential ownership transfer and privatization proceeds"
-        ],
-        "variables": [
-          "contract execution",
-          "AySA ownership",
-          "privatization proceeds"
-        ]
-      },
-      "assessment": null,
-      "watch": {
-        "en": "Signature of the sale contract before November 13.",
-        "es": "La firma del contrato de venta antes del 13 de noviembre."
-      },
-      "sources": [
-        "https://ambito.com/economia/avanzan-las-privatizaciones-el-gobierno-javier-milei-adjudico-la-venta-aysa-us340-millones-n6336599"
-      ],
-      "countries": [
-        "AR"
-      ],
-      "story_class": "structural"
-    },
-    {
-      "id": "latam-2026-10-23-207123d8cd",
-      "status": "CLAIM",
-      "tier": "brief",
-      "heading": {
-        "en": "Brazil: Mines and Energy Ministry reports gas discounts of up to 57%",
-        "es": "Brasil: Ministerio de Minas y Energía reporta gas hasta 57% más barato"
-      },
-      "text": {
-        "en": "According to Valor Economico, Brazil's Ministry of Mines and Energy said the first federal natural-gas auction awarded 1.1 million m³ daily, with discounts of up to 57% for fertilizers and 46% for steelmaking, metallurgy and mining. Pré-Sal Petróleo (PPSA), which manages production-sharing contracts, estimated an average price of US$5.83 per million BTU. Supply will run from March to December 2027 from Petrobras's unit in Itaboraí; the winners must arrange transportation.",
-        "es": "Según Valor Economico, el Ministerio de Minas y Energía de Brasil informó que la primera subasta de gas de la Unión adjudicó 1,1 millones de m³ diarios, con rebajas de hasta 57% para fertilizantes y 46% para siderurgia, metalurgia y minería. Pré-Sal Petróleo (PPSA), gestora de contratos de producción compartida, estimó un precio medio de US$5,83 por millón de BTU. El suministro irá de marzo a diciembre de 2027 desde la unidad de Petrobras en Itaboraí; los ganadores contratarán el transporte."
-      },
-      "exposure": {
-        "sectors": [
-          "energy",
-          "agriculture",
-          "mining"
-        ],
-        "assets_or_markets": [
-          "Brazilian industrial natural gas",
-          "fertilizer production inputs",
-          "mining and metallurgical gas supply"
-        ],
-        "transmission_path": [
-          "federal gas auction awards",
-          "lower reported gas purchase prices",
-          "buyer-arranged transportation",
-          "potential reduction in industrial input costs"
-        ],
-        "variables": [
-          "delivered gas cost",
-          "transportation cost",
-          "fertilizer input costs",
-          "industrial gas deliveries"
-        ]
-      },
-      "assessment": {
-        "confidence": "moderate",
-        "direction": "improving",
-        "text": {
-          "en": "For fertilizer manufacturers and miners, effective savings will also depend on the transportation they must arrange. The award establishes a future supply opportunity, not an immediate reduction in the cost of all industrial gas.",
-          "es": "Para fabricantes de fertilizantes y mineras, el ahorro efectivo dependerá también del transporte que deben contratar. La adjudicación fija una oportunidad de suministro futuro, no una reducción inmediata del costo de todo el gas industrial."
-        }
-      },
-      "watch": {
-        "en": "The start of deliveries of the awarded gas in March 2027.",
-        "es": "El inicio de las entregas del gas adjudicado en marzo de 2027."
-      },
-      "sources": [
-        "https://valor.globo.com/empresas/noticia/2026/10/22/leilao-de-gas-reduz-em-ate-57percent-preco-pago-pela-industria-diz-mme.ghtml"
-      ],
-      "countries": [
-        "BR"
-      ],
-      "story_class": "data"
     }
   ],
   "tracking": [
     {
-      "situation_id": "latam-argentina-rosario-exchange-reports-recor-8f2794",
+      "situation_id": "latam-falklands-uk-announces-protection-in-res-566973",
       "title": {
-        "en": "Argentina: Rosario exchange reports record agricultural commercialization of 105 Mt",
-        "es": "Argentina: la Bolsa de Rosario reporta comercialización récord de 105 Mt"
+        "en": "Falklands: UK announces protection in response to Argentine measures",
+        "es": "Malvinas: Reino Unido anuncia protección ante las medidas argentinas"
       },
       "line": {
-        "en": "No material change. The figure provides a supply benchmark, not a volume already available for export. For traders and exporters, the uncertainty is how the reported conditions feed into subsequent estimates.",
-        "es": "Sin cambio material. La cifra ofrece una referencia de oferta, no un volumen ya disponible para exportar. Para traders y exportadores, la incertidumbre está en cómo las condiciones señaladas se reflejen en las próximas estimaciones."
-      }
-    },
-    {
-      "situation_id": "latam-brazil-agriculture-ministry-declares-new-5c35ac",
-      "title": {
-        "en": "Brazil: Agriculture Ministry declares Newcastle emergency in four municipalities",
-        "es": "Brasil: Agricultura declara emergencia por Newcastle en cuatro municipios"
-      },
-      "line": {
-        "en": "No material change. China's suspension turns sanitary risk into lost market access for the affected plants. The reported nationwide precautionary suspension broadens exporters' exposure, but the sources do not establish displaced volumes or the precise scope of restrictions imposed by Mexico and Chile.",
-        "es": "Sin cambio material. La suspensión china convierte el riesgo sanitario en pérdida de acceso comercial para las plantas afectadas. La suspensión cautelar nacional reportada amplía la exposición de los exportadores, pero las fuentes no permiten cuantificar el volumen desplazado ni precisar el alcance de las restricciones de México y Chile."
+        "en": "No material change. The removal reduces a barrier to US capital, but does not establish an unconditional opening. Without the rule's scope, investors cannot determine which transactions are now permitted.",
+        "es": "Sin cambio material. La exclusión reduce una barrera para el capital estadounidense, pero no acredita una apertura sin condiciones. Sin conocer el alcance de la norma, los inversores no pueden deducir qué operaciones quedan habilitadas."
       }
     },
     {
@@ -321,14 +98,25 @@
         "en": "No material change. The wider spread raises the yield demanded of the sovereign to obtain financing. It does not demonstrate an inability to pay: Infobae presents that difficulty as a risk conditional on markets remaining closed.",
         "es": "Sin cambio material. El mayor spread eleva el rendimiento exigido al soberano para obtener financiamiento. No demuestra una incapacidad de pago: Infobae plantea esa dificultad como un riesgo condicionado a que los mercados sigan cerrados."
       }
+    },
+    {
+      "situation_id": "latam-brazil-agriculture-ministry-declares-new-5c35ac",
+      "title": {
+        "en": "Brazil: Agriculture Ministry declares Newcastle emergency in four municipalities",
+        "es": "Brasil: Agricultura declara emergencia por Newcastle en cuatro municipios"
+      },
+      "line": {
+        "en": "No material change. China's suspension turns sanitary risk into lost market access for the affected plants. The reported nationwide precautionary suspension broadens exporters' exposure, but the sources do not establish displaced volumes or the precise scope of restrictions imposed by Mexico and Chile.",
+        "es": "Sin cambio material. La suspensión china convierte el riesgo sanitario en pérdida de acceso comercial para las plantas afectadas. La suspensión cautelar nacional reportada amplía la exposición de los exportadores, pero las fuentes no permiten cuantificar el volumen desplazado ni precisar el alcance de las restricciones de México y Chile."
+      }
     }
   ],
   "context": {
     "text": {
-      "en": "According to Defense News, the US Pentagon and defense contractor Lockheed Martin agreed to a ten-year framework for at least 850 F-35 fighters, pending US congressional approval and funding. The announced volume does not constitute funded orders. According to Oilprice, Shell and its partners approved the final investment decision for LNG Canada Phase 2 in Canada last month. The expansion would double capacity to 28 million tonnes annually.",
-      "es": "Según Defense News, el Pentágono de Estados Unidos y el contratista Lockheed Martin acordaron un marco de diez años para al menos 850 cazas F-35, pendiente de aprobación y financiación del Congreso estadounidense. El volumen anunciado no constituye pedidos financiados. Según Oilprice, Shell y sus socios aprobaron el mes pasado la decisión final de inversión de la fase 2 de LNG Canada, en Canadá. La ampliación duplicaría la capacidad a 28 millones de toneladas anuales."
+      "en": "Bloomberg reported that a diesel tanker departed Primorsk, Russia, and intermittently signaled New York, United States, as its destination after the fuel-supply agreement between Putin and Trump. The report does not confirm a discharge or a regular trade route. According to Rigzone, Goldman Sachs analysts put average global crude freight above $20 per barrel, compared with $3 a year earlier: a higher delivery cost for buyers, although that average cannot automatically be applied to an individual contract.",
+      "es": "Bloomberg reportó que un petrolero con diésel salió de Primorsk, Rusia, y señaló intermitentemente Nueva York, Estados Unidos, como destino tras el acuerdo de suministro de combustible entre Putin y Trump. El reporte no confirma una descarga ni una ruta comercial regular. Según Rigzone, analistas de Goldman Sachs sitúan el flete promedio global de crudo por encima de USD 20 por barril, frente a USD 3 un año antes: un mayor costo de entrega para compradores, aunque ese promedio no puede trasladarse automáticamente a un contrato concreto."
     }
   },
-  "content_hash": "0c934d00647d4a968eb902f04fb6d54a0dd2fd36df494a1b94b14f007eb81988",
+  "content_hash": "b2565aa7ee6473f269ea5be0ace85d21b60af01b9bbff10c480a41b3a2ba9355",
   "license": "CC-BY-4.0"
 }

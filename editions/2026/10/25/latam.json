@@ -1,0 +1,226 @@
+{
+  "schema_version": 2,
+  "product": "LATAM",
+  "date": "2026-10-25",
+  "kind": "fallback",
+  "sectors": [
+    "mining",
+    "energy",
+    "infrastructure",
+    "logistics"
+  ],
+  "themes": [
+    "regulation",
+    "weather_climate",
+    "trade"
+  ],
+  "published_at": "2026-10-25T07:28:40.337Z",
+  "web_url": "https://aldraresearch.com/sitreps/latam-2026-10-25",
+  "headline": {
+    "en": "Colombia’s Ministry of Mines and Energy abolishes 15 mining districts. Colombia’s government allocates 2.7 trillion pesos to Plan Energía Ya.",
+    "es": "El Ministerio de Minas y Energía de Colombia elimina 15 distritos mineros. El Gobierno colombiano asigna 2,7 billones de pesos al Plan Energía Ya."
+  },
+  "summary": {
+    "en": "Colombia’s Ministry of Mines and Energy abolished all 15 Special Mining Districts without specifying effects on permits and projects; according to El Tiempo, they covered more than 5.3 million hectares. Colombia’s Presidency reported that Colombia’s government allocated 2.7 trillion pesos to Plan Energía Ya and set December 31 as the deadline for preventive measures against an El Niño-linked blackout risk, without establishing an increase in available generation. According to El Economista, Mexico published Customs Law amendments taking effect in 2027, including provisions on declared-value reviews, precautionary seizure and fines related to hydrocarbons and petroleum products, without specifying fine amounts.",
+    "es": "El Ministerio de Minas y Energía de Colombia derogó los 15 Distritos Mineros Especiales, sin precisar los efectos sobre permisos y proyectos; según El Tiempo, cubrían más de 5,3 millones de hectáreas. La Presidencia de Colombia informó que el Gobierno colombiano destinó 2,7 billones de pesos al Plan Energía Ya y fijó el 31 de diciembre para ejecutar medidas preventivas ante el riesgo de apagón por El Niño, sin acreditar mayor generación disponible. Según El Economista, México publicó reformas a la Ley Aduanera que regirán desde 2027: incluyen disposiciones sobre revisión del valor declarado, embargo precautorio y multas relacionadas con hidrocarburos y petrolíferos, sin precisar montos."
+  },
+  "stories": [
+    {
+      "id": "latam-2026-10-25-a3085150b6",
+      "status": "CONFIRMED",
+      "tier": "major",
+      "heading": {
+        "en": "Colombia: mines ministry abolishes 15 Special Mining Districts",
+        "es": "Colombia: MinMinas deroga los 15 Distritos Mineros Especiales"
+      },
+      "text": {
+        "en": "Colombia's Ministry of Mines and Energy abolished the 15 Special Mining Districts. The ministry said the measure restores “legal certainty” to mining regions, but its announcement does not detail which rules will apply after those designations are removed.\n\nAccording to El Tiempo, the areas covered more than 5.3 million hectares, equivalent to around 5% of national territory, across 11 departments and Colombia's Pacific coast. The official statement confirms the districts' abolition but does not identify the legal instrument implementing it or specify its effects on individual permits or projects.",
+        "es": "El Ministerio de Minas y Energía de Colombia derogó los 15 Distritos Mineros Especiales. La cartera afirmó que la medida devuelve la «seguridad jurídica» a las regiones mineras, pero su anuncio no detalla qué reglas se aplicarán tras la eliminación de esas delimitaciones.\n\nSegún El Tiempo, las áreas comprendían más de 5,3 millones de hectáreas, equivalentes a cerca del 5 % del territorio nacional, distribuidas en 11 departamentos y el litoral Pacífico de Colombia. La comunicación oficial confirma la derogación de los distritos, pero no identifica la norma que la instrumenta ni precisa sus efectos sobre permisos o proyectos concretos."
+      },
+      "exposure": {
+        "sectors": [
+          "mining"
+        ],
+        "assets_or_markets": [
+          "Colombian mining projects",
+          "Former Special Mining District areas"
+        ],
+        "transmission_path": [
+          "District designations abolished",
+          "Regulatory boundaries changed",
+          "Project-level implications unresolved"
+        ],
+        "variables": [
+          "Mining regulatory framework",
+          "Mining-area designations",
+          "Regional investment certainty"
+        ]
+      },
+      "assessment": {
+        "confidence": "moderate",
+        "direction": "unclear",
+        "text": {
+          "en": "The abolition changes mining regulation's territorial boundaries, but it does not establish that new mining operations are authorized. For investors, the effect depends on how the decision applies to permits and projects.",
+          "es": "La derogación cambia las delimitaciones de la regulación minera, pero no permite concluir que se habiliten nuevas explotaciones. Para los inversores, el efecto depende de cómo se aplique la decisión a permisos y proyectos."
+        }
+      },
+      "watch": {
+        "en": "Publication of the legal instrument abolishing the districts and its effects on mining permits and projects.",
+        "es": "Publicación de la norma de derogación y de sus efectos sobre permisos y proyectos mineros."
+      },
+      "sources": [
+        "https://news.google.com/rss/articles/CBMinAJBVV95cUxPNlVqUHhkdGZid1BwVDBDdk5TRWhULWwzaGh0RXNqcElQX19KYkxXeHd4OGpMLWEwRGREb3VidjhJcXZ4bDA2dTlhTkw1c3VlbFh0OFVfY2d1ZEJEOFhsRUhkRXhjdDVrNUo1Wk5uSVFDNDZlT2xEbUNWcXJZUmVzbWxxdHNxZ0tvMUdNSmJzYWpySERXT2U0aHZYMnV6YlVnRW1tbnBsQ3M2WWJxV1JUREQ4T2MxWDRfR1BaYlNqdXY2bndlOUpiZXpuMXNOWXNMM0hZN1F6U0hkd1hpN21rMFZySmg1d0JGREFuQWE4d2tXQzl2MXc2OTRxU0htVW94eXdnSVoyeGpSRExzMlhtNFRUbnJveXZyb1c1cA?oc=5",
+        "https://eltiempo.com/politica/gobierno/minminas-deroga-15-distritos-mineros-especiales-mas-de-5-3-millones-de-hectareas-en-colombia-las-razones-y-regiones-implicadas-3596104"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "story_class": "structural"
+    },
+    {
+      "id": "latam-2026-10-25-fc19c21a9c",
+      "status": "CONFIRMED",
+      "tier": "brief",
+      "heading": {
+        "en": "Colombia: government allocates 2.7 trillion pesos to Plan Energía Ya",
+        "es": "Colombia: el Gobierno asigna 2,7 billones de pesos al Plan Energía Ya"
+      },
+      "text": {
+        "en": "Facing the risk of a blackout linked to El Niño, Colombia's government set December 31 as the final deadline to implement all preventive measures and allocated 2.7 trillion pesos to Plan Energía Ya, Colombia's Presidency reported. The announcement does not detail those measures: it says they aim to ensure thermal backup, settle power-sector debts and strengthen electricity infrastructure.\n\nColombia's Ministry of Mines and Energy launched the plan, according to Semana. The Presidency also reported establishing a regulatory framework of tariff incentives to reward electricity savings and launching the “Recursivos por naturaleza” campaign, calling for adaptation and energy efficiency. The statement does not report implementation results.",
+        "es": "Ante el riesgo de apagón por El Niño, el Gobierno de Colombia fijó el 31 de diciembre como plazo definitivo para ejecutar todas las medidas preventivas y destinó 2,7 billones de pesos al Plan Energía Ya, informó la Presidencia de Colombia. El anuncio no detalla esas medidas: señala que buscan garantizar el respaldo térmico, sanear deudas del sector y fortalecer la infraestructura eléctrica.\n\nEl Ministerio de Minas y Energía de Colombia puso en marcha el plan, según Semana. La Presidencia también informó que estableció un esquema regulatorio de incentivos tarifarios para premiar el ahorro y lanzó la campaña «Recursivos por naturaleza», con un llamado a la adaptación y la eficiencia energética. El comunicado no informa resultados de ejecución."
+      },
+      "exposure": {
+        "sectors": [
+          "energy",
+          "infrastructure"
+        ],
+        "assets_or_markets": [
+          "Colombian electricity supply",
+          "Thermal generation",
+          "Power-sector receivables"
+        ],
+        "transmission_path": [
+          "Plan funding allocation",
+          "Thermal backup and power-sector debt settlement",
+          "Electricity supply reliability"
+        ],
+        "variables": [
+          "Thermal generation availability",
+          "Power-sector arrears",
+          "Electricity infrastructure investment",
+          "Electricity supply reliability"
+        ]
+      },
+      "assessment": {
+        "confidence": "moderate",
+        "direction": "unclear",
+        "text": {
+          "en": "The allocation and deadline do not establish an improvement in electricity supply. For generators and users, the effective change depends on funding translating into thermal backup and infrastructure; the announcement does not establish that available generation has increased.",
+          "es": "El monto y el plazo no acreditan una mejora de la oferta eléctrica. Para generadores y usuarios, el cambio efectivo depende de que la asignación se traduzca en respaldo térmico e infraestructura; el anuncio no permite concluir que haya aumentado la generación disponible."
+        }
+      },
+      "watch": {
+        "en": "An official implementation report for Plan Energía Ya detailing thermal backup and debts settled.",
+        "es": "Un informe oficial de ejecución del Plan Energía Ya que detalle el respaldo térmico y las deudas saneadas."
+      },
+      "sources": [
+        "https://x.com/infopresidencia/status/2114003671809696104",
+        "https://elheraldo.co/colombia/2026/10/24/el-plan-energia-ya-con-27-billones-de-destinacion-y-una-meta-hasta-el-31-de-diciembre-para-evitar-el-apagon",
+        "https://semana.com/politica/articulo/gobierno-fijo-plazo-definitivo-para-ejecutar-medidas-preventivas-para-enfrentar-el-riesgo-de-un-apagon-por-el-fenomeno-de-el-nino/202603",
+        "https://x.com/petrogustavo/status/2114034601328779517"
+      ],
+      "countries": [
+        "CO"
+      ],
+      "story_class": "continuation"
+    },
+    {
+      "id": "latam-2026-10-25-68e30b7e2e",
+      "status": "CLAIM",
+      "tier": "brief",
+      "heading": {
+        "en": "El Economista: Mexico publishes customs reforms taking effect in 2027",
+        "es": "Según El Economista, México publica reformas aduaneras para 2027"
+      },
+      "text": {
+        "en": "According to El Economista, Mexico published amendments to its Customs Law in the DOF that will take effect in 2027. They include new provisions for reviewing declared goods values, precautionary seizure procedures and fines related to hydrocarbons and petroleum products. The report does not specify fine amounts or detail the new valuation rules.",
+        "es": "Según El Economista, México publicó en el DOF reformas a la Ley Aduanera que entrarán en vigor en 2027. Incluyen nuevas disposiciones para revisar el valor declarado de las mercancías, procedimientos de embargo precautorio y multas relacionadas con hidrocarburos y petrolíferos. El reporte no precisa los montos de las sanciones ni detalla las nuevas reglas de valoración."
+      },
+      "exposure": {
+        "sectors": [
+          "energy",
+          "logistics"
+        ],
+        "assets_or_markets": [
+          "Mexican hydrocarbon imports",
+          "Petroleum-product customs clearance"
+        ],
+        "transmission_path": [
+          "Customs Law amendments",
+          "Valuation and precautionary seizure procedures",
+          "Hydrocarbon import compliance requirements"
+        ],
+        "variables": [
+          "Customs compliance costs",
+          "Precautionary seizure exposure",
+          "Hydrocarbon-related fines"
+        ]
+      },
+      "assessment": null,
+      "watch": {
+        "en": "Official text of the provisions on valuation, precautionary seizure and fines.",
+        "es": "Texto oficial de las disposiciones sobre valoración, embargo precautorio y multas."
+      },
+      "sources": [
+        "https://eleconomista.com.mx/sectorfinanciero/publican-dof-reformas-ley-aduanera-entraran-vigor-20261024-840312.html"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "story_class": "structural"
+    }
+  ],
+  "tracking": [
+    {
+      "situation_id": "latam-falklands-uk-announces-protection-in-res-566973",
+      "title": {
+        "en": "Falklands: UK announces protection in response to Argentine measures",
+        "es": "Malvinas: Reino Unido anuncia protección ante las medidas argentinas"
+      },
+      "line": {
+        "en": "No material change. The removal reduces a barrier to US capital, but does not establish an unconditional opening. Without the rule's scope, investors cannot determine which transactions are now permitted.",
+        "es": "Sin cambio material. La exclusión reduce una barrera para el capital estadounidense, pero no acredita una apertura sin condiciones. Sin conocer el alcance de la norma, los inversores no pueden deducir qué operaciones quedan habilitadas."
+      }
+    },
+    {
+      "situation_id": "latam-rodrigo-lara-activates-90-day-plan-for-p-1b9cfc",
+      "title": {
+        "en": "Rodrigo Lara activates 90-day plan for prior consultations",
+        "es": "Rodrigo Lara activa plan de 90 días para consultas previas"
+      },
+      "line": {
+        "en": "No material change. Completing consultations for the priority projects could remove a constraint on their execution schedules. The effect depends on community agreements translating into completed cases, rather than digital processing alone.",
+        "es": "Sin cambio material. Cerrar consultas de los proyectos priorizados podría liberar un bloqueo de sus calendarios de ejecución. El efecto depende de que los acuerdos con las comunidades se traduzcan en expedientes concluidos, no solo en tramitación digital."
+      }
+    },
+    {
+      "situation_id": "latam-argentina-infobae-puts-jp-morgan-soverei-e55d8f",
+      "title": {
+        "en": "Argentina: Infobae puts JP Morgan sovereign spread at 648 basis points",
+        "es": "Argentina: Infobae sitúa el riesgo país de JP Morgan en 648 puntos"
+      },
+      "line": {
+        "en": "No material change. The wider spread raises the yield demanded of the sovereign to obtain financing. It does not demonstrate an inability to pay: Infobae presents that difficulty as a risk conditional on markets remaining closed.",
+        "es": "Sin cambio material. El mayor spread eleva el rendimiento exigido al soberano para obtener financiamiento. No demuestra una incapacidad de pago: Infobae plantea esa dificultad como un riesgo condicionado a que los mercados sigan cerrados."
+      }
+    }
+  ],
+  "context": {
+    "text": {
+      "en": "Indonesia announced natural gas export cuts to Singapore to prioritize domestic industry, according to Antara; Bloomberg reported that pipeline shipment reductions had begun, without volumes or a duration. Ukraine’s Defense Ministry reported strikes on Proton-Electrotex, a missile-component manufacturer in Oryol, Russia, and Tolyattikauchuk, a producer of synthetic rubber used in solid rocket fuel in Tolyatti, Russia. Without information on shutdowns or lost capacity, the strikes do not establish a reduction in supply.",
+      "es": "Indonesia anunció recortes de gas natural a Singapur para priorizar su industria, según Antara; Bloomberg reportó que la reducción de envíos por gasoducto ya comenzó, sin cifras ni duración. El Ministerio de Defensa de Ucrania informó de ataques contra Proton-Electrotex, fabricante de componentes para misiles en Oriol, Rusia, y Tolyattikauchuk, productor de caucho sintético utilizado en combustible sólido para cohetes en Toliatti, Rusia. Sin datos de paradas o pérdida de capacidad, los ataques no permiten establecer una reducción de la oferta."
+    }
+  },
+  "content_hash": "9738522ad71e340b5a83f786fec055f72427e983699f1592c2bc164af8b8ce9f",
+  "license": "CC-BY-4.0"
+}

@@ -1,219 +1,183 @@
-# Aldra SITREP · LATAM · 2026-10-27
+# Aldra SITREP · LATAM · 2026-10-28
 
 ## Español
 
-Edición: de respaldo · Sectores: Commodities, Energía, Minería, Agro, Logística, Infraestructura, Seguridad, Finanzas soberanas · Publicada: 2026-10-27T07:44:12.520Z  
-Web: https://aldraresearch.com/sitreps/latam-2026-10-27  
+Edición: de respaldo · Sectores: Energía, Logística, Commodities, Infraestructura · Publicada: 2026-10-28T07:45:23.056Z  
+Web: https://aldraresearch.com/sitreps/latam-2026-10-28  
 Licencia: CC BY 4.0
 
-### En Brasil, acreedores de Braskem extienden la negociación de deuda al 30 de octubre. En Chile, Codelco firma con BHP un acuerdo de exploración.
+### Según Reuters, el primer crudo de Venezuela del acuerdo US-NABEP llegó a Texas, Estados Unidos.
 
-Los bonistas de la petroquímica brasileña Braskem ampliaron al 30 de octubre el plazo para un acuerdo de principios; proponen reducir deuda en al menos US$ 3.700 millones. Codelco firmó con BHP un acuerdo para explorar Anillo, en Chile, sin inicio de trabajos informado. México reanudó exportaciones de ganado en pie a Estados Unidos por Puerto Palomas. El Universal reporta cierres parciales de transportistas en al menos 27 estados de México, con posibles demoras logísticas. En Brasil, el Ibovespa cayó 13,88% tras la reelección de Lula, según Valor Economico, que reporta la cancelación de subastas de deuda. Según Clarin, el Ministerio de Economía de Argentina admitió Agua Rica al RIGI; el proyecto prevé más de US$ 6.300 millones de inversión.
+Según Reuters, llegó a Texas, Estados Unidos, el primer crudo venezolano del acuerdo US-NABEP; será vendido a Exxon y Citgo. En Brasil, Estadao reporta que la deuda de Eletronuclear sigue sin resolverse, con 240 días para decidir sobre la central nuclear Angra 3. AXIA Energia obtuvo R$680 millones del Banco Interamericano de Desarrollo que prevé destinar a transmisión en Río Grande del Norte, según Petronotícias. En Perú, las reservas de gas cayeron 65% entre 2013 y 2025, según el Libro Anual de Recursos de Hidrocarburos 2025 citado por Rumbo Minero. En México, el déficit petrolero llegó a US$25.600 millones, US$3.300 millones más que en enero–agosto, según Energía a Debate, que cita al Inegi. Para Sudamérica, Rystad prevé una factura de importación de GNL 46,3% mayor por la guerra en Oriente Medio, según eixos.
 
 ### Situaciones principales
 
-#### 1. Brasil: acreedores de Braskem extienden al 30 de octubre la negociación
+#### 1. Venezuela: Reuters reporta primer crudo del acuerdo US-NABEP en Texas
 
-Un grupo de tenedores de bonos de Braskem, la petroquímica de Brasil, confirmó en un comunicado del 26 de octubre que extendió hasta el 30 de octubre el plazo para alcanzar un «acuerdo de principios» sobre su reestructuración financiera, informó Valor Economico. El plazo inicial había vencido el 9 de octubre.
+Según Reuters, el primer petróleo venezolano del acuerdo US-NABEP llegó a Texas, Estados Unidos, y será vendido a Exxon y Citgo. La Tercera atribuye el envío a la petrolera Nabep y reporta que Donald Trump y Marco Rubio acudieron el martes al puerto de Corpus Christi para presenciar la llegada de uno de los buques.
 
-Los acreedores proponen una reducción inmediata del apalancamiento de al menos US$ 3.700 millones al cierre, mediante un compromiso firme de aporte de los accionistas de US$ 1.850 millones y la conversión de US$ 1.850 millones de deuda en acciones. Es una propuesta, no un acuerdo cerrado.
+El Universal describe el embarque como parte de un acuerdo entre Estados Unidos y Venezuela, firmado por Delcy Rodríguez, presidenta interina venezolana, y Donald Trump. La venta a Exxon y Citgo aparece en el reporte de Reuters como una operación futura, distinta de la llegada del petróleo.
 
-Las negociaciones incluyen a Braskem y a sus controladores, Petrobras e IG4 Capital. Compañía y acreedores presentaron propuestas entre el 23 y el 24 de octubre y aún diferían sobre determinados valores y plazos. El grupo de acreedores afirmó seguir comprometido con una solución consensuada.
+Exposición: Energía, Logística, Commodities · reported cargo arrival → planned sales to US buyers → potential recurring crude supply · cargo volumes, sale completion, supply continuity  
+**Evaluación de Aldra** (confianza: baja, dirección: incierta). Si se confirma, el arribo daría respaldo operativo al acuerdo, pero una entrega no acredita un flujo recurrente. Para compradores de crudo, la confirmación de las ventas y la repetición de cargamentos separarían una nueva vía de suministro de una operación aislada.
 
-Exposición: Commodities, Energía · Creditor restructuring proposal → Shareholder capital and debt conversion → Potential balance-sheet deleveraging · Leverage, Equity contributions, Debt conversion terms, Shareholder dilution  
-**Evaluación de Aldra** (confianza: moderada, dirección: incierta). La conversión propuesta reduciría deuda a cambio de participación accionaria, diluyendo a los accionistas actuales. Para bonistas e inversores, la mejora del balance sigue condicionada a un acuerdo sobre montos y plazos.
-
-**Qué vigilar.** Acuerdo de principios publicado por Braskem o sus acreedores al vencer la prórroga del 30 de octubre.
+**Qué vigilar.** Confirmación de la venta a Exxon y Citgo o llegada de otro cargamento del acuerdo.
 
 Fuentes:
-- https://valor.globo.com/empresas/noticia/2026/10/26/credores-confirmam-prorrogao-de-prazo-e-avano-em-negociao-para-reestruturao-da-braskem.ghtml
-- https://exame.com/insight/credores-da-braskem-dao-mais-prazo-para-acordo-e-pedem-aporte-de-us-185-bilhao/p
-
-#### 2. Chile: Codelco firma un acuerdo para explorar el Proyecto Anillo
-
-Codelco anunció la firma de un acuerdo con BHP, su contraparte en el convenio de exploración, para iniciar la exploración del Proyecto Anillo en Chile. Mineria Chilena situó la iniciativa en la Región de Antofagasta y señaló que el pacto permitirá avanzar en su evaluación geológica. No se informó que los trabajos hayan comenzado.
-
-Exposición: Minería · Exploration agreement → Geological evaluation → Future project pipeline · Exploration activity, Project evaluation milestones  
-
-**Qué vigilar.** Anuncio de Codelco sobre el inicio de la exploración del Proyecto Anillo.
-
-Fuentes:
-- https://news.google.com/rss/articles/CBMirgFBVV95cUxPMnhzV0ZicDRCZkdzTXhGelhjdkVkVmhkeUlBdXRHXy1tVUduZXFEb19SRExHeExkMUhWcGRodHgtTy1WNEs2Q3BkUHAxWEJ4ODJ6VS0xdWg5YWZrWUozcXdaWVJ2Ti1ydjg5UWsxeWJyODNvSkJmMnJ5RlJUOXVWeUVVNFZLUEFnMGo2R19wcmkwVDZ5dHFLeUJQWVpSeS12WjJiVXY3NkhSejF5OHc?oc=5
-- https://mch.cl/codelco-y-bhp-concretan-alianza-para-explorar-prospecto-minero
-
-#### 3. México reanuda exportaciones de ganado a Estados Unidos por Puerto Palomas
-
-México reanudó las exportaciones de ganado en pie a Estados Unidos desde Puerto Palomas, Chihuahua, informó la Secretaría de Agricultura y Desarrollo Rural de México. El Economista identificó el paso reactivado como Palomas-Columbus y señaló que la Confederación Nacional de Organizaciones Ganaderas reiteró su compromiso de cumplir rigurosamente cada requisito zoosanitario exigido. Las fuentes no informan volúmenes exportados ni la reanudación de otros cruces.
-
-Exposición: Agro, Logística · cross-border cattle exports resume → market access restored at named crossing → live cattle export throughput · Live cattle export volumes, United States market access  
-
-**Qué vigilar.** Los volúmenes de ganado despachados por el cruce Palomas-Columbus.
-
-Fuentes:
-- https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHdQZUoxSjUxVGpZOXNzWjFrdGdVa3NBRlN3ZEVOZGVzTklkQjd1Y0ZQMHFfLURZdEFEd3ZTT1d1SjhEak1ScG5TM1FlT184UHIzcWt0NXp5RGd6Mjg2ZzlIOGJNWEhKNFFFZXI4YjdpREFFeGZuWDlQS2E0R0RpNFVRb19UbVNtU3FFQnk4OVM5R3M0RjN5ZGc3clNiajVQX1cyb1RuNFlQMXpvMWtyYVNqYm5kMUNBekozYjI0MzVGeHpneHdnMQ?oc=5
-- https://eleconomista.com.mx/empresas/reactivan-cruce-palomas-columbus-exportacion-ganado-bovino-estados-unidos-20261026-840637.html
-
-#### 4. México: según El Universal, transportistas cierran vías en al menos 27 estados
-
-El Universal reportó caravanas y cierres parciales de vías por transportistas en al menos 27 estados de México para exigir seguridad. Reforma informó un bloqueo en Calzada Vallejo como parte del paro nacional, cuyas demandas incluyen frenar las extorsiones y mejorar las vialidades.
-
-El Economista reportó afectaciones en la carretera y los accesos al aeropuerto de Cancún, México. José Antonio Gamboa, delegado de Canacar en Quintana Roo, México, dijo al medio que el objetivo era convocar al diálogo con las autoridades, no bloquear la circulación.
-
-En Guadalajara, México, El Economista describió decenas de camiones en las carreteras a Zapotlanejo, Manzanillo, Nogales y Chapala, sin cortar la circulación. Otro texto del mismo medio sostuvo que el paro nacional no produjo el caos esperado.
-
-Exposición: Logística, Infraestructura, Seguridad · Trucker protests → Partial road closures → Transit delays and delivery rescheduling · Freight transit times, Road availability, Airport access, Delivery schedules  
-**Evaluación de Aldra** (confianza: moderada, dirección: se deteriora). Los cierres parciales pueden elevar los tiempos de tránsito y alterar la programación de entregas para cargadores y operadores logísticos. Los reportes no miden retrasos ni tonelaje detenido; la reapertura de Vallejo o la normalización de los accesos a Cancún permitirían acotar la disrupción.
-
-**Qué vigilar.** Avisos de reapertura de Calzada Vallejo y de normalización de los accesos al aeropuerto de Cancún.
-
-Fuentes:
-- https://eluniversal.com.mx/nacion/transportistas-bloquean-carreteras-en-27-estados-exigen-seguridad
-- https://reforma.com/bloquean-transportistas-calzada-vallejo/ar3302523
-- https://eleconomista.com.mx/estados/paro-transportistas-escala-cancun-desquicia-carretera-accesos-aeropuerto-20261026-840587.html
-- https://eleconomista.com.mx/estados/autotransportistas-movilizan-cuatro-accesos-guadalajara-20261026-840584.html
-- https://eleconomista.com.mx/opinion/autotransporte-golpe-fiscal-20261026-840661.html
-
-#### 5. Brasil: según Valor Economico, Ibovespa cae 13,88% tras triunfo de Lula
-
-Tras la reelección de Lula, el Ibovespa de Brasil cerró el lunes 26 con una caída del 13,88%, en 176.608 puntos, según Valor Economico. Estadao confirmó que B3, la bolsa brasileña, activó el circuit breaker; Valor Economico reportó una pausa de 30 minutos. Canal Rural informó que el dólar cerró en R$ 5,4029, con una suba del 8,21%, tras superar R$ 5,60 durante la sesión.
-
-Valor Economico reportó que el Tesoro Nacional de Brasil intervino dos veces en el mercado de títulos públicos y canceló las subastas de NTN-B y títulos a tasa fija de esta semana. La tasa del DI con vencimiento en enero de 2029 pasó del 12,64% al 15,25%; el CDS soberano a cinco años, de 120,21 a 143,87 puntos, su nivel más alto desde marzo de 2026.
-
-El mismo medio atribuyó la liquidación a posiciones preparadas para una victoria opositora. También informó que exportadores repatriaron dólares aprovechando la depreciación del real.
-
-Exposición: Finanzas soberanas, Commodities · Post-election position liquidation → Higher interest rates and weaker real → Costlier issuer funding and disrupted sovereign auctions · Equity prices, Sovereign CDS, Local interest rates, Exchange rate, Government bond issuance, Exporter dollar repatriation  
-**Evaluación de Aldra** (confianza: moderada, dirección: se deteriora). Para emisores y proyectos brasileños, tasas más altas y un real más débil pueden encarecer el crédito local y los compromisos en dólares. La cancelación de subastas afecta la financiación programada del soberano, sin demostrar una pérdida duradera de acceso al mercado.
-
-**Qué vigilar.** Aviso del Tesoro Nacional de Brasil sobre la reanudación de las subastas de deuda canceladas.
-
-Fuentes:
-- https://valor.globo.com/financas/noticia/2026/10/26/ibovespa-passa-por-circuit-breaker-e-cai-quase-14percent-com-liquidacao-apos-vitoria-de-lula.ghtml
-- https://estadao.com.br/economia/como-a-turbulencia-nos-mercados-pode-impactar-na-pratica-a-economia-real-npr
-- https://canalrural.com.br/economia/dolar-fecha-a-r-54029-e-tem-maior-alta-diaria-desde-1999
-- https://canalrural.com.br/economia/ibovespa-fecha-em-queda-de-1388-e-dolar-comercial-sobe-821
-- https://valor.globo.com/financas/noticia/2026/10/26/juros-futuros-disparam-apos-vitoria-de-lula-e-leva-a-intervencoes-do-tesouro.ghtml
-- https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml
-- https://valor.globo.com/financas/noticia/2026/10/26/cds-do-brasil-dispara-ao-maior-nvel-desde-maro-aps-vitria-de-lula.ghtml
-- https://valor.globo.com/financas/intraday/post/2026/10/exportadores-aproveitam-turbulencia-no-dolar-para-trazer-recursos-de-volta-ao-brasil.ghtml
+- https://news.google.com/rss/articles/CBMivAFBVV95cUxOajN2UFlXd0wwM25Bd0ZIVVRPcEZQQkQydTRBQXBuT0RuYnBFRnFqbF9rYTZxdFhqWnBYYk10M0U3RGhXd1lReE5ndTk2VEd1SUI4SEUzLWx6YWRHOTBZaXdyOTFDMm9Cc1JjQ1ZPRHF2empCUy1wUmxaX2NnckhZeFFMOExJVnNHODU5YThsUWZ2RVRUX2xobXk4UUlLSDFvNFB6ZjhIVWZMRF9KYjhqcmVQUFhYUTlSLWdYaw?oc=5
+- https://eluniversal.com.mx/mundo/texas-recibe-primer-cargamento-de-petroleo-venezolano-embarque-forma-parte-de-acuerdo-entre-eu-y-venezuela
+- https://latercera.com/mundo/noticia/tras-acuerdo-con-eeuu-petrolera-nabep-envia-a-texas-primer-cargamento-de-crudo-venezolano
 
 ### Otros desarrollos
 
-#### 6. Según Clarin, Argentina incorpora el proyecto Agua Rica al RIGI
+#### 2. Brasil: acreedores de Eletronuclear traban Angra 3, según Estadao
 
-Según Clarin, el Ministerio de Economía de Argentina aprobó el ingreso del proyecto Agua Rica al régimen RIGI mediante una resolución publicada este martes en el Boletín Oficial. El desarrollo en Catamarca prevé una inversión total superior a US$ 6.300 millones, la explotación de cobre, oro, plata y molibdeno y una vida útil de 23 años. La aprobación es un paso regulatorio; la inversión y la vida útil son previsiones del proyecto.
+Con la orden del Tribunal de Contas da União (TCU) de Brasil de decidir en 240 días sobre Angra 3, Estadao reporta que el cambio accionario de Eletronuclear —la estatal responsable de las centrales— ya se formalizó: salió Axia Energia y entró Âmbar Energia. Pero la negociación con los acreedores sigue sin plazo de cierre.
 
-Exposición: Minería · project admission to RIGI reported → regulatory milestone → planned mining capital deployment · Project investment, Mining project approvals, Development timing  
+Según Estadao, los acreedores deben aceptar las contrapartidas ofrecidas por la nueva accionista para resolver la deuda. Si la Unión decide retomar Angra 3 sin zanjar ese punto, el nuevo socio queda desobligado respecto del proyecto. Una fuente de alto nivel del Gobierno citada por el diario dijo que se estudia decidir al margen de ese proceso, aunque la tendencia sigue siendo continuar las obras de la tercera central nuclear en Angra dos Reis, Brasil. El Supremo Tribunal Federal (STF) validó a fines de 2025 el acuerdo entre Eletrobras, actual Axia Energia, y la Unión que facilitó la venta de su participación en Eletronuclear.
 
-**Qué vigilar.** El primer desembolso de inversión para Agua Rica.
+Exposición: Energía, Infraestructura · unresolved creditor agreement → conditional shareholder obligations → uncertainty over project resumption · creditor consent, shareholder commitments, construction decision timing  
+**Evaluación de Aldra** (confianza: moderada, dirección: incierta). La decisión sobre la obra y el compromiso del nuevo socio pueden desacoplarse. Para financiadores y contratistas, una decisión de reanudación no resolvería por sí sola el riesgo contractual: la aceptación de las contrapartidas por los acreedores sigue siendo una señal decisiva.
+
+**Qué vigilar.** Aceptación de las contrapartidas por los acreedores de Eletronuclear antes de la decisión sobre Angra 3.
 
 Fuentes:
-- https://clarin.com/economia/gobierno-aprobo-proyecto-minero-dentro-rigi-preve-inversion-total-us-6300-millones-catamarca_0_XivSwdxGAw.html
+- https://capitalagora.com.br/noticia/tratativas-com-credores-da-eletronuclear-sao-principal-trava-para
+- https://estadao.com.br/economia/coluna-da-broad/tratativas-com-credores-da-eletronuclear-sao-principal-trava-para-avanco-de-angra-3
+
+#### 3. Brasil: Petronotícias reporta R$680 millones del BID para AXIA Energia
+
+Según Petronotícias, AXIA Energia obtuvo R$680 millones del Banco Interamericano de Desarrollo (BID) que prevé invertir en el desarrollo e implantación del Lote 7 de transmisión en Río Grande del Norte, Brasil. La empresa ganó el lote en la subasta de octubre de 2025 de la Agencia Nacional de Energía Eléctrica (Aneel) de Brasil.
+
+Exposición: Energía, Infraestructura · reported development-bank financing → planned project investment → transmission construction · funding deployment, construction progress, transmission capacity  
+
+**Qué vigilar.** Inicio de las obras del Lote 7 financiadas con los fondos anunciados.
+
+Fuentes:
+- https://petronoticias.com.br/a-axia-energia-consegue-financiamento-de-r-680-milhoes-no-bid-para-implantar-a-linha-de-transmissao-do-lote-7-no-rio-grande-do-norte
+
+#### 4. Perú: según Rumbo Minero, las reservas de gas cayeron 65%
+
+Las reservas totales de gas natural de Perú cayeron 65% entre 2013 y 2025, según el Libro Anual de Recursos de Hidrocarburos 2025 citado por Rumbo Minero. El reporte atribuye la caída a la producción acumulada y la limitada incorporación de nuevos proyectos. El gremio SPH advierte que la reposición es insuficiente y pide atraer inversión en exploración para fortalecer la seguridad energética.
+
+Exposición: Energía · Production and limited new projects → Lower gas reserves → Long-term supply exposure · Natural-gas reserves, Reserve replacement, Exploration investment  
+**Evaluación de Aldra** (confianza: moderada, dirección: se deteriora). La caída de reservas apunta a un problema de reposición para el abastecimiento de largo plazo; no demuestra una interrupción actual del suministro. Para usuarios e inversores en gas, la señal decisiva sería la incorporación efectiva de reservas, no sólo anuncios de exploración.
+
+**Qué vigilar.** Nuevas reservas incorporadas en la próxima edición del Libro Anual de Recursos de Hidrocarburos.
+
+Fuentes:
+- https://mineriaenergia.com/sph-peru-pierde-65-de-sus-reservas-totales-de-gas-natural-en-doce-anos-y-urge-necesidad-de-exploracion
+- https://rumbominero.com/peru/noticias/hidrocarburos/sph-peru-pierde-65-de-sus-reservas-de-gas-natural-en-doce-anos-y-urge-impulsar-la-exploracion
+
+#### 5. México: Inegi reporta déficit petrolero de US$25.600 millones
+
+Según Energía a Debate, la balanza comercial petrolera de México registra un déficit acumulado de US$25.600 millones en lo que va del año. El reporte cita al Inegi, que informó que ese saldo deficitario aumentó US$3.300 millones respecto del período comprendido entre enero y agosto.
+
+Exposición: Energía, Commodities · Wider petroleum trade deficit → Greater net external petroleum expenditure · Petroleum trade balance, Net petroleum import value  
+
+**Qué vigilar.** Próximo reporte del Inegi sobre la balanza comercial petrolera de México.
+
+Fuentes:
+- https://energiaadebate.com/registra-balanza-comercial-petrolera-deficit-de-25-6-mil-millones-de-dls-en-lo-que-va-del-ano
+
+#### 6. Sudamérica: Rystad prevé un 46,3% más de costo al importar GNL
+
+Rystad estima que la guerra en Oriente Medio elevará en US$39.000 millones el costo mundial de importar GNL en 2026, según eixos. Para América del Sur, donde Brasil figura entre los principales importadores, calcula que la factura será un 46,3% mayor por los efectos del conflicto.
+
+Exposición: Energía · Middle East war → Higher estimated LNG import bill → Importer procurement costs · LNG import costs, LNG procurement costs  
+
+**Qué vigilar.** El gasto efectivo en importaciones de GNL de América del Sur durante 2026 frente a la estimación de Rystad.
+
+Fuentes:
+- https://eixos.com.br/gas-natural/mercado-de-gas/guerra-aumenta-em-us-39-bi-o-custo-de-importacao-de-gnl-no-mundo-em-2026-estima-rystad
 
 ## English
 
-Edition: fallback · Sectors: Commodities, Energy, Mining, Agriculture, Logistics, Infrastructure, Security, Sovereign finance · Published: 2026-10-27T07:44:12.520Z  
-Web: https://aldraresearch.com/sitreps/latam-2026-10-27  
+Edition: fallback · Sectors: Energy, Logistics, Commodities, Infrastructure · Published: 2026-10-28T07:45:23.056Z  
+Web: https://aldraresearch.com/sitreps/latam-2026-10-28  
 License: CC BY 4.0
 
-### In Brazil, Braskem creditors extend debt talks to October 30. In Chile, Codelco signs an exploration agreement with BHP.
+### Reuters reports that the first Venezuelan crude under the US-NABEP deal arrived in Texas, United States.
 
-Bondholders in Brazilian petrochemical company Braskem extended the deadline for an agreement in principle to October 30; they propose debt reduction of at least US$3.7 billion. Codelco signed an agreement with BHP to explore Anillo in Chile; work has not been reported as started. Mexico resumed live cattle exports to the United States through Puerto Palomas. El Universal reports partial road closures by truckers in at least 27 Mexican states, with possible logistics delays. Brazil's Ibovespa fell 13.88% following Lula's reelection, according to Valor Economico, which reports canceled debt auctions. According to Clarin, Argentina's Ministry of Economy admitted Agua Rica to RIGI; the project envisages investment exceeding US$6.3 billion.
+Reuters reports that the first Venezuelan crude under the US-NABEP deal reached Texas, United States; it will be sold to Exxon and Citgo. In Brazil, Estadao reports that Eletronuclear's debt remains unresolved, with 240 days to decide on the Angra 3 nuclear plant. AXIA Energia secured R$680 million from the Inter-American Development Bank that it plans to invest in transmission in Rio Grande do Norte, according to Petronotícias. Peru's gas reserves fell 65% between 2013 and 2025, according to the Libro Anual de Recursos de Hidrocarburos 2025 cited by Rumbo Minero. Mexico's petroleum deficit reached US$25.6 billion, US$3.3 billion more than in January–August, according to Energía a Debate, citing Inegi. For South America, Rystad projects a 46.3% higher LNG import bill because of the Middle East war, according to eixos.
 
 ### Main situations
 
-#### 1. Brazil: Braskem creditors extend restructuring talks until October 30
+#### 1. Venezuela: Reuters reports first US-NABEP deal crude arriving in Texas
 
-A group of bondholders in Braskem, the Brazilian petrochemical company, confirmed in an October 26 statement that it extended the deadline to October 30 to reach an “agreement in principle” on its financial restructuring, Valor Economico reported. The original deadline had expired on October 9.
+According to Reuters, the first Venezuelan oil from the US-NABEP deal arrived in Texas, United States, and will be sold to Exxon and Citgo. La Tercera attributes the shipment to oil company Nabep and reports that Donald Trump and Marco Rubio visited the port of Corpus Christi on Tuesday to witness the arrival of one of the vessels.
 
-The creditors propose immediate deleveraging of at least US$3.7 billion at closing, through a firm US$1.85 billion shareholder capital commitment and conversion of US$1.85 billion of debt into equity. This remains a proposal, not a completed agreement.
+El Universal describes the shipment as part of an agreement between the United States and Venezuela, signed by Delcy Rodríguez, Venezuela's interim president, and Donald Trump. Reuters presents the sale to Exxon and Citgo as a future transaction, distinct from the oil's arrival.
 
-The negotiations involve Braskem and its controlling shareholders, Petrobras and IG4 Capital. The company and creditors presented proposals between October 23 and 24 and still differed over certain amounts and timelines. The creditor group said it remained committed to a consensual solution.
+Exposure: Energy, Logistics, Commodities · reported cargo arrival → planned sales to US buyers → potential recurring crude supply · cargo volumes, sale completion, supply continuity  
+**Aldra assessment** (confidence: low, direction: unclear). If confirmed, the arrival would give the agreement operational backing, but one delivery does not establish a recurring flow. For crude buyers, confirmed sales and repeat cargoes would distinguish a new supply channel from an isolated transaction.
 
-Exposure: Commodities, Energy · Creditor restructuring proposal → Shareholder capital and debt conversion → Potential balance-sheet deleveraging · Leverage, Equity contributions, Debt conversion terms, Shareholder dilution  
-**Aldra assessment** (confidence: moderate, direction: unclear). The proposed conversion would reduce debt in exchange for equity, diluting existing shareholders. For bondholders and investors, balance-sheet improvement remains conditional on agreement over amounts and timelines.
-
-**What to watch.** An agreement in principle published by Braskem or its creditors when the October 30 extension expires.
+**What to watch.** Confirmation of the sale to Exxon and Citgo or arrival of another cargo under the agreement.
 
 Sources:
-- https://valor.globo.com/empresas/noticia/2026/10/26/credores-confirmam-prorrogao-de-prazo-e-avano-em-negociao-para-reestruturao-da-braskem.ghtml
-- https://exame.com/insight/credores-da-braskem-dao-mais-prazo-para-acordo-e-pedem-aporte-de-us-185-bilhao/p
-
-#### 2. Chile: Codelco signs agreement to explore the Anillo project
-
-Codelco announced an agreement with BHP, its counterparty in the exploration agreement, to begin exploration of the Anillo project in Chile. Mineria Chilena located the initiative in the Antofagasta Region and said the agreement would advance its geological evaluation. The sources did not report that work had begun.
-
-Exposure: Mining · Exploration agreement → Geological evaluation → Future project pipeline · Exploration activity, Project evaluation milestones  
-
-**What to watch.** A Codelco announcement that exploration of the Anillo project has begun.
-
-Sources:
-- https://news.google.com/rss/articles/CBMirgFBVV95cUxPMnhzV0ZicDRCZkdzTXhGelhjdkVkVmhkeUlBdXRHXy1tVUduZXFEb19SRExHeExkMUhWcGRodHgtTy1WNEs2Q3BkUHAxWEJ4ODJ6VS0xdWg5YWZrWUozcXdaWVJ2Ti1ydjg5UWsxeWJyODNvSkJmMnJ5RlJUOXVWeUVVNFZLUEFnMGo2R19wcmkwVDZ5dHFLeUJQWVpSeS12WjJiVXY3NkhSejF5OHc?oc=5
-- https://mch.cl/codelco-y-bhp-concretan-alianza-para-explorar-prospecto-minero
-
-#### 3. Mexico resumes live cattle exports to United States via Puerto Palomas
-
-Mexico resumed live cattle exports to the United States from Puerto Palomas, Chihuahua, Mexico's Secretaría de Agricultura y Desarrollo Rural announced. El Economista identified the reactivated crossing as Palomas-Columbus and said the Confederación Nacional de Organizaciones Ganaderas reiterated its commitment to strict compliance with every required animal-health condition. The sources report neither export volumes nor the resumption of other crossings.
-
-Exposure: Agriculture, Logistics · cross-border cattle exports resume → market access restored at named crossing → live cattle export throughput · Live cattle export volumes, United States market access  
-
-**What to watch.** Live cattle volumes dispatched through the Palomas-Columbus crossing.
-
-Sources:
-- https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHdQZUoxSjUxVGpZOXNzWjFrdGdVa3NBRlN3ZEVOZGVzTklkQjd1Y0ZQMHFfLURZdEFEd3ZTT1d1SjhEak1ScG5TM1FlT184UHIzcWt0NXp5RGd6Mjg2ZzlIOGJNWEhKNFFFZXI4YjdpREFFeGZuWDlQS2E0R0RpNFVRb19UbVNtU3FFQnk4OVM5R3M0RjN5ZGc3clNiajVQX1cyb1RuNFlQMXpvMWtyYVNqYm5kMUNBekozYjI0MzVGeHpneHdnMQ?oc=5
-- https://eleconomista.com.mx/empresas/reactivan-cruce-palomas-columbus-exportacion-ganado-bovino-estados-unidos-20261026-840637.html
-
-#### 4. Mexico: El Universal reports trucker road closures in at least 27 states
-
-El Universal reported trucker convoys and partial road closures in at least 27 Mexican states to demand security. Reforma reported a blockade on Calzada Vallejo as part of the national strike, whose demands include curbing extortion and improving roads.
-
-El Economista reported disruption on the highway and access roads to the airport in Cancún, Mexico. José Antonio Gamboa, Canacar delegate in Quintana Roo, Mexico, told the outlet that the objective was to secure dialogue with the authorities, not block traffic.
-
-In Guadalajara, Mexico, El Economista described dozens of trucks on the roads to Zapotlanejo, Manzanillo, Nogales and Chapala without blocking traffic. Another article from the same outlet said the national strike had not produced the expected chaos.
-
-Exposure: Logistics, Infrastructure, Security · Trucker protests → Partial road closures → Transit delays and delivery rescheduling · Freight transit times, Road availability, Airport access, Delivery schedules  
-**Aldra assessment** (confidence: moderate, direction: deteriorating). Partial closures can increase transit times and disrupt delivery schedules for shippers and logistics operators. The reports do not measure delays or stranded tonnage; reopening Vallejo or normalizing access to Cancún would help establish the extent of the disruption.
-
-**What to watch.** Notices reopening Calzada Vallejo and restoring normal access to Cancún airport.
-
-Sources:
-- https://eluniversal.com.mx/nacion/transportistas-bloquean-carreteras-en-27-estados-exigen-seguridad
-- https://reforma.com/bloquean-transportistas-calzada-vallejo/ar3302523
-- https://eleconomista.com.mx/estados/paro-transportistas-escala-cancun-desquicia-carretera-accesos-aeropuerto-20261026-840587.html
-- https://eleconomista.com.mx/estados/autotransportistas-movilizan-cuatro-accesos-guadalajara-20261026-840584.html
-- https://eleconomista.com.mx/opinion/autotransporte-golpe-fiscal-20261026-840661.html
-
-#### 5. Brazil: Valor Economico reports Ibovespa down 13.88% after Lula win
-
-Following Lula's reelection, Brazil's Ibovespa closed Monday the 26th down 13.88% at 176,608 points, according to Valor Economico. Estadao confirmed that B3, the Brazilian exchange, activated its circuit breaker; Valor Economico reported a 30-minute halt. Canal Rural reported that the dollar closed at R$5.4029, up 8.21%, after exceeding R$5.60 during the session.
-
-Valor Economico reported that Brazil's National Treasury intervened twice in the government bond market and canceled this week's NTN-B and fixed-rate bond auctions. The January 2029 DI rate rose from 12.64% to 15.25%; the five-year sovereign CDS rose from 120.21 to 143.87 points, its highest level since March 2026.
-
-The same outlet attributed the selloff to positions built for an opposition victory. It also reported that exporters repatriated dollars to take advantage of the real's depreciation.
-
-Exposure: Sovereign finance, Commodities · Post-election position liquidation → Higher interest rates and weaker real → Costlier issuer funding and disrupted sovereign auctions · Equity prices, Sovereign CDS, Local interest rates, Exchange rate, Government bond issuance, Exporter dollar repatriation  
-**Aldra assessment** (confidence: moderate, direction: deteriorating). For Brazilian issuers and projects, higher rates and a weaker real can raise local borrowing costs and the burden of dollar obligations. Canceling auctions disrupts scheduled sovereign funding without establishing a lasting loss of market access.
-
-**What to watch.** A notice from Brazil's National Treasury on resuming the canceled debt auctions.
-
-Sources:
-- https://valor.globo.com/financas/noticia/2026/10/26/ibovespa-passa-por-circuit-breaker-e-cai-quase-14percent-com-liquidacao-apos-vitoria-de-lula.ghtml
-- https://estadao.com.br/economia/como-a-turbulencia-nos-mercados-pode-impactar-na-pratica-a-economia-real-npr
-- https://canalrural.com.br/economia/dolar-fecha-a-r-54029-e-tem-maior-alta-diaria-desde-1999
-- https://canalrural.com.br/economia/ibovespa-fecha-em-queda-de-1388-e-dolar-comercial-sobe-821
-- https://valor.globo.com/financas/noticia/2026/10/26/juros-futuros-disparam-apos-vitoria-de-lula-e-leva-a-intervencoes-do-tesouro.ghtml
-- https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml
-- https://valor.globo.com/financas/noticia/2026/10/26/cds-do-brasil-dispara-ao-maior-nvel-desde-maro-aps-vitria-de-lula.ghtml
-- https://valor.globo.com/financas/intraday/post/2026/10/exportadores-aproveitam-turbulencia-no-dolar-para-trazer-recursos-de-volta-ao-brasil.ghtml
+- https://news.google.com/rss/articles/CBMivAFBVV95cUxOajN2UFlXd0wwM25Bd0ZIVVRPcEZQQkQydTRBQXBuT0RuYnBFRnFqbF9rYTZxdFhqWnBYYk10M0U3RGhXd1lReE5ndTk2VEd1SUI4SEUzLWx6YWRHOTBZaXdyOTFDMm9Cc1JjQ1ZPRHF2empCUy1wUmxaX2NnckhZeFFMOExJVnNHODU5YThsUWZ2RVRUX2xobXk4UUlLSDFvNFB6ZjhIVWZMRF9KYjhqcmVQUFhYUTlSLWdYaw?oc=5
+- https://eluniversal.com.mx/mundo/texas-recibe-primer-cargamento-de-petroleo-venezolano-embarque-forma-parte-de-acuerdo-entre-eu-y-venezuela
+- https://latercera.com/mundo/noticia/tras-acuerdo-con-eeuu-petrolera-nabep-envia-a-texas-primer-cargamento-de-crudo-venezolano
 
 ### Other developments
 
-#### 6. According to Clarin, Argentina admits the Agua Rica project to RIGI
+#### 2. Brazil: Eletronuclear creditors block Angra 3, Estadao reports
 
-According to Clarin, Argentina's Ministry of Economy approved admission of the Agua Rica project to the RIGI regime through a resolution published Tuesday in the Official Gazette. The development in Catamarca envisages total investment exceeding US$6.3 billion, production of copper, gold, silver and molybdenum, and a 23-year operating life. Approval is a regulatory step; the investment and operating life remain project forecasts.
+With Brazil's Tribunal de Contas da União (TCU) requiring a decision on Angra 3 within 240 days, Estadao reports that the shareholding change at Eletronuclear—the state company responsible for the plants—has been formalized: Axia Energia exited and Âmbar Energia entered. Negotiations with creditors, however, still have no completion deadline.
 
-Exposure: Mining · project admission to RIGI reported → regulatory milestone → planned mining capital deployment · Project investment, Mining project approvals, Development timing  
+According to Estadao, creditors must accept the arrangements offered by the new shareholder to resolve the debt. If the federal government decides to resume Angra 3 without settling that issue, the new partner is released from its obligations to the project. A senior government source cited by the newspaper said a decision independent of that process was being considered, although the inclination remains to continue construction of the third nuclear plant in Angra dos Reis, Brazil. The Supremo Tribunal Federal (STF) approved the agreement between Eletrobras, now Axia Energia, and the federal government in late 2025, facilitating the sale of its Eletronuclear stake.
 
-**What to watch.** The first investment disbursement for Agua Rica.
+Exposure: Energy, Infrastructure · unresolved creditor agreement → conditional shareholder obligations → uncertainty over project resumption · creditor consent, shareholder commitments, construction decision timing  
+**Aldra assessment** (confidence: moderate, direction: unclear). The construction decision and the new partner's commitment could become detached. For lenders and contractors, a decision to resume would not by itself resolve contractual risk: creditor acceptance of the proposed arrangements remains a decisive signal.
+
+**What to watch.** Acceptance of the proposed arrangements by Eletronuclear's creditors before the Angra 3 decision.
 
 Sources:
-- https://clarin.com/economia/gobierno-aprobo-proyecto-minero-dentro-rigi-preve-inversion-total-us-6300-millones-catamarca_0_XivSwdxGAw.html
+- https://capitalagora.com.br/noticia/tratativas-com-credores-da-eletronuclear-sao-principal-trava-para
+- https://estadao.com.br/economia/coluna-da-broad/tratativas-com-credores-da-eletronuclear-sao-principal-trava-para-avanco-de-angra-3
+
+#### 3. Brazil: Petronotícias reports R$680 million from BID for AXIA Energia
+
+According to Petronotícias, AXIA Energia secured R$680 million from the Inter-American Development Bank (BID) that it plans to invest in developing and building transmission Lot 7 in Rio Grande do Norte, Brazil. The company won the lot in the October 2025 auction held by Brazil's National Electric Energy Agency (Aneel).
+
+Exposure: Energy, Infrastructure · reported development-bank financing → planned project investment → transmission construction · funding deployment, construction progress, transmission capacity  
+
+**What to watch.** Start of Lot 7 construction financed by the announced funds.
+
+Sources:
+- https://petronoticias.com.br/a-axia-energia-consegue-financiamento-de-r-680-milhoes-no-bid-para-implantar-a-linha-de-transmissao-do-lote-7-no-rio-grande-do-norte
+
+#### 4. Peru: Rumbo Minero reports a 65% fall in gas reserves
+
+Peru's total natural-gas reserves fell 65% between 2013 and 2025, according to the Libro Anual de Recursos de Hidrocarburos 2025 cited by Rumbo Minero. The report attributes the decline to cumulative production and limited additions of new projects. The industry group SPH warns that replacement is insufficient and calls for exploration investment to strengthen energy security.
+
+Exposure: Energy · Production and limited new projects → Lower gas reserves → Long-term supply exposure · Natural-gas reserves, Reserve replacement, Exploration investment  
+**Aldra assessment** (confidence: moderate, direction: deteriorating). The reserve decline points to a replacement problem for long-term supply; it does not demonstrate a current supply interruption. For gas users and investors, the decisive signal would be actual reserve additions rather than exploration announcements alone.
+
+**What to watch.** New reserve additions in the next edition of the Libro Anual de Recursos de Hidrocarburos.
+
+Sources:
+- https://mineriaenergia.com/sph-peru-pierde-65-de-sus-reservas-totales-de-gas-natural-en-doce-anos-y-urge-necesidad-de-exploracion
+- https://rumbominero.com/peru/noticias/hidrocarburos/sph-peru-pierde-65-de-sus-reservas-de-gas-natural-en-doce-anos-y-urge-impulsar-la-exploracion
+
+#### 5. Mexico: Inegi reports US$25.6 billion petroleum trade deficit
+
+According to Energía a Debate, Mexico's petroleum trade balance has recorded a year-to-date deficit of US$25.6 billion. The report cites Inegi as reporting that the petroleum trade deficit increased by US$3.3 billion compared with the January–August period.
+
+Exposure: Energy, Commodities · Wider petroleum trade deficit → Greater net external petroleum expenditure · Petroleum trade balance, Net petroleum import value  
+
+**What to watch.** Inegi's next report on Mexico's petroleum trade balance.
+
+Sources:
+- https://energiaadebate.com/registra-balanza-comercial-petrolera-deficit-de-25-6-mil-millones-de-dls-en-lo-que-va-del-ano
+
+#### 6. South America: Rystad forecasts a 46.3% rise in LNG import costs
+
+Rystad estimates that the war in the Middle East will increase the global cost of LNG imports by US$39 billion in 2026, according to eixos. For South America, where Brazil is among the main importers, it projects a 46.3% higher bill because of the conflict.
+
+Exposure: Energy · Middle East war → Higher estimated LNG import bill → Importer procurement costs · LNG import costs, LNG procurement costs  
+
+**What to watch.** South America's actual LNG import spending during 2026 against Rystad's estimate.
+
+Sources:
+- https://eixos.com.br/gas-natural/mercado-de-gas/guerra-aumenta-em-us-39-bi-o-custo-de-importacao-de-gnl-no-mundo-em-2026-estima-rystad

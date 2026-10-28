@@ -1,0 +1,327 @@
+{
+  "schema_version": 2,
+  "product": "LATAM",
+  "date": "2026-10-28",
+  "kind": "fallback",
+  "sectors": [
+    "energy",
+    "logistics",
+    "commodities",
+    "infrastructure"
+  ],
+  "themes": [
+    "trade",
+    "geopolitics",
+    "conflict"
+  ],
+  "published_at": "2026-10-28T07:45:23.056Z",
+  "web_url": "https://aldraresearch.com/sitreps/latam-2026-10-28",
+  "headline": {
+    "en": "Reuters reports that the first Venezuelan crude under the US-NABEP deal arrived in Texas, United States.",
+    "es": "Según Reuters, el primer crudo de Venezuela del acuerdo US-NABEP llegó a Texas, Estados Unidos."
+  },
+  "summary": {
+    "en": "Reuters reports that the first Venezuelan crude under the US-NABEP deal reached Texas, United States; it will be sold to Exxon and Citgo. In Brazil, Estadao reports that Eletronuclear's debt remains unresolved, with 240 days to decide on the Angra 3 nuclear plant. AXIA Energia secured R$680 million from the Inter-American Development Bank that it plans to invest in transmission in Rio Grande do Norte, according to Petronotícias. Peru's gas reserves fell 65% between 2013 and 2025, according to the Libro Anual de Recursos de Hidrocarburos 2025 cited by Rumbo Minero. Mexico's petroleum deficit reached US$25.6 billion, US$3.3 billion more than in January–August, according to Energía a Debate, citing Inegi. For South America, Rystad projects a 46.3% higher LNG import bill because of the Middle East war, according to eixos.",
+    "es": "Según Reuters, llegó a Texas, Estados Unidos, el primer crudo venezolano del acuerdo US-NABEP; será vendido a Exxon y Citgo. En Brasil, Estadao reporta que la deuda de Eletronuclear sigue sin resolverse, con 240 días para decidir sobre la central nuclear Angra 3. AXIA Energia obtuvo R$680 millones del Banco Interamericano de Desarrollo que prevé destinar a transmisión en Río Grande del Norte, según Petronotícias. En Perú, las reservas de gas cayeron 65% entre 2013 y 2025, según el Libro Anual de Recursos de Hidrocarburos 2025 citado por Rumbo Minero. En México, el déficit petrolero llegó a US$25.600 millones, US$3.300 millones más que en enero–agosto, según Energía a Debate, que cita al Inegi. Para Sudamérica, Rystad prevé una factura de importación de GNL 46,3% mayor por la guerra en Oriente Medio, según eixos."
+  },
+  "stories": [
+    {
+      "id": "latam-2026-10-28-c061637787",
+      "status": "CLAIM",
+      "tier": "major",
+      "heading": {
+        "en": "Venezuela: Reuters reports first US-NABEP deal crude arriving in Texas",
+        "es": "Venezuela: Reuters reporta primer crudo del acuerdo US-NABEP en Texas"
+      },
+      "text": {
+        "en": "According to Reuters, the first Venezuelan oil from the US-NABEP deal arrived in Texas, United States, and will be sold to Exxon and Citgo. La Tercera attributes the shipment to oil company Nabep and reports that Donald Trump and Marco Rubio visited the port of Corpus Christi on Tuesday to witness the arrival of one of the vessels.\n\nEl Universal describes the shipment as part of an agreement between the United States and Venezuela, signed by Delcy Rodríguez, Venezuela's interim president, and Donald Trump. Reuters presents the sale to Exxon and Citgo as a future transaction, distinct from the oil's arrival.",
+        "es": "Según Reuters, el primer petróleo venezolano del acuerdo US-NABEP llegó a Texas, Estados Unidos, y será vendido a Exxon y Citgo. La Tercera atribuye el envío a la petrolera Nabep y reporta que Donald Trump y Marco Rubio acudieron el martes al puerto de Corpus Christi para presenciar la llegada de uno de los buques.\n\nEl Universal describe el embarque como parte de un acuerdo entre Estados Unidos y Venezuela, firmado por Delcy Rodríguez, presidenta interina venezolana, y Donald Trump. La venta a Exxon y Citgo aparece en el reporte de Reuters como una operación futura, distinta de la llegada del petróleo."
+      },
+      "exposure": {
+        "sectors": [
+          "energy",
+          "logistics",
+          "commodities"
+        ],
+        "assets_or_markets": [
+          "Venezuelan crude exports",
+          "US crude buyers"
+        ],
+        "transmission_path": [
+          "reported cargo arrival",
+          "planned sales to US buyers",
+          "potential recurring crude supply"
+        ],
+        "variables": [
+          "cargo volumes",
+          "sale completion",
+          "supply continuity"
+        ]
+      },
+      "assessment": {
+        "confidence": "low",
+        "direction": "unclear",
+        "text": {
+          "en": "If confirmed, the arrival would give the agreement operational backing, but one delivery does not establish a recurring flow. For crude buyers, confirmed sales and repeat cargoes would distinguish a new supply channel from an isolated transaction.",
+          "es": "Si se confirma, el arribo daría respaldo operativo al acuerdo, pero una entrega no acredita un flujo recurrente. Para compradores de crudo, la confirmación de las ventas y la repetición de cargamentos separarían una nueva vía de suministro de una operación aislada."
+        }
+      },
+      "watch": {
+        "en": "Confirmation of the sale to Exxon and Citgo or arrival of another cargo under the agreement.",
+        "es": "Confirmación de la venta a Exxon y Citgo o llegada de otro cargamento del acuerdo."
+      },
+      "sources": [
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOajN2UFlXd0wwM25Bd0ZIVVRPcEZQQkQydTRBQXBuT0RuYnBFRnFqbF9rYTZxdFhqWnBYYk10M0U3RGhXd1lReE5ndTk2VEd1SUI4SEUzLWx6YWRHOTBZaXdyOTFDMm9Cc1JjQ1ZPRHF2empCUy1wUmxaX2NnckhZeFFMOExJVnNHODU5YThsUWZ2RVRUX2xobXk4UUlLSDFvNFB6ZjhIVWZMRF9KYjhqcmVQUFhYUTlSLWdYaw?oc=5",
+        "https://eluniversal.com.mx/mundo/texas-recibe-primer-cargamento-de-petroleo-venezolano-embarque-forma-parte-de-acuerdo-entre-eu-y-venezuela",
+        "https://latercera.com/mundo/noticia/tras-acuerdo-con-eeuu-petrolera-nabep-envia-a-texas-primer-cargamento-de-crudo-venezolano"
+      ],
+      "countries": [
+        "VE"
+      ],
+      "story_class": "incident"
+    },
+    {
+      "id": "latam-2026-10-28-0f745ad0be",
+      "status": "CONFIRMED",
+      "tier": "brief",
+      "heading": {
+        "en": "Brazil: Eletronuclear creditors block Angra 3, Estadao reports",
+        "es": "Brasil: acreedores de Eletronuclear traban Angra 3, según Estadao"
+      },
+      "text": {
+        "en": "With Brazil's Tribunal de Contas da União (TCU) requiring a decision on Angra 3 within 240 days, Estadao reports that the shareholding change at Eletronuclear—the state company responsible for the plants—has been formalized: Axia Energia exited and Âmbar Energia entered. Negotiations with creditors, however, still have no completion deadline.\n\nAccording to Estadao, creditors must accept the arrangements offered by the new shareholder to resolve the debt. If the federal government decides to resume Angra 3 without settling that issue, the new partner is released from its obligations to the project. A senior government source cited by the newspaper said a decision independent of that process was being considered, although the inclination remains to continue construction of the third nuclear plant in Angra dos Reis, Brazil. The Supremo Tribunal Federal (STF) approved the agreement between Eletrobras, now Axia Energia, and the federal government in late 2025, facilitating the sale of its Eletronuclear stake.",
+        "es": "Con la orden del Tribunal de Contas da União (TCU) de Brasil de decidir en 240 días sobre Angra 3, Estadao reporta que el cambio accionario de Eletronuclear —la estatal responsable de las centrales— ya se formalizó: salió Axia Energia y entró Âmbar Energia. Pero la negociación con los acreedores sigue sin plazo de cierre.\n\nSegún Estadao, los acreedores deben aceptar las contrapartidas ofrecidas por la nueva accionista para resolver la deuda. Si la Unión decide retomar Angra 3 sin zanjar ese punto, el nuevo socio queda desobligado respecto del proyecto. Una fuente de alto nivel del Gobierno citada por el diario dijo que se estudia decidir al margen de ese proceso, aunque la tendencia sigue siendo continuar las obras de la tercera central nuclear en Angra dos Reis, Brasil. El Supremo Tribunal Federal (STF) validó a fines de 2025 el acuerdo entre Eletrobras, actual Axia Energia, y la Unión que facilitó la venta de su participación en Eletronuclear."
+      },
+      "exposure": {
+        "sectors": [
+          "energy",
+          "infrastructure"
+        ],
+        "assets_or_markets": [
+          "Angra 3",
+          "Eletronuclear project financing"
+        ],
+        "transmission_path": [
+          "unresolved creditor agreement",
+          "conditional shareholder obligations",
+          "uncertainty over project resumption"
+        ],
+        "variables": [
+          "creditor consent",
+          "shareholder commitments",
+          "construction decision timing"
+        ]
+      },
+      "assessment": {
+        "confidence": "moderate",
+        "direction": "unclear",
+        "text": {
+          "en": "The construction decision and the new partner's commitment could become detached. For lenders and contractors, a decision to resume would not by itself resolve contractual risk: creditor acceptance of the proposed arrangements remains a decisive signal.",
+          "es": "La decisión sobre la obra y el compromiso del nuevo socio pueden desacoplarse. Para financiadores y contratistas, una decisión de reanudación no resolvería por sí sola el riesgo contractual: la aceptación de las contrapartidas por los acreedores sigue siendo una señal decisiva."
+        }
+      },
+      "watch": {
+        "en": "Acceptance of the proposed arrangements by Eletronuclear's creditors before the Angra 3 decision.",
+        "es": "Aceptación de las contrapartidas por los acreedores de Eletronuclear antes de la decisión sobre Angra 3."
+      },
+      "sources": [
+        "https://capitalagora.com.br/noticia/tratativas-com-credores-da-eletronuclear-sao-principal-trava-para",
+        "https://estadao.com.br/economia/coluna-da-broad/tratativas-com-credores-da-eletronuclear-sao-principal-trava-para-avanco-de-angra-3"
+      ],
+      "countries": [
+        "BR"
+      ],
+      "story_class": "continuation"
+    },
+    {
+      "id": "latam-2026-10-28-651c6eced0",
+      "status": "CLAIM",
+      "tier": "brief",
+      "heading": {
+        "en": "Brazil: Petronotícias reports R$680 million from BID for AXIA Energia",
+        "es": "Brasil: Petronotícias reporta R$680 millones del BID para AXIA Energia"
+      },
+      "text": {
+        "en": "According to Petronotícias, AXIA Energia secured R$680 million from the Inter-American Development Bank (BID) that it plans to invest in developing and building transmission Lot 7 in Rio Grande do Norte, Brazil. The company won the lot in the October 2025 auction held by Brazil's National Electric Energy Agency (Aneel).",
+        "es": "Según Petronotícias, AXIA Energia obtuvo R$680 millones del Banco Interamericano de Desarrollo (BID) que prevé invertir en el desarrollo e implantación del Lote 7 de transmisión en Río Grande del Norte, Brasil. La empresa ganó el lote en la subasta de octubre de 2025 de la Agencia Nacional de Energía Eléctrica (Aneel) de Brasil."
+      },
+      "exposure": {
+        "sectors": [
+          "energy",
+          "infrastructure"
+        ],
+        "assets_or_markets": [
+          "AXIA Energia transmission Lot 7",
+          "Rio Grande do Norte transmission infrastructure"
+        ],
+        "transmission_path": [
+          "reported development-bank financing",
+          "planned project investment",
+          "transmission construction"
+        ],
+        "variables": [
+          "funding deployment",
+          "construction progress",
+          "transmission capacity"
+        ]
+      },
+      "assessment": null,
+      "watch": {
+        "en": "Start of Lot 7 construction financed by the announced funds.",
+        "es": "Inicio de las obras del Lote 7 financiadas con los fondos anunciados."
+      },
+      "sources": [
+        "https://petronoticias.com.br/a-axia-energia-consegue-financiamento-de-r-680-milhoes-no-bid-para-implantar-a-linha-de-transmissao-do-lote-7-no-rio-grande-do-norte"
+      ],
+      "countries": [
+        "BR"
+      ],
+      "story_class": "structural"
+    },
+    {
+      "id": "latam-2026-10-28-cc74807b35",
+      "status": "CLAIM",
+      "tier": "brief",
+      "heading": {
+        "en": "Peru: Rumbo Minero reports a 65% fall in gas reserves",
+        "es": "Perú: según Rumbo Minero, las reservas de gas cayeron 65%"
+      },
+      "text": {
+        "en": "Peru's total natural-gas reserves fell 65% between 2013 and 2025, according to the Libro Anual de Recursos de Hidrocarburos 2025 cited by Rumbo Minero. The report attributes the decline to cumulative production and limited additions of new projects. The industry group SPH warns that replacement is insufficient and calls for exploration investment to strengthen energy security.",
+        "es": "Las reservas totales de gas natural de Perú cayeron 65% entre 2013 y 2025, según el Libro Anual de Recursos de Hidrocarburos 2025 citado por Rumbo Minero. El reporte atribuye la caída a la producción acumulada y la limitada incorporación de nuevos proyectos. El gremio SPH advierte que la reposición es insuficiente y pide atraer inversión en exploración para fortalecer la seguridad energética."
+      },
+      "exposure": {
+        "sectors": [
+          "energy"
+        ],
+        "assets_or_markets": [
+          "Peruvian natural-gas reserves",
+          "Gas exploration investment",
+          "Long-term domestic gas supply"
+        ],
+        "transmission_path": [
+          "Production and limited new projects",
+          "Lower gas reserves",
+          "Long-term supply exposure"
+        ],
+        "variables": [
+          "Natural-gas reserves",
+          "Reserve replacement",
+          "Exploration investment"
+        ]
+      },
+      "assessment": {
+        "confidence": "moderate",
+        "direction": "deteriorating",
+        "text": {
+          "en": "The reserve decline points to a replacement problem for long-term supply; it does not demonstrate a current supply interruption. For gas users and investors, the decisive signal would be actual reserve additions rather than exploration announcements alone.",
+          "es": "La caída de reservas apunta a un problema de reposición para el abastecimiento de largo plazo; no demuestra una interrupción actual del suministro. Para usuarios e inversores en gas, la señal decisiva sería la incorporación efectiva de reservas, no sólo anuncios de exploración."
+        }
+      },
+      "watch": {
+        "en": "New reserve additions in the next edition of the Libro Anual de Recursos de Hidrocarburos.",
+        "es": "Nuevas reservas incorporadas en la próxima edición del Libro Anual de Recursos de Hidrocarburos."
+      },
+      "sources": [
+        "https://mineriaenergia.com/sph-peru-pierde-65-de-sus-reservas-totales-de-gas-natural-en-doce-anos-y-urge-necesidad-de-exploracion",
+        "https://rumbominero.com/peru/noticias/hidrocarburos/sph-peru-pierde-65-de-sus-reservas-de-gas-natural-en-doce-anos-y-urge-impulsar-la-exploracion"
+      ],
+      "countries": [
+        "PE"
+      ],
+      "story_class": "data"
+    },
+    {
+      "id": "latam-2026-10-28-5fa2a15000",
+      "status": "CLAIM",
+      "tier": "brief",
+      "heading": {
+        "en": "Mexico: Inegi reports US$25.6 billion petroleum trade deficit",
+        "es": "México: Inegi reporta déficit petrolero de US$25.600 millones"
+      },
+      "text": {
+        "en": "According to Energía a Debate, Mexico's petroleum trade balance has recorded a year-to-date deficit of US$25.6 billion. The report cites Inegi as reporting that the petroleum trade deficit increased by US$3.3 billion compared with the January–August period.",
+        "es": "Según Energía a Debate, la balanza comercial petrolera de México registra un déficit acumulado de US$25.600 millones en lo que va del año. El reporte cita al Inegi, que informó que ese saldo deficitario aumentó US$3.300 millones respecto del período comprendido entre enero y agosto."
+      },
+      "exposure": {
+        "sectors": [
+          "energy",
+          "commodities"
+        ],
+        "assets_or_markets": [
+          "Mexican petroleum trade"
+        ],
+        "transmission_path": [
+          "Wider petroleum trade deficit",
+          "Greater net external petroleum expenditure"
+        ],
+        "variables": [
+          "Petroleum trade balance",
+          "Net petroleum import value"
+        ]
+      },
+      "assessment": null,
+      "watch": {
+        "en": "Inegi's next report on Mexico's petroleum trade balance.",
+        "es": "Próximo reporte del Inegi sobre la balanza comercial petrolera de México."
+      },
+      "sources": [
+        "https://energiaadebate.com/registra-balanza-comercial-petrolera-deficit-de-25-6-mil-millones-de-dls-en-lo-que-va-del-ano"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "story_class": "data"
+    },
+    {
+      "id": "latam-2026-10-28-159ae2127f",
+      "status": "CLAIM",
+      "tier": "brief",
+      "heading": {
+        "en": "South America: Rystad forecasts a 46.3% rise in LNG import costs",
+        "es": "Sudamérica: Rystad prevé un 46,3% más de costo al importar GNL"
+      },
+      "text": {
+        "en": "Rystad estimates that the war in the Middle East will increase the global cost of LNG imports by US$39 billion in 2026, according to eixos. For South America, where Brazil is among the main importers, it projects a 46.3% higher bill because of the conflict.",
+        "es": "Rystad estima que la guerra en Oriente Medio elevará en US$39.000 millones el costo mundial de importar GNL en 2026, según eixos. Para América del Sur, donde Brasil figura entre los principales importadores, calcula que la factura será un 46,3% mayor por los efectos del conflicto."
+      },
+      "exposure": {
+        "sectors": [
+          "energy"
+        ],
+        "assets_or_markets": [
+          "South American LNG imports",
+          "Brazilian LNG procurement"
+        ],
+        "transmission_path": [
+          "Middle East war",
+          "Higher estimated LNG import bill",
+          "Importer procurement costs"
+        ],
+        "variables": [
+          "LNG import costs",
+          "LNG procurement costs"
+        ]
+      },
+      "assessment": null,
+      "watch": {
+        "en": "South America's actual LNG import spending during 2026 against Rystad's estimate.",
+        "es": "El gasto efectivo en importaciones de GNL de América del Sur durante 2026 frente a la estimación de Rystad."
+      },
+      "sources": [
+        "https://eixos.com.br/gas-natural/mercado-de-gas/guerra-aumenta-em-us-39-bi-o-custo-de-importacao-de-gnl-no-mundo-em-2026-estima-rystad"
+      ],
+      "countries": [],
+      "story_class": "data"
+    }
+  ],
+  "tracking": [],
+  "context": {
+    "text": {
+      "en": "The US White House is proposing oil deals with Russia within Ukraine peace talks, according to the Financial Times; this is not an investment agreement or an approved change in market access. In Hormuz and surrounding waterways, Oilprice reports more than 30 maritime incidents in October, against 14 in September, and places Brent near USD 115. If the counts are comparable, they point to greater disruption exposure for charterers and importers, but do not establish a strait closure or quantify the pass-through to freight and insurance.",
+      "es": "La Casa Blanca de Estados Unidos propone negocios petroleros con Rusia dentro de las conversaciones de paz sobre Ucrania, según Financial Times; no es un acuerdo de inversión ni un cambio aprobado de acceso al mercado. En Ormuz y las vías cercanas, Oilprice reporta más de 30 incidentes marítimos en octubre, frente a 14 en septiembre, y sitúa al Brent cerca de USD 115. Si los recuentos son comparables, apuntan a mayor exposición de fletadores e importadores a interrupciones, pero no acreditan un cierre del estrecho ni cuantifican el traslado a fletes y seguros."
+    }
+  },
+  "content_hash": "a433fb67b6b03f263e89aa3db83cbf4ed00f5b31368cbdd4c8921f7518129750",
+  "license": "CC-BY-4.0"
+}

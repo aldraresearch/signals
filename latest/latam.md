@@ -1,245 +1,181 @@
-# Aldra SITREP · LATAM · 2026-10-29
+# Aldra SITREP · LATAM · 2026-10-30
 
 ## Español
 
-Edición: de respaldo · Sectores: Energía, Infraestructura, Logística, Commodities, Agro, Finanzas soberanas · Publicada: 2026-10-29T10:21:25.116Z  
-Web: https://aldraresearch.com/sitreps/latam-2026-10-29  
+Edición: de respaldo · Sectores: Energía, Infraestructura, Logística, Minería · Publicada: 2026-10-30T07:35:31.432Z  
+Web: https://aldraresearch.com/sitreps/latam-2026-10-30  
 Licencia: CC BY 4.0
 
-### Argentina: según EconoJournal, Signar será licenciataria de 892 estaciones Shell. Brasil: Petrobras alcanza récord de producción y exporta 987.000 barriles diarios.
+### La ANP de Brasil aprueba nuevas reglas de cesión de contratos. Petrobras confirma un tercer hallazgo petrolero en Morpho, frente a Amapá, Brasil.
 
-Argentina: según EconoJournal, Signar será licenciataria de 892 estaciones Shell. Brasil: Petrobras alcanza récord de producción y exporta 987.000 barriles diarios. Argentina: según EconoJournal, Vista elevó 33% su producción y exportó 73% del crudo. Argentina: Energía & Negocios reporta proyecto de segunda planta de Profertil. Colombia: según Infobae, Gobierno propone pasar fondos de transporte a electricidad. Argentina: según EconoJournal, Gobierno permite contratar más generación térmica. Argentina: la petrolera YPF reporta US$2.503 millones de EBITDA ajustado.
+La Agencia Nacional del Petróleo de Brasil aprobó nuevas reglas para ceder contratos de exploración y producción, sin detallar criterios ni fecha de aplicación: su efecto sobre el cierre de operaciones sigue abierto. Petrobras confirmó un tercer hallazgo en Morpho, frente a Amapá, Brasil, que aún no demuestra reservas comerciales. La estatal chilena ENAP confirmó utilidades de US$1.112 millones hasta septiembre y producción récord. En Argentina, Clarín sitúa las primeras exportaciones de Vaca Muerta Oil Sur en marzo de 2027; el avance de obra no acredita capacidad operativa. Según Valor Economico, la presidenta interina de Venezuela, Delcy Rodríguez, ordenó evaluar activos estatales no esenciales para ofrecerlos a privados o devolverlos a antiguos dueños, sin precisar condiciones de transferencia.
 
 ### Situaciones principales
 
-#### 1. Argentina: según EconoJournal, Signar será licenciataria de 892 estaciones Shell
+#### 1. Brasil: la ANP aprueba nuevas reglas para ceder contratos de petróleo y gas
 
-Mercuria Energy Group anunció que Signar Energy S.A.U. será la nueva licenciataria de Shell para el negocio de downstream en Argentina, antes gestionado por Raízen, según EconoJournal. La nueva compañía tendrá a cargo la operación y el control de la red de 892 estaciones de servicio, de acuerdo con el anuncio citado por el medio.
+La Agencia Nacional del Petróleo (ANP) de Brasil aprobó el 29 de octubre una nueva resolución para regular los procesos de cesión de contratos de exploración y producción de petróleo y gas natural. La comunicación oficial anuncia la aprobación, pero no detalla las nuevas reglas.
 
-Energía & Negocios reportó que el alcance también incluye la refinería de Dock Sud, la planta de lubricantes de CABA y las aeroplantas de Ezeiza y Aeroparque, en Argentina. Los reportes describen una nueva identidad corporativa para la operación, pero no detallan una fecha efectiva para el cambio ni las condiciones de la licencia.
+Petronotícias informó que la norma sustituye la Resolución ANP nº 785/2019 y extingue el Comitê de Avaliação das Propostas de Parcerias (CAPP). La información disponible no detalla cómo se tramitarán las cesiones tras la eliminación del comité, ni precisa el número de la nueva resolución o su fecha de aplicación.
 
-Exposición: Energía, Infraestructura, Logística · announced licensee change → new operating counterparty → supplier and buyer contract exposure · License effective date, Operating control, Supply continuity, Contract terms  
-**Evaluación de Aldra** (confianza: moderada, dirección: incierta). Para proveedores y compradores, el cambio relevante es la identidad de la contraparte operadora, no necesariamente la marca. El anuncio no acredita cambios de capacidad ni interrupciones de suministro.
+Exposición: Energía · new contract-assignment resolution → revised approval framework → upstream transaction scheduling · Assignment requirements, Approval procedures, Transaction closing timelines  
+**Evaluación de Aldra** (confianza: moderada, dirección: incierta). La eliminación del comité no permite concluir que las cesiones serán más rápidas. Para compradores y vendedores de activos upstream, el efecto sobre el cierre de operaciones dependerá de los criterios y del circuito de aprobación de la nueva norma.
 
-**Qué vigilar.** Aviso de entrada en vigor de la licencia de Signar y condiciones operativas para la red Shell.
-
-Fuentes:
-- https://econojournal.com.ar/energia/signar-energy-sera-la-nueva-compania-licenciataria-de-las-estaciones-de-servicio-shell
-- https://energiaynegocios.com.ar/mercuria-energy-group-anuncio-que-signar-energy-sera-la-nueva-licenciataria-de-las-estaciones-de-servicio-shell-en-argentina
-
-#### 2. Brasil: Petrobras alcanza récord de producción y exporta 987.000 barriles diarios
-
-Petrobras alcanzó una producción media récord de 3,51 millones de barriles equivalentes de petróleo diarios (boe/d) en el tercer trimestre, 11,7% más interanual, según su informe citado por Valor Economico. El volumen incluye petróleo, líquidos de gas natural y gas; en Brasil sumó 3,483 millones de boe/d, un alza interanual de 11,8%.
-
-El petróleo y los líquidos de gas natural producidos en Brasil sumaron 2,83 millones de barriles diarios, 12,4% más interanual; el gas alcanzó 651.000 boe/d, un aumento de 9,6%. Petrobras atribuyó el récord al aumento de producción de P-78 y P-79 en Búzios, al máximo productivo de la plataforma Alexandre de Gusmão en Mero —ambos campos de la cuenca de Santos— y a menores pérdidas por mantenimiento.
-
-Las exportaciones de crudo fueron de 987.000 barriles diarios en el trimestre, un alza de 21,3%; Valor Economico no precisa el período de comparación. La utilización de refinerías fue de 99%. Folha de S.Paulo reportó un récord de producción de diésel, orientado a evitar importaciones encarecidas por la guerra en Irán.
-
-Exposición: Energía, Logística, Commodities · higher production and operational availability → greater crude exports and diesel output → crude freight demand and diesel import requirements · Crude export volumes, Diesel import requirements, Refinery utilization, Oil and gas production  
-**Evaluación de Aldra** (confianza: moderada, dirección: mejora). La mayor extracción y los envíos de crudo amplían el flujo disponible para compradores y fletadores. El récord de diésel podría reducir la necesidad de importaciones caras, pero las fuentes no cuantifican esa sustitución.
-
-**Qué vigilar.** El próximo informe de producción y ventas de Petrobras: continuidad del volumen exportado y de la producción de diésel.
+**Qué vigilar.** La publicación íntegra de la resolución, con su fecha de aplicación y el nuevo procedimiento de aprobación de cesiones.
 
 Fuentes:
-- https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTHIwN0tCdDdoSTRLOW1XM3RuamJmWlUwTXBuc3dZMUVUZUFVTlJQR2d2Z0c0ZzVhQVh3ZG1EMTJaZEMtX0ZrdGR0RjlMcnd1Z2RWb2t2N0pvd3BtZW5nWUk2R1o4eWJBaEtuX2ZOVmRGb3o1dTVRS3lZMWZyOGlBbkh5SFZEXzB4eXlHWGJWQ0RsNmJmZEh3bWNLXzNZUG5fSmx5cHo4bGVYOEphbHdLNVlKbm5LdXRWUWxjRXNVbXVwX2xHQVE5NzNZSXVXVEdyOFo2Q2NENEVwd1ZPeE1KWE9KS1F5TnFkRmtoLWQ1N01HUE1nOXoydA?oc=5
-- https://valor.globo.com/empresas/noticia/2026/10/28/petrobras-tem-producao-media-de-oleo-lgn-e-gas-recorde-no-terceiro-trimestre.ghtml
-- https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/petrobras-bate-recorde-de-producao-de-diesel-no-terceiro-trimestre.shtml
+- https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc29aVFY0UDBwOEMwT0lKamowZVdfRVZxSU10anBGRVp4eHJNZEJIS2VYSW41alE4TVRzSUE0eklXS19yQ3dYVmpDZG83SDdta1VnRS1aVHRWOG5URnpERlpETjFZMjBWbVhDTENjYmMtQzliUTFwLUpRY0h0LXJjcUZXV2FlSUhKMlFvdTJOOWdGQjJYbXdsVVpxel9qRE1EdGZzdnJRR3NvUGZ2eDJsdnFqSlN6azJydHBTblI1MVVtaF9PZDFnZQ?oc=5
+- https://petronoticias.com.br/anp-atualiza-regras-para-cessao-de-contratos-abre-consulta-sobre-a-agenda-regulatoria-e-avanca-na-regulamentacao-do-saf
 
-#### 3. Argentina: según EconoJournal, Vista elevó 33% su producción y exportó 73% del crudo
+#### 2. Brasil: Petrobras confirma un tercer hallazgo de petróleo en el pozo Morpho
 
-La petrolera Vista Energy elevó 33% interanual su producción en Argentina en el tercer trimestre de 2026 y exportó el 73% del crudo producido en Vaca Muerta, según EconoJournal. El medio, que cita los resultados de la compañía, situó la producción en 169.000 barriles equivalentes de petróleo diarios (boe/d).
+Petrobras confirmó el 29 de octubre un tercer hallazgo de petróleo en el pozo Morpho, en el bloque FZA-M-59, frente a la costa de Amapá, Brasil. El nuevo intervalo portador de petróleo está en aguas ultraprofundas, con una lámina de agua de 2.886 metros. El hallazgo da continuidad a los anuncios de agosto y comienzos de octubre de 2026.
 
-Infobae expresó esa misma cifra en barriles de petróleo diarios, no en equivalentes, y reportó inversiones superiores a US$2.300 millones en los últimos doce meses. La Nacion atribuyó el récord a nuevos pozos y a la adquisición de activos a Equinor, y señaló ingresos totales 75% mayores interanuales.
+La compañía informó que concluyeron la perforación y la adquisición de datos geológicos. Queda el cierre de las operaciones en el pozo, mediante el procedimiento de abandono. Después, la sonda será trasladada a la cuenca Potiguar, frente a Río Grande del Norte, para iniciar la perforación en la ubicación Mãe de Ouro.
 
-LMNeuquén informó un EBITDA ajustado de US$841 millones, un incremento interanual de 78%, y flujo de caja libre de US$334 millones.
+Petrobras vincula la exploración del bloque, en el Margen Ecuatorial brasileño, con su estrategia de recomponer reservas de petróleo y gas mediante nuevas fronteras exploratorias y atender la demanda energética del país.
 
-Exposición: Energía, Logística, Commodities · higher reported production → large share of crude exported → buyer supply and export logistics exposure · Crude production, Crude export volumes, Export share, Free cash flow  
-**Evaluación de Aldra** (confianza: moderada, dirección: incierta). El crecimiento productivo y la alta proporción exportada refuerzan la exposición de compradores y transportistas a los flujos de Vaca Muerta. La divergencia de unidades impide convertir el volumen total reportado en barriles de crudo exportables.
+Exposición: Energía · additional oil-bearing interval → stronger exploration evidence → appraisal and capital-allocation decisions · Recoverable resources, Commercial viability, Appraisal spending, Upstream investment allocation  
+**Evaluación de Aldra** (confianza: moderada, dirección: mejora). El nuevo intervalo amplía la evidencia geológica, pero no demuestra por sí solo reservas comerciales. Para inversores y proveedores, el avance favorece la exploración; todavía no permite asumir un proyecto de desarrollo ni nueva oferta de petróleo.
 
-**Qué vigilar.** El informe de resultados de Vista con producción de crudo, equivalentes y exportaciones desagregadas.
+**Qué vigilar.** Una evaluación de Petrobras que cuantifique recursos y establezca la viabilidad comercial del bloque.
 
 Fuentes:
-- https://econojournal.com.ar/oilgas/vista-incremento-un-33-interanual-su-produccion-en-el-tercer-trimestre
-- https://infobae.com/economia/2026/10/28/vista-energy-alcanzo-una-produccion-record-de-169000-barriles-de-petroleo-por-dia-y-exporto-mas-del-70-del-crudo-de-vaca-muerta
-- https://lanacion.com.ar/economia/vista-invirtio-mas-de-us2300-millones-en-vaca-muerta-y-aumento-su-produccion-un-33-nid28102026
-- https://mase.lmneuquen.com/vaca-muerta/vaca-muerta-vista-eleva-su-produccion-un-33-y-exporta-la-mayoria-del-crudo-n1259118
-- https://energiaynegocios.com.ar/vista-energy-3t-incremento-33-su-produccion-utilidad-neta-de-us-293-mm
+- https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSW5ELWFCMUhnd0VDZ3RHM0VTY01fcW1adnZaMU9oUFlnWVRwcFFtN1hjeXJqYWhudmhGYnl3WFhpTWFMRWZ2Q2tXcXIyM2JlbmpDSDRZNGZ6bndSU2pKa3JmOWN0VXhScVRoYUl1eXRDRnFIYlJHdTI4dU5VVTJQWXhkajRiV2NwWjB5YnlfVnBIREpLLWhkOTBySmRXU29mRHNRemFUS1czZXV4SkJGSEw3V3VjbnRJaDJMYk8tNTNYQUt5aHBBeU9LMGVyejY4T19BX3NjUzNPRjJpaFZnUHVTeXB2VVQ3Q01rWnY4SlQxUW9RVHE1c19n?oc=5
+- https://valor.globo.com/empresas/noticia/2026/10/29/petrobras-conclui-perfurao-com-terceira-descoberta-de-petrleo-em-guas-ultraprofundas-do-amap.ghtml
+- https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/petrobras-anuncia-3a-descoberta-de-petroleo-em-poco-na-foz-do-amazonas
+- https://estadao.com.br/economia/negocios/petrobras-conclui-perfuracao-e-confirma-3-descoberta-de-petroleo-na-costa-do-amapa
+- https://petronoticias.com.br/petrobras-anuncia-a-terceira-descoberta-de-oleo-no-poco-morpho-na-bacia-da-foz-do-amazonas
+
+#### 3. Chile: ENAP gana US$1.112 millones y registra producción récord
+
+ENAP, la compañía estatal de Chile, obtuvo utilidades por US$1.112 millones al 30 de septiembre de 2026, un 119% más que los US$506 millones del mismo período del año anterior, según La Tercera. La empresa confirmó el monto y que alcanzó sus mayores niveles de producción. La Tercera vinculó las ganancias récord con precios de refinación favorables.
+
+Exposición: Energía · favorable refining prices → higher reported earnings → ENAP financial performance · Refining margins, Production volumes, Profitability  
+
+**Qué vigilar.** El desglose de resultados de ENAP con volúmenes producidos y márgenes de refinación.
+
+Fuentes:
+- https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlRLcHViYUFUV21MUkhvU0pIU3BtUjNNaUxhU2RlelhrOHZQQlk4ZU5vZTRZVXBCYVdKNnhEVnVXM3RYTkJPZTRyOVNGMVNXZU5Hckw4c29yN1lIcUh2S0RySlVUM0lMMjlsZzZycllMOHlhRnFHcXRmOGtLc2lFSWtWOHQwY0F4Y3RMQjVLeXo3YlZjVm13WDB2TkVaU0VFUkpYOVZZdGF3dDlJLXN0Z3FqcHlKWVRmc0FSczNRbw?oc=5
+- https://latercera.com/pulso/noticia/enap-alcanza-ganancias-record-al-tercer-trimestre-ante-favorables-precios-de-refinacion
 
 ### Otros desarrollos
 
-#### 4. Argentina: Energía & Negocios reporta proyecto de segunda planta de Profertil
+#### 4. Argentina: Clarín sitúa las primeras exportaciones del VMOS en marzo
 
-En Argentina, Mariano Bosch, cofundador y CEO de Adecoagro, destacó un proyecto estimado en USD 1.700 millones para una segunda planta de Profertil en Bahía Blanca, según Energía & Negocios. Comprende un tren integrado de amoníaco y urea granulada. Bosch afirmó que permitiría más que duplicar la producción de urea y vinculó su competitividad al gas de Vaca Muerta. El reporte no precisa una decisión final de inversión ni un calendario de obra.
+Con la primera fase del Vaca Muerta Oil Sur (VMOS) aún en construcción en Argentina, Clarín sitúa el inicio de las exportaciones en marzo de 2027 y señala que esa fase está cerrando su etapa de obra. El proyecto incluye un oleoducto y terminales en la costa; el medio cifra las exportaciones previstas en más de US$5.000 millones desde 2027.
 
-Exposición: Energía, Agro · proposed fertilizer plant → potential industrial gas offtake → gas supply contracting opportunities · Investment decision, Gas offtake commitments, Construction schedule, Urea production capacity  
-**Evaluación de Aldra** (confianza: moderada, dirección: incierta). El proyecto ofrece una posible salida industrial para el gas de Vaca Muerta, no una demanda firme. Para proveedores de gas, el cambio material sería una decisión de inversión acompañada de contratos de suministro.
+LMNeuquén reporta más del 85% de avance en la terminal de Punta Colorada, que se prepara para recibir crudo de Vaca Muerta y exportarlo en 2027. EconoJournal describe un oleoducto enterrado de 437 kilómetros desde la estación cabecera de Allen hasta el predio de Punta Colorada. El conducto llega por el norte y emerge en la trampa scraper, al inicio del circuito de la terminal.
 
-**Qué vigilar.** Decisión de inversión y contratos de suministro de gas para la segunda planta de Profertil.
+Exposición: Energía, Infraestructura, Logística · pipeline and terminal construction progress → integrated system commissioning → additional crude export access · Commissioning timeline, First export loading, Crude export capacity, Market access  
+**Evaluación de Aldra** (confianza: moderada, dirección: mejora). Para productores y exportadores, la mejora de acceso al mercado depende de que el oleoducto y la terminal entren en servicio como un solo sistema. El avance reportado acerca esa posibilidad, pero no acredita todavía capacidad operativa ni una primera carga.
 
-Fuentes:
-- https://energiaynegocios.com.ar/profertil-bosch-inversion-para-duplicar-produccion-y-exportar
-
-#### 5. Colombia: según Infobae, Gobierno propone pasar fondos de transporte a electricidad
-
-El Gobierno de Colombia propone destinar 1,2 billones al sector eléctrico mediante una modificación presupuestal, según Infobae; la fuente no identifica la moneda. De esa suma, 750.000 millones procederían de reprogramar inversiones en transporte. Es una propuesta presupuestal: el reporte no informa su aprobación ni identifica las partidas de transporte afectadas o los beneficiarios eléctricos.
-
-Exposición: Energía, Infraestructura, Finanzas soberanas · proposed budget amendment → transport investment reprogramming → potential electricity-sector funding · Budget approval, Transport investment allocations, Electricity funding beneficiaries, Disbursement timing  
-**Evaluación de Aldra** (confianza: moderada, dirección: incierta). La cifra para electricidad no prueba un aumento neto del gasto, porque parte provendría de transporte. Sin partidas ni beneficiarios, no puede asignarse todavía el efecto a proyectos concretos.
-
-**Qué vigilar.** Aprobación de la modificación presupuestal con las partidas de transporte y los beneficiarios eléctricos detallados.
+**Qué vigilar.** La confirmación del primer cargamento de exportación por la terminal de Punta Colorada.
 
 Fuentes:
-- https://infobae.com/colombia/2026/10/28/asi-fue-el-pacto-entre-gustavo-petro-y-carlos-fernando-galan-para-reducir-los-recursos-destinados-al-metro-de-bogota-y-la-calle-13-hay-controversia
+- https://clarin.com/economia/termina-mayor-obra-infraestructura-petroleo-oleoducto-vaca-muerta-sur-permitira-exportaciones-us-5000-millones-2027_0_LbRHCnQXfU.html
+- https://econojournal.com.ar/oilgas/vaca-muerta-oil-sur-el-camino-del-petroleo-del-oleoducto-a-las-monoboyas
+- https://mase.lmneuquen.com/provincia/entramos-al-corazon-del-vmos-asi-avanza-la-obra-energetica-mas-importante-argentina-n1259230
 
-#### 6. Argentina: según EconoJournal, Gobierno permite contratar más generación térmica
+#### 5. Venezuela: presidenta interina Delcy Rodríguez evalúa activos, según Valor Economico
 
-Según EconoJournal, el Gobierno de Argentina habilitó a las generadoras que operan centrales térmicas existentes a elevar el volumen de energía que pueden contratar con industrias y grandes usuarios a partir del año próximo. La medida busca contener el aumento de los costos de electricidad que enfrenta el sector industrial durante el invierno de 2027.
+Según Valor Economico, la presidenta interina de Venezuela, Delcy Rodríguez, ordenó evaluar activos estatales no esenciales para ofrecerlos a privados o devolverlos a sus antiguos dueños. Dijo que el proceso está avanzado, sin detallar cómo se ejecutará. En abril nombró una comisión para auditar activos, incluida infraestructura de energía, electricidad y minería. El medio señala que las nacionalizaciones generaron más de una docena de arbitrajes internacionales, la mayoría aún sin resolver.
 
-Exposición: Energía · Higher permitted contracting volumes → Industrial electricity procurement options → Winter electricity costs · Industrial electricity contract availability, Winter electricity costs  
+Exposición: Energía, Infraestructura, Minería · state-asset review → possible private-sector offers or ownership restitution → investor access and capital allocation · private-sector access, asset ownership, transfer conditions, project investment  
+**Evaluación de Aldra** (confianza: moderada, dirección: incierta). El anuncio apunta a ampliar el acceso privado, pero no acredita transferencias ni fija condiciones de entrada. Para inversores en energía e infraestructura, el alcance depende de la lista de activos y del tratamiento de los arbitrajes pendientes.
 
-**Qué vigilar.** Una norma oficial que precise los volúmenes habilitados y la fecha de aplicación.
-
-Fuentes:
-- https://econojournal.com.ar/energia/gobierno-costo-de-la-electricidad-para-las-industrias
-
-#### 7. Argentina: la petrolera YPF reporta US$2.503 millones de EBITDA ajustado
-
-YPF, la petrolera argentina, informó un EBITDA ajustado de US$2.503 millones en el tercer trimestre de 2026, 84% más que un año antes, según Energía & Negocios. La utilidad neta se ubicó cerca de US$1.200 millones. LMNeuquén reportó una producción de shale de 245.000 barriles diarios, un crecimiento de 32%, y una meta de 250.000 barriles diarios.
-
-La Nacion informó que YPF adelantó un plan de inversiones por US$44.000 millones para cinco áreas a desarrollar con sus socios, mediante tres RIGI que presentará próximamente. Se trata de un plan anunciado, no de inversiones ejecutadas.
-
-Infobae señaló avances en el oleoducto VMOS y en la compra de YPF Luz. Clarín vinculó la rentabilidad al aumento del precio del petróleo por la guerra en Medio Oriente; Energía & Negocios destacó el crecimiento de la producción de shale y la reducción de costos.
-
-Exposición: Energía · higher shale production and oil prices → stronger reported earnings → potential investment capacity · Shale production, Adjusted EBITDA, RIGI project submissions, Investment execution  
-**Evaluación de Aldra** (confianza: moderada, dirección: mejora). La mejora de resultados no demuestra por sí sola que el plan de inversión esté financiado. Para socios y proveedores, la señal decisiva es el paso de los anuncios a la presentación de proyectos al RIGI y a su ejecución.
-
-**Qué vigilar.** Presentación formal de los proyectos de YPF al RIGI y documentación de su plan de inversiones.
+**Qué vigilar.** Publicación oficial de los activos que se ofrecerán o devolverán y de las condiciones de transferencia.
 
 Fuentes:
-- https://energiaynegocios.com.ar/ypf-3t-utilidad-neta-de-us-1-200-mm-la-produccion-crecio-32-i-a
-- https://mase.lmneuquen.com/empresas/ypf-gano-us1200-millones-y-su-produccion-shale-ya-llega-245000-barriles-diarios-n1259115
-- https://lanacion.com.ar/economia/ypf-reporto-un-record-de-produccion-y-anuncio-cinco-nuevos-proyectos-por-una-cifra-millonaria-nid28102026
-- https://infobae.com/economia/2026/10/28/ypf-informo-ganancias-operativas-de-usd-2503-millones-en-el-tercer-trimestre-del-ano
-- https://clarin.com/economia/primeros-meses-ano-ypf-logro-rentabilidad-alta-historia_0_BiOhnpmfYj.html
+- https://valor.globo.com/mundo/noticia/2026/10/29/delcy-diz-que-venezuela-vai-oferecer-ativos-estatais-ao-setor-privado.ghtml
+- https://energiaadebate.com/venezuela-ofrecera-activos-estatales-no-esenciales-a-privados-dice-delcy-rodriguez
 
 ## English
 
-Edition: fallback · Sectors: Energy, Infrastructure, Logistics, Commodities, Agriculture, Sovereign finance · Published: 2026-10-29T10:21:25.116Z  
-Web: https://aldraresearch.com/sitreps/latam-2026-10-29  
+Edition: fallback · Sectors: Energy, Infrastructure, Logistics, Mining · Published: 2026-10-30T07:35:31.432Z  
+Web: https://aldraresearch.com/sitreps/latam-2026-10-30  
 License: CC BY 4.0
 
-### Argentina: EconoJournal says Signar will be licensee for 892 Shell stations. Brazil: Petrobras posts output record, exports 987,000 barrels daily.
+### Brazil's ANP approves new contract assignment rules. Petrobras confirms a third oil discovery at Morpho, off Amapá, Brazil.
 
-Argentina: EconoJournal says Signar will be licensee for 892 Shell stations. Brazil: Petrobras posts output record, exports 987,000 barrels daily. Argentina: EconoJournal reports Vista output rose 33%, with 73% of crude exported. Argentina: Energía & Negocios reports second Profertil plant project. Colombia: Infobae says government proposes shifting transport funds to electricity. Argentina: EconoJournal reports government allows more thermal power contracting. Argentina: oil company YPF reports US$2,503 million in adjusted EBITDA.
+Brazil's National Petroleum Agency approved new oil and gas exploration and production contract assignment rules without detailing criteria or an effective date; the effect on transaction closings remains open. Petrobras confirmed a third discovery at Morpho, off Amapá, Brazil, which does not yet establish commercial reserves. Chile's state-owned ENAP confirmed US$1,112 million in earnings through September and record production. In Argentina, Clarín puts Vaca Muerta Oil Sur's first exports in March 2027; construction progress does not establish operating capacity. According to Valor Economico, Venezuela's interim president Delcy Rodríguez ordered a review of non-essential state assets for possible private-sector offers or returns to former owners, without specifying transfer conditions.
 
 ### Main situations
 
-#### 1. Argentina: EconoJournal says Signar will be licensee for 892 Shell stations
+#### 1. Brazil: ANP approves new rules for transferring oil and gas contracts
 
-Mercuria Energy Group announced that Signar Energy S.A.U. will become the new Shell licensee for the downstream business in Argentina, previously managed by Raízen, according to EconoJournal. The new company will operate and control the network of 892 service stations, according to the announcement cited by the outlet.
+Brazil's National Petroleum Agency (ANP) approved a new resolution on October 29 to regulate the assignment of oil and natural gas exploration and production contracts. The official announcement confirms approval but does not detail the new rules.
 
-Energía & Negocios reported that the scope also includes the Dock Sud refinery, the lubricants plant in CABA and the aviation facilities at Ezeiza and Aeroparque, in Argentina. The reports describe a new corporate identity for the operation but do not detail an effective date for the change or the license terms.
+Petronotícias reported that the measure replaces ANP Resolution No. 785/2019 and abolishes the Comitê de Avaliação das Propostas de Parcerias (CAPP). The available information does not detail how assignments will be processed after the committee's elimination, or specify the new resolution's number or effective date.
 
-Exposure: Energy, Infrastructure, Logistics · announced licensee change → new operating counterparty → supplier and buyer contract exposure · License effective date, Operating control, Supply continuity, Contract terms  
-**Aldra assessment** (confidence: moderate, direction: unclear). For suppliers and buyers, the relevant change is the identity of the operating counterparty, not necessarily the brand. The announcement does not establish capacity changes or supply disruptions.
+Exposure: Energy · new contract-assignment resolution → revised approval framework → upstream transaction scheduling · Assignment requirements, Approval procedures, Transaction closing timelines  
+**Aldra assessment** (confidence: moderate, direction: unclear). Eliminating the committee does not establish that assignments will become faster. For buyers and sellers of upstream assets, the effect on transaction closings will depend on the new rule's criteria and approval process.
 
-**What to watch.** Notice of the effective date of Signar's license and operating terms for the Shell network.
-
-Sources:
-- https://econojournal.com.ar/energia/signar-energy-sera-la-nueva-compania-licenciataria-de-las-estaciones-de-servicio-shell
-- https://energiaynegocios.com.ar/mercuria-energy-group-anuncio-que-signar-energy-sera-la-nueva-licenciataria-de-las-estaciones-de-servicio-shell-en-argentina
-
-#### 2. Brazil: Petrobras posts output record, exports 987,000 barrels daily
-
-Petrobras reached record average production of 3.51 million barrels of oil equivalent per day (boe/d) in the third quarter, up 11.7% year-on-year, according to its report cited by Valor Economico. The volume includes oil, natural gas liquids and gas; production in Brazil totaled 3.483 million boe/d, up 11.8% year-on-year.
-
-Oil and natural gas liquids produced in Brazil totaled 2.83 million barrels daily, up 12.4% year-on-year; gas reached 651,000 boe/d, an increase of 9.6%. Petrobras attributed the record to rising output from P-78 and P-79 at Búzios, peak production at the Alexandre de Gusmão platform in Mero—both fields in the Santos Basin—and lower maintenance-related losses.
-
-Crude exports totaled 987,000 barrels daily during the quarter, an increase of 21.3%; Valor Economico does not specify the comparison period. Refinery utilization was 99%. Folha de S.Paulo reported record diesel production, aimed at avoiding imports made more expensive by the war in Iran.
-
-Exposure: Energy, Logistics, Commodities · higher production and operational availability → greater crude exports and diesel output → crude freight demand and diesel import requirements · Crude export volumes, Diesel import requirements, Refinery utilization, Oil and gas production  
-**Aldra assessment** (confidence: moderate, direction: improving). Higher extraction and crude shipments expand available flows for buyers and charterers. Record diesel production could reduce the need for expensive imports, but the sources do not quantify that substitution.
-
-**What to watch.** Petrobras’ next production and sales report: whether export volumes and diesel production are sustained.
+**What to watch.** Publication of the full resolution, including its effective date and the new assignment approval procedure.
 
 Sources:
-- https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTHIwN0tCdDdoSTRLOW1XM3RuamJmWlUwTXBuc3dZMUVUZUFVTlJQR2d2Z0c0ZzVhQVh3ZG1EMTJaZEMtX0ZrdGR0RjlMcnd1Z2RWb2t2N0pvd3BtZW5nWUk2R1o4eWJBaEtuX2ZOVmRGb3o1dTVRS3lZMWZyOGlBbkh5SFZEXzB4eXlHWGJWQ0RsNmJmZEh3bWNLXzNZUG5fSmx5cHo4bGVYOEphbHdLNVlKbm5LdXRWUWxjRXNVbXVwX2xHQVE5NzNZSXVXVEdyOFo2Q2NENEVwd1ZPeE1KWE9KS1F5TnFkRmtoLWQ1N01HUE1nOXoydA?oc=5
-- https://valor.globo.com/empresas/noticia/2026/10/28/petrobras-tem-producao-media-de-oleo-lgn-e-gas-recorde-no-terceiro-trimestre.ghtml
-- https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/petrobras-bate-recorde-de-producao-de-diesel-no-terceiro-trimestre.shtml
+- https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc29aVFY0UDBwOEMwT0lKamowZVdfRVZxSU10anBGRVp4eHJNZEJIS2VYSW41alE4TVRzSUE0eklXS19yQ3dYVmpDZG83SDdta1VnRS1aVHRWOG5URnpERlpETjFZMjBWbVhDTENjYmMtQzliUTFwLUpRY0h0LXJjcUZXV2FlSUhKMlFvdTJOOWdGQjJYbXdsVVpxel9qRE1EdGZzdnJRR3NvUGZ2eDJsdnFqSlN6azJydHBTblI1MVVtaF9PZDFnZQ?oc=5
+- https://petronoticias.com.br/anp-atualiza-regras-para-cessao-de-contratos-abre-consulta-sobre-a-agenda-regulatoria-e-avanca-na-regulamentacao-do-saf
 
-#### 3. Argentina: EconoJournal reports Vista output rose 33%, with 73% of crude exported
+#### 2. Brazil: Petrobras confirms a third oil discovery in the Morpho well
 
-Oil company Vista Energy increased its production in Argentina by 33% year-on-year in the third quarter of 2026 and exported 73% of the crude produced in Vaca Muerta, according to EconoJournal. Citing the company’s results, the outlet put production at 169,000 barrels of oil equivalent per day (boe/d).
+Petrobras confirmed a third oil discovery on October 29 in the Morpho well, in block FZA-M-59 off the coast of Amapá, Brazil. The new oil-bearing interval is in ultradeep waters, at a water depth of 2,886 meters. The discovery follows announcements in August and early October 2026.
 
-Infobae expressed that same figure in barrels of oil per day, rather than equivalents, and reported investment exceeding US$2,300 million over the past twelve months. La Nacion attributed the record to new wells and the acquisition of assets from Equinor, and reported total revenue up 75% year-on-year.
+The company said drilling and geological data acquisition are complete. Operations at the well still need to be closed through the abandonment procedure. The rig will then move to the Potiguar Basin, off Rio Grande do Norte, to begin drilling at the Mãe de Ouro location.
 
-LMNeuquén reported adjusted EBITDA of US$841 million, a year-on-year increase of 78%, and free cash flow of US$334 million.
+Petrobras links exploration of the block, in Brazil's Equatorial Margin, to its strategy of replenishing oil and gas reserves through new exploration frontiers and meeting the country's energy demand.
 
-Exposure: Energy, Logistics, Commodities · higher reported production → large share of crude exported → buyer supply and export logistics exposure · Crude production, Crude export volumes, Export share, Free cash flow  
-**Aldra assessment** (confidence: moderate, direction: unclear). Production growth and the high export share reinforce buyers’ and carriers’ exposure to Vaca Muerta flows. The divergence in units prevents treating the total reported volume as exportable barrels of crude.
+Exposure: Energy · additional oil-bearing interval → stronger exploration evidence → appraisal and capital-allocation decisions · Recoverable resources, Commercial viability, Appraisal spending, Upstream investment allocation  
+**Aldra assessment** (confidence: moderate, direction: improving). The new interval adds geological evidence but does not by itself establish commercial reserves. For investors and suppliers, the development supports exploration; it does not yet establish a development project or additional oil supply.
 
-**What to watch.** Vista’s results report with separate figures for crude production, oil equivalents and exports.
+**What to watch.** A Petrobras assessment quantifying resources and establishing the block's commercial viability.
 
 Sources:
-- https://econojournal.com.ar/oilgas/vista-incremento-un-33-interanual-su-produccion-en-el-tercer-trimestre
-- https://infobae.com/economia/2026/10/28/vista-energy-alcanzo-una-produccion-record-de-169000-barriles-de-petroleo-por-dia-y-exporto-mas-del-70-del-crudo-de-vaca-muerta
-- https://lanacion.com.ar/economia/vista-invirtio-mas-de-us2300-millones-en-vaca-muerta-y-aumento-su-produccion-un-33-nid28102026
-- https://mase.lmneuquen.com/vaca-muerta/vaca-muerta-vista-eleva-su-produccion-un-33-y-exporta-la-mayoria-del-crudo-n1259118
-- https://energiaynegocios.com.ar/vista-energy-3t-incremento-33-su-produccion-utilidad-neta-de-us-293-mm
+- https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSW5ELWFCMUhnd0VDZ3RHM0VTY01fcW1adnZaMU9oUFlnWVRwcFFtN1hjeXJqYWhudmhGYnl3WFhpTWFMRWZ2Q2tXcXIyM2JlbmpDSDRZNGZ6bndSU2pKa3JmOWN0VXhScVRoYUl1eXRDRnFIYlJHdTI4dU5VVTJQWXhkajRiV2NwWjB5YnlfVnBIREpLLWhkOTBySmRXU29mRHNRemFUS1czZXV4SkJGSEw3V3VjbnRJaDJMYk8tNTNYQUt5aHBBeU9LMGVyejY4T19BX3NjUzNPRjJpaFZnUHVTeXB2VVQ3Q01rWnY4SlQxUW9RVHE1c19n?oc=5
+- https://valor.globo.com/empresas/noticia/2026/10/29/petrobras-conclui-perfurao-com-terceira-descoberta-de-petrleo-em-guas-ultraprofundas-do-amap.ghtml
+- https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/petrobras-anuncia-3a-descoberta-de-petroleo-em-poco-na-foz-do-amazonas
+- https://estadao.com.br/economia/negocios/petrobras-conclui-perfuracao-e-confirma-3-descoberta-de-petroleo-na-costa-do-amapa
+- https://petronoticias.com.br/petrobras-anuncia-a-terceira-descoberta-de-oleo-no-poco-morpho-na-bacia-da-foz-do-amazonas
+
+#### 3. Chile: ENAP earns US$1,112 million and posts record production
+
+ENAP, Chile's state-owned company, earned US$1,112 million through September 30, 2026, up 119% from US$506 million in the same period a year earlier, according to La Tercera. The company confirmed the earnings figure and said it reached its highest production levels. La Tercera linked the record earnings to favorable refining prices.
+
+Exposure: Energy · favorable refining prices → higher reported earnings → ENAP financial performance · Refining margins, Production volumes, Profitability  
+
+**What to watch.** ENAP's detailed results showing production volumes and refining margins.
+
+Sources:
+- https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlRLcHViYUFUV21MUkhvU0pIU3BtUjNNaUxhU2RlelhrOHZQQlk4ZU5vZTRZVXBCYVdKNnhEVnVXM3RYTkJPZTRyOVNGMVNXZU5Hckw4c29yN1lIcUh2S0RySlVUM0lMMjlsZzZycllMOHlhRnFHcXRmOGtLc2lFSWtWOHQwY0F4Y3RMQjVLeXo3YlZjVm13WDB2TkVaU0VFUkpYOVZZdGF3dDlJLXN0Z3FqcHlKWVRmc0FSczNRbw?oc=5
+- https://latercera.com/pulso/noticia/enap-alcanza-ganancias-record-al-tercer-trimestre-ante-favorables-precios-de-refinacion
 
 ### Other developments
 
-#### 4. Argentina: Energía & Negocios reports second Profertil plant project
+#### 4. Argentina: Clarín puts the first VMOS oil exports in March
 
-In Argentina, Mariano Bosch, co-founder and CEO of Adecoagro, highlighted an estimated USD 1,700 million project for a second Profertil plant in Bahía Blanca, according to Energía & Negocios. It comprises an integrated ammonia and granulated urea production train. Bosch said it would more than double urea output and linked its competitiveness to Vaca Muerta gas. The report does not specify a final investment decision or construction schedule.
+With the first phase of Vaca Muerta Oil Sur (VMOS) still under construction in Argentina, Clarín puts the start of exports in March 2027 and says that phase is nearing the end of construction. The project includes a pipeline and coastal terminals; the outlet puts expected exports at more than US$5 billion from 2027.
 
-Exposure: Energy, Agriculture · proposed fertilizer plant → potential industrial gas offtake → gas supply contracting opportunities · Investment decision, Gas offtake commitments, Construction schedule, Urea production capacity  
-**Aldra assessment** (confidence: moderate, direction: unclear). The project offers a potential industrial outlet for Vaca Muerta gas, not firm demand. For gas suppliers, the material change would be an investment decision accompanied by supply contracts.
+LMNeuquén reports more than 85% progress at the Punta Colorada terminal, which is preparing to receive Vaca Muerta crude and export it in 2027. EconoJournal describes a buried pipeline running 437 kilometers from the Allen head station to the Punta Colorada site. The pipeline arrives from the north and emerges at the scraper trap, at the start of the terminal circuit.
 
-**What to watch.** An investment decision and gas supply contracts for Profertil's second plant.
+Exposure: Energy, Infrastructure, Logistics · pipeline and terminal construction progress → integrated system commissioning → additional crude export access · Commissioning timeline, First export loading, Crude export capacity, Market access  
+**Aldra assessment** (confidence: moderate, direction: improving). For producers and exporters, improved market access depends on the pipeline and terminal entering service as one system. Reported construction progress brings that possibility closer but does not yet establish operating capacity or a first loading.
 
-Sources:
-- https://energiaynegocios.com.ar/profertil-bosch-inversion-para-duplicar-produccion-y-exportar
-
-#### 5. Colombia: Infobae says government proposes shifting transport funds to electricity
-
-Colombia's government proposes allocating 1.2 trillion to the electricity sector through a budget amendment, according to Infobae; the source does not identify the currency. Of that amount, 750 billion would come from rescheduling transport investment. This is a budget proposal: the report does not state that it has been approved or identify the affected transport allocations or electricity-sector beneficiaries.
-
-Exposure: Energy, Infrastructure, Sovereign finance · proposed budget amendment → transport investment reprogramming → potential electricity-sector funding · Budget approval, Transport investment allocations, Electricity funding beneficiaries, Disbursement timing  
-**Aldra assessment** (confidence: moderate, direction: unclear). The electricity allocation does not establish a net spending increase, because part would come from transport. Without budget lines or beneficiaries, the effect cannot yet be assigned to specific projects.
-
-**What to watch.** Approval of the budget amendment detailing transport allocations and electricity-sector beneficiaries.
+**What to watch.** Confirmation of the first export cargo loaded through the Punta Colorada terminal.
 
 Sources:
-- https://infobae.com/colombia/2026/10/28/asi-fue-el-pacto-entre-gustavo-petro-y-carlos-fernando-galan-para-reducir-los-recursos-destinados-al-metro-de-bogota-y-la-calle-13-hay-controversia
+- https://clarin.com/economia/termina-mayor-obra-infraestructura-petroleo-oleoducto-vaca-muerta-sur-permitira-exportaciones-us-5000-millones-2027_0_LbRHCnQXfU.html
+- https://econojournal.com.ar/oilgas/vaca-muerta-oil-sur-el-camino-del-petroleo-del-oleoducto-a-las-monoboyas
+- https://mase.lmneuquen.com/provincia/entramos-al-corazon-del-vmos-asi-avanza-la-obra-energetica-mas-importante-argentina-n1259230
 
-#### 6. Argentina: EconoJournal reports government allows more thermal power contracting
+#### 5. Venezuela: interim president Delcy Rodríguez reviews assets, Valor Economico reports
 
-According to EconoJournal, Argentina’s government authorized generators operating existing thermal power plants to increase the volume of electricity they can contract with industrial customers and large users starting next year. The measure aims to contain the increase in electricity costs facing the industrial sector during the winter of 2027.
+According to Valor Economico, Venezuela's interim president Delcy Rodríguez ordered a review of non-essential state assets for possible offers to the private sector or returns to former owners. She said the process was advanced but did not detail how it would proceed. In April she appointed a commission to audit assets, including energy, electricity and mining infrastructure. The outlet says nationalizations generated more than a dozen international arbitration cases, most still unresolved.
 
-Exposure: Energy · Higher permitted contracting volumes → Industrial electricity procurement options → Winter electricity costs · Industrial electricity contract availability, Winter electricity costs  
+Exposure: Energy, Infrastructure, Mining · state-asset review → possible private-sector offers or ownership restitution → investor access and capital allocation · private-sector access, asset ownership, transfer conditions, project investment  
+**Aldra assessment** (confidence: moderate, direction: unclear). The announcement points toward wider private-sector access, but does not establish completed transfers or entry conditions. For energy and infrastructure investors, its scope depends on the asset list and the treatment of pending arbitration cases.
 
-**What to watch.** An official rule specifying the permitted volumes and implementation date.
-
-Sources:
-- https://econojournal.com.ar/energia/gobierno-costo-de-la-electricidad-para-las-industrias
-
-#### 7. Argentina: oil company YPF reports US$2,503 million in adjusted EBITDA
-
-YPF, the Argentine oil company, reported adjusted EBITDA of US$2,503 million in the third quarter of 2026, up 84% from a year earlier, according to Energía & Negocios. Net income was close to US$1,200 million. LMNeuquén reported shale production of 245,000 barrels daily, growth of 32%, and a target of 250,000 barrels daily.
-
-La Nacion reported that YPF outlined a US$44,000 million investment plan for five areas to be developed with its partners, through three RIGI submissions it will make shortly. This is an announced plan, not executed investment.
-
-Infobae noted progress on the VMOS pipeline and the acquisition of YPF Luz. Clarín linked profitability to higher oil prices driven by the war in the Middle East; Energía & Negocios highlighted growing shale production and lower costs.
-
-Exposure: Energy · higher shale production and oil prices → stronger reported earnings → potential investment capacity · Shale production, Adjusted EBITDA, RIGI project submissions, Investment execution  
-**Aldra assessment** (confidence: moderate, direction: improving). Improved earnings do not by themselves establish that the investment plan is financed. For partners and suppliers, the decisive signal is the transition from announcements to RIGI project submissions and execution.
-
-**What to watch.** Formal submission of YPF’s projects to RIGI and documentation of its investment plan.
+**What to watch.** Official publication of the assets to be offered or returned and the transfer conditions.
 
 Sources:
-- https://energiaynegocios.com.ar/ypf-3t-utilidad-neta-de-us-1-200-mm-la-produccion-crecio-32-i-a
-- https://mase.lmneuquen.com/empresas/ypf-gano-us1200-millones-y-su-produccion-shale-ya-llega-245000-barriles-diarios-n1259115
-- https://lanacion.com.ar/economia/ypf-reporto-un-record-de-produccion-y-anuncio-cinco-nuevos-proyectos-por-una-cifra-millonaria-nid28102026
-- https://infobae.com/economia/2026/10/28/ypf-informo-ganancias-operativas-de-usd-2503-millones-en-el-tercer-trimestre-del-ano
-- https://clarin.com/economia/primeros-meses-ano-ypf-logro-rentabilidad-alta-historia_0_BiOhnpmfYj.html
+- https://valor.globo.com/mundo/noticia/2026/10/29/delcy-diz-que-venezuela-vai-oferecer-ativos-estatais-ao-setor-privado.ghtml
+- https://energiaadebate.com/venezuela-ofrecera-activos-estatales-no-esenciales-a-privados-dice-delcy-rodriguez

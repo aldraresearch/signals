@@ -1,0 +1,199 @@
+{
+  "schema_version": 2,
+  "product": "LATAM",
+  "date": "2026-11-02",
+  "kind": "fallback",
+  "sectors": [
+    "energy",
+    "logistics",
+    "sovereign_finance"
+  ],
+  "themes": [
+    "regulation",
+    "macro",
+    "geopolitics"
+  ],
+  "published_at": "2026-11-02T07:32:31.369Z",
+  "web_url": "https://aldraresearch.com/sitreps/latam-2026-11-02",
+  "headline": {
+    "en": "Brazil’s fiscal council Confaz will raise diesel ICMS by 11.1% from February 2027, according to Valor Economico.",
+    "es": "Según Valor Economico, el consejo fiscal Confaz de Brasil elevará un 11,1% el ICMS del diésel desde febrero de 2027."
+  },
+  "summary": {
+    "en": "According to Valor Economico, Brazil’s fiscal council Confaz approved raising diesel ICMS from R$ 1.17 to R$ 1.30 per litre from February 1, 2027; the 11.1% increase applies to the tax, not the final price. In Mexico, finance secretary Amador Zamora ruled out P-Caps support for state oil company Pemex in 2027, according to El Economista, which reported losses for a third consecutive year. For creditors and suppliers, replacement financing remains unresolved. Valor Economico also reported that the dollar closed the week at R$ 5.44 in Brazil, up 9.04% from the last week before the electoral period, while fiscal adjustment remains under debate. A weaker real raises the local-currency cost of dollar-denominated obligations and equipment for energy projects.",
+    "es": "Según Valor Economico, el consejo fiscal Confaz de Brasil aprobó subir el ICMS del diésel de R$ 1,17 a R$ 1,30 por litro desde el 1 de febrero de 2027; el 11,1% corresponde al impuesto, no al precio final. En México, el secretario de Hacienda, Amador Zamora, descartó usar P-Caps para apoyar a la petrolera estatal Pemex en 2027, según El Economista, que reportó pérdidas por tercer año consecutivo. Para acreedores y proveedores, sigue abierta la financiación que sustituiría ese instrumento. Valor Economico reportó además que el dólar cerró la semana en R$ 5,44 en Brasil, un 9,04% más que en la última semana previa al período electoral, mientras sigue en debate el ajuste fiscal. Un real más débil encarece obligaciones y equipos en dólares para proyectos energéticos."
+  },
+  "stories": [
+    {
+      "id": "latam-2026-11-02-41cb95001c",
+      "status": "CLAIM",
+      "tier": "brief",
+      "heading": {
+        "en": "Brazil: Confaz to raise diesel ICMS 11.1%, according to Valor Economico",
+        "es": "Brasil: según Valor Economico, Confaz elevará 11,1% el ICMS del diésel"
+      },
+      "text": {
+        "en": "According to Valor Economico, Brazil's Conselho Nacional de Política Fazendária (Confaz), which brings together state and Federal District finance or taxation secretaries, unanimously approved raising diesel ICMS from R$ 1.17 to R$ 1.30 per litre, an 11.1% increase, from February 1, 2027. The decision also adjusts fixed rates on gasoline and cooking gas. Confaz linked the update to instability in international petroleum-product prices.",
+        "es": "Según Valor Economico, el Conselho Nacional de Política Fazendária (Confaz) de Brasil, que reúne a los responsables fiscales de los estados y del Distrito Federal, aprobó por unanimidad elevar el ICMS del diésel de R$ 1,17 a R$ 1,30 por litro, un 11,1%, desde el 1 de febrero de 2027. La decisión también ajusta las tasas fijas sobre gasolina y gas de cocina. Confaz vinculó la actualización con la inestabilidad de los precios internacionales de los derivados del petróleo."
+      },
+      "exposure": {
+        "sectors": [
+          "energy",
+          "logistics"
+        ],
+        "assets_or_markets": [
+          "Brazilian diesel",
+          "Road-transport fuel costs",
+          "Fuel-consuming energy operations"
+        ],
+        "transmission_path": [
+          "Higher fixed diesel tax",
+          "Larger fiscal component in fuel costs",
+          "Potential pressure on operating and freight costs"
+        ],
+        "variables": [
+          "Diesel tax per litre",
+          "Retail diesel prices",
+          "Road freight costs"
+        ]
+      },
+      "assessment": {
+        "confidence": "moderate",
+        "direction": "deteriorating",
+        "text": {
+          "en": "The 11.1% increase applies to the tax per litre, not an equivalent rise in the final price. For operators and hauliers, the mechanism is a larger tax component in diesel costs; pump-price pass-through is not quantified.",
+          "es": "El 11,1% corresponde al impuesto por litro, no a una suba equivalente del precio final. Para operadores y transportistas, el mecanismo es un mayor componente fiscal del costo del diésel; el traslado al surtidor no está cuantificado."
+        }
+      },
+      "watch": {
+        "en": "Implementation of the new fuel ICMS rates on February 1, 2027.",
+        "es": "La aplicación de las nuevas tasas del ICMS a los combustibles el 1 de febrero de 2027."
+      },
+      "sources": [
+        "https://valor.globo.com/politica/noticia/2026/11/01/boulos-e-tarcsio-trocam-ataques-por-alta-prevista-no-preo-do-diesel.ghtml"
+      ],
+      "countries": [
+        "BR"
+      ],
+      "story_class": "structural"
+    },
+    {
+      "id": "latam-2026-11-02-3f29bf8074",
+      "status": "CLAIM",
+      "tier": "brief",
+      "heading": {
+        "en": "Mexico: Treasury rules out more Pemex P-Caps, El Economista reports",
+        "es": "México: según El Economista, Hacienda descarta más P-Caps para Pemex"
+      },
+      "text": {
+        "en": "According to El Economista, Amador Zamora, Mexico's finance secretary, ruled out using Pre-Capitalized Notes (P-Caps) again next year to support Pemex, Mexico's state oil company. The newspaper also reported that the company ended the first three quarters with losses for a third consecutive year and remained far from its Strategic Plan's hydrocarbon-production and crude-processing targets, despite expensive crude.",
+        "es": "Según El Economista, Amador Zamora, secretario de Hacienda de México, descartó volver a usar el próximo año las Notas Precapitalizadas (P-Caps) para apoyar a Pemex, la petrolera estatal mexicana. El diario también reportó que la empresa cerró los primeros tres trimestres con pérdidas por tercer año consecutivo y lejos de las metas de producción de hidrocarburos y proceso de crudo de su Plan Estratégico, pese al crudo caro."
+      },
+      "exposure": {
+        "sectors": [
+          "energy",
+          "sovereign_finance"
+        ],
+        "assets_or_markets": [
+          "Pemex financing",
+          "Pemex creditors and suppliers",
+          "Mexican sovereign support to Pemex"
+        ],
+        "transmission_path": [
+          "P-Caps ruled out for next year",
+          "Future support instruments unresolved",
+          "Uncertainty over financing for a loss-making operator"
+        ],
+        "variables": [
+          "Government financial support",
+          "Pemex financing availability",
+          "Pemex cash flow",
+          "Production and refining target shortfalls"
+        ]
+      },
+      "assessment": {
+        "confidence": "moderate",
+        "direction": "unclear",
+        "text": {
+          "en": "Ruling out this instrument does not amount to withdrawing all state support. For Pemex's creditors and suppliers, the financing that would replace P-Caps remains unresolved while losses and shortfalls against operating targets persist.",
+          "es": "Descartar este instrumento no equivale a retirar todo el apoyo estatal. Para acreedores y proveedores de Pemex, queda abierta la financiación que sustituiría a las P-Caps mientras persisten pérdidas y desvíos de las metas operativas."
+        }
+      },
+      "watch": {
+        "en": "A Treasury announcement specifying financial-support instruments for Pemex next year.",
+        "es": "Un anuncio de Hacienda sobre los instrumentos de apoyo financiero a Pemex para el próximo año."
+      },
+      "sources": [
+        "https://eleconomista.com.mx/economia/descartan-p-caps-pemex-20261102-841674.html",
+        "https://eleconomista.com.mx/empresas/pemex-cierra-septiembre-perdida-pese-crudo-caro-20261102-841670.html"
+      ],
+      "countries": [
+        "MX"
+      ],
+      "story_class": "structural"
+    },
+    {
+      "id": "latam-2026-11-02-2d00c0ba0f",
+      "status": "CLAIM",
+      "tier": "brief",
+      "heading": {
+        "en": "Brazil: dollar closes at R$ 5.44, according to Valor Economico",
+        "es": "Brasil: según Valor Economico, el dólar cierra en R$ 5,44"
+      },
+      "text": {
+        "en": "With fiscal adjustment still under debate in Brazil's government, Valor Economico reported that the dollar closed the week at R$ 5.44, up 9.04% from the last week before the electoral period. It described this as the largest weekly increase since the 2008 crisis. The outlet reports resistance to structural spending-control measures over concerns about contradicting campaign promises.",
+        "es": "Con el ajuste fiscal aún en debate en el Gobierno de Brasil, Valor Economico reportó que el dólar cerró la semana en R$ 5,44, un alza del 9,04% frente a la última semana anterior al período electoral. Lo describió como el mayor aumento semanal desde la crisis de 2008. El medio señala resistencias a medidas estructurales de control del gasto por temor a contradecir las promesas de campaña."
+      },
+      "exposure": {
+        "sectors": [
+          "sovereign_finance",
+          "energy"
+        ],
+        "assets_or_markets": [
+          "Brazilian real",
+          "Brazilian energy-project financing",
+          "Dollar-priced equipment imports"
+        ],
+        "transmission_path": [
+          "Real weakens against the dollar",
+          "Local-currency cost of dollar obligations and equipment rises",
+          "Pressure on energy-project funding needs"
+        ],
+        "variables": [
+          "BRL/USD exchange rate",
+          "Imported equipment costs",
+          "Local-currency debt-service costs",
+          "Energy-project financing costs"
+        ]
+      },
+      "assessment": {
+        "confidence": "moderate",
+        "direction": "deteriorating",
+        "text": {
+          "en": "A weaker real raises the local-currency cost of dollar-denominated obligations and equipment. That is the immediate exposure channel for energy projects; the exchange-rate move alone does not demonstrate a loss of credit access.",
+          "es": "Un real más débil encarece en moneda local las obligaciones y equipos cotizados en dólares. Para los proyectos energéticos, ese es el canal inmediato de exposición; el movimiento cambiario no demuestra por sí solo una pérdida de acceso al crédito."
+        }
+      },
+      "watch": {
+        "en": "An announcement of structural spending-control measures by Brazil's government.",
+        "es": "El anuncio de medidas estructurales de control del gasto por el Gobierno de Brasil."
+      },
+      "sources": [
+        "https://valor.globo.com/brasil/noticia/2026/11/01/frustracao-do-mercado-com-ajuste-fiscal-de-2024-soa-alerta-na-equipe-economica.ghtml"
+      ],
+      "countries": [
+        "BR"
+      ],
+      "story_class": "data"
+    }
+  ],
+  "tracking": [],
+  "context": {
+    "text": {
+      "en": "According to ISW, UKMTO reported that an unidentified projectile struck a vessel in the Strait of Hormuz on November 1; without damage or restriction details, this does not establish a closure. Oilprice reported a 3% crude decline, with Brent at $109.82 and WTI at $100.57 a barrel, attributed to expectations of a possible US-Iran agreement, not an announced pact. Unidad Editorial reported that strategic-reserve volumes began flowing to the market following the G7 commitment to release 100 million barrels of oil and diesel over four months, without quantifying actual deliveries.",
+      "es": "Según ISW, UKMTO reportó que un proyectil no identificado alcanzó un buque en el estrecho de Ormuz el 1 de noviembre; sin datos de daños o restricciones, no puede inferirse un cierre. Oilprice reportó una caída del crudo del 3%, con el Brent en USD 109,82 y el WTI en USD 100,57 por barril, atribuida a expectativas de un posible acuerdo entre Estados Unidos e Irán, no a un pacto anunciado. Unidad Editorial informó que comenzaron a fluir al mercado volúmenes de reservas estratégicas tras el compromiso del G7 de liberar 100 millones de barriles de petróleo y diésel en cuatro meses, sin cuantificar las entregas efectivas."
+    }
+  },
+  "content_hash": "ffe48591891e7590a71bedb556d9f33e7e40e94ff8316229025b467391333b97",
+  "license": "CC-BY-4.0"
+}
